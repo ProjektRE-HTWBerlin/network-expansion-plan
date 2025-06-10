@@ -12,6 +12,7 @@ import html
 import matplotlib.pyplot as plt
 import time
 
+
 os.environ['SSL_CERT_FILE'] = certifi.where()
 
 def is_invalid(value):

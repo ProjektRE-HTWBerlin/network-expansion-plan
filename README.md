@@ -27,14 +27,14 @@ Zusätzlich werden nach VNB sortierte CSV-Dateien erzeugt.
 *The maps are saved as HTML files in the project directory.  
 CSV files sorted by DSO (VNB) are also generated.*
 
-### PRE_Plots.py  
+### FWA_Plots.py  
 Erstellt statistische Auswertungen und Plots aus den Netzausbaudaten bzw. aus `output_geokodiert`.  
 *Creates statistical evaluations and plots from the network-expansion data or from `output_geokodiert`.*
 
 **Ausführung / Execution**
 
 ```bash
-python network_expansion_plan/PRE_Plots.py
+python network_expansion_plan/FWA_Plots.py
 ```
 
 ---
@@ -45,7 +45,7 @@ python network_expansion_plan/PRE_Plots.py
 ```
 network_expansion_plan/
 ├── Foliumwebapp.py        Interaktive Karten und Geokodierung
-├── PRE_Plots.py           Statistische Auswertungen und Plots
+├── FWA_Plots.py           Statistische Auswertungen und Plots
 docs/                      Projektdokumentation
 vnb_csv/                   Exportierte CSV-Dateien pro VNB
 2_deutschland.geo.json     GeoJSON mit Bundesländern
@@ -54,7 +54,7 @@ geokodiert_VNB.xlsx        Beispiel-Eingabedatei
 
 *Legend*  
 `Foliumwebapp.py` – Interactive maps & geocoding  
-`PRE_Plots.py` – Statistical evaluations & plots  
+`FWA_Plots.py` – Statistical evaluations & plots  
 `docs/` – Project documentation  
 `vnb_csv/` – Exported CSV files per DSO  
 `2_deutschland.geo.json` – GeoJSON of German federal states  
@@ -86,7 +86,7 @@ Unterstützt Layer für Kosten, Übertragungskapazität und Leitungslänge.
 *Main function for geocoding, data validation and map creation.  
 Supports layers for costs, transmission capacity and line length.*
 
-### PRE_Plots.py  
+### FWA_Plots.py  
 Erzeugung von Balkendiagrammen, Tree Map und Tabellen  
 *Generates bar charts, a treemap and tables*
 

@@ -7,8 +7,8 @@
 ### Usage  
 **Vor Programmstart**  
 **Before program start**  
-Legen Sie die GeoJSON- und Excel-Datei (z.&nbsp;B. `geokodiert_VNB.xlsx`) lokal im Projektverzeichnis ab.  
-*Place the GeoJSON and Excel file (e.g. `geokodiert_VNB.xlsx`) locally in the project directory.*
+Legen Sie die GeoJSON- und Excel-Datei (z.&nbsp;B. `geokodiert_zugestimmt.xlsx`) lokal im Projektverzeichnis ab.  
+*Place the GeoJSON and Excel file (e.g. `geokodiert_zugestimmt.xlsx`) locally in the project directory.*
 
 ### Foliumwebapp.py  
 Startet die Geokodierung der Tabelle im vorgegebenen Format und erzeugt die Dateien `output_fail` und `output_geokodiert`.  
@@ -58,7 +58,7 @@ geokodiert_VNB.xlsx        Beispiel-Eingabedatei
 `docs/` – Project documentation  
 `vnb_csv/` – Exported CSV files per DSO  
 `2_deutschland.geo.json` – GeoJSON of German federal states  
-`geokodiert_VNB.xlsx` – Sample input file  
+`geokodiert_zugestimmt.xlsx` – Sample input file  
 
 ---
 

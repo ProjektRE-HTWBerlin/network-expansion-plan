@@ -1,3 +1,4 @@
+# Importiert notwendige Bibliotheken für Datenverarbeitung, Geokodierung, Mapping und Visualisierung
 import os
 import re
 import certifi
@@ -14,14 +15,19 @@ import matplotlib.pyplot as plt
 import time
 import json
 
+# Stellt sicher, dass das SSL-Zertifikat korrekt gesetzt ist
 os.environ['SSL_CERT_FILE'] = certifi.where()
 
+
+# Prüft, ob ein Wert ungültig ist (leer, "k.A.", etc.)
 def is_invalid(value):
     if pd.isna(value):
         return True
     value = str(value).strip().lower()
     return value in ['', 'nan', 'k.a.', 'k.a', 'ka', 'none']
 
+
+# Konvertiert Werte zu Float und behandelt ungültige Einträge
 def to_number(val):
     try:
         if is_invalid(val):
@@ -30,12 +36,16 @@ def to_number(val):
     except Exception:
         return 0.0
 
+
+# Erstellt eine Adresse für die Geokodierung (Ort oder Bundesland)
 def geocode_address(row, geocode):
     if not is_invalid(row.get('Ort / Trasse', None)):
         return geocode(f"{row['Ort / Trasse']}, Deutschland")
     else:
         return geocode(f"{row['Bundesland']}, Deutschland")
 
+
+# Lädt Excel-Datei und ergänzt Latitude/Longitude durch Geokodierung
 def load_and_geocode(input_excel, geocode):
     df = pd.read_excel(input_excel)
     num_cols = ['Leitungslänge in km', 'Übertragungskapazität in MVA', 'Kosten in Mio.€']
@@ -51,6 +61,7 @@ def load_and_geocode(input_excel, geocode):
         df['longitude'] = pd.to_numeric(df['longitude'], errors='coerce')
     return df
 
+# Fügt einen Toggle-Button hinzu, um alle VNBs anzuzeigen oder auszublenden
 def add_toggle_all_button(map_object):
     toggle_script = """
     <script>
@@ -70,21 +81,24 @@ def add_toggle_all_button(map_object):
     """
     map_object.get_root().html.add_child(folium.Element(toggle_script))
 
+# Erzeugt einen sicheren Dateinamen aus einem gegebenen VNB-Namen
 def safe_filename(name):
     # Erlaubt nur Buchstaben, Zahlen, Unterstrich, Punkt und Bindestrich
     return re.sub(r'[^A-Za-z0-9_.-]', '_', name)
 
+# Hauptfunktion, die die Geokodierung und Kartenerstellung durchführt
 def geocode_and_map(
-    input_excel: str,
-    input_excel2: str = None,
-    output_excel: str = "output_geokodiert.xlsx",
-    output_failure: str = "output_failure.xlsx",
-    output_map: str = "interaktive_karte_kosten.html",
-    bundesland_geojson: str = "2_deutschland.geo.json"
+        input_excel: str,
+        input_excel2: str = None,
+        output_excel: str = "output_geokodiert.xlsx",
+        output_failure: str = "output_failure.xlsx",
+        output_map: str = "interaktive_karte_kosten.html",
+        bundesland_geojson: str = "2_deutschland.geo.json"
 ):
     geolocator = Nominatim(user_agent="geo_map_app", timeout=60)
     geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1, max_retries=3)
 
+# Lädt die Excel-Datei und führt die Geokodierung durch
     df1 = load_and_geocode(input_excel, geocode)
     if input_excel2:
         df2 = load_and_geocode(input_excel2, geocode)
@@ -92,6 +106,7 @@ def geocode_and_map(
     else:
         df = df1
 
+# GeoDataFrame erstellen und Geometrie hinzufügen
     gdf = gpd.GeoDataFrame(
         df,
         geometry=[
@@ -101,26 +116,31 @@ def geocode_and_map(
         crs="EPSG:4326"
     )
 
+# Bundesland Polygon-Daten laden und mit den Geodaten verbinden
     bundeslaender_gdf = gpd.read_file(bundesland_geojson, encoding='utf-8')[['name', 'geometry']]
 
     gdf = gpd.sjoin(gdf, bundeslaender_gdf, how='left', predicate='within')
     gdf['passt'] = gdf['name'] == gdf['Bundesland']
-    df_valid = gdf[gdf['passt']].drop(columns=['geometry','index_right','name'], errors='ignore')
-    df_invalid = gdf[~gdf['passt']].drop(columns=['geometry','index_right','name'], errors='ignore')
+    df_valid = gdf[gdf['passt']].drop(columns=['geometry', 'index_right', 'name'], errors='ignore')
+    df_invalid = gdf[~gdf['passt']].drop(columns=['geometry', 'index_right', 'name'], errors='ignore')
 
+# Ergebnisse in Excel-Dateien speichern
     df_valid.to_excel(output_excel, index=False)
     df_invalid.to_excel(output_failure, index=False)
 
+# Aggregation der Daten nach Bundesland
     if df_valid.empty or 'Bundesland' not in df_valid.columns:
-        df_bundesland = pd.DataFrame(columns=['Bundesland','Leitungslänge in km','Übertragungskapazität in MVA','Kosten in Mio.€'])
+        df_bundesland = pd.DataFrame(
+            columns=['Bundesland', 'Leitungslänge in km', 'Übertragungskapazität in MVA', 'Kosten in Mio.€'])
     else:
         df_bundesland = (
             df_valid
-            .groupby('Bundesland')[['Leitungslänge in km','Übertragungskapazität in MVA','Kosten in Mio.€']]
+            .groupby('Bundesland')[['Leitungslänge in km', 'Übertragungskapazität in MVA', 'Kosten in Mio.€']]
             .sum()
             .reset_index()
         )
 
+# Karte erstellen und die Bundesländer als Choropleth-Layer hinzufügen
     def create_map(choropleth_col, fill_color, output_map):
         karte = folium.Map(location=[51.0, 10.0], zoom_start=6, tiles="OpenStreetMap")
         # Choropleth-Layer NICHT im LayerControl anzeigen (control=False)
@@ -137,9 +157,11 @@ def geocode_and_map(
             control=False
         ).add_to(karte)
 
+        # Bundesland-Statistiken für Popups vorbereiten
         bundesland_stats = df_bundesland.set_index('Bundesland').to_dict(orient='index')
         def style_function(feature):
             return {'fillOpacity': 0, 'weight': 0}
+
         def popup_function(feature):
             name = feature['properties']['name']
             stats = bundesland_stats.get(name)
@@ -153,6 +175,7 @@ def geocode_and_map(
                 )
             else:
                 return folium.Popup(f"<b>{name}</b><br>Keine Daten", max_width=200)
+
         with open(bundesland_geojson, encoding='utf-8') as f:
             geojson_data = json.load(f)
         for feature in geojson_data['features']:
@@ -166,16 +189,17 @@ def geocode_and_map(
                 control=False
             ).add_to(karte)
 
+        # VNBs als CircleMarker hinzufügen
         vnb_names = df_valid['VNB-Name'].unique()
         cmap = plt.get_cmap('tab20')
         vnb_color_map = {
-            name: f'#{int(255*r):02x}{int(255*g):02x}{int(255*b):02x}'
-            for name, (r,g,b,_) in zip(vnb_names, cmap(np.linspace(0,1,len(vnb_names))))
+            name: f'#{int(255 * r):02x}{int(255 * g):02x}{int(255 * b):02x}'
+            for name, (r, g, b, _) in zip(vnb_names, cmap(np.linspace(0, 1, len(vnb_names))))
         }
         popup_order = [
-            'Bundesland','Ort / Trasse','Netzebene','Art der Maßnahme','Netzkomponente',
-            'Projektstatus','Zeithorizont','Leitungslänge in km',
-            'Übertragungskapazität in MVA','Kosten in Mio.€','VNB-Name','latitude','longitude'
+            'Bundesland', 'Ort / Trasse', 'Netzebene', 'Art der Maßnahme', 'Netzkomponente',
+            'Projektstatus', 'Zeithorizont', 'Leitungslänge in km',
+            'Übertragungskapazität in MVA', 'Kosten in Mio.€', 'VNB-Name', 'latitude', 'longitude'
         ]
 
         # CSV-Ordner anlegen
@@ -252,20 +276,21 @@ def geocode_and_map(
         folium.LayerControl(collapsed=True).add_to(karte)
         add_toggle_all_button(karte)
         karte.save(output_map)
-
+# Karten für verschiedene Kennzahlen erstellen
     create_map("Kosten in Mio.€", "YlOrRd", "interaktive_karte_kosten.html")
     create_map("Übertragungskapazität in MVA", "Blues", "interaktive_karte_uebertragung.html")
     create_map("Leitungslänge in km", "Greens", "interaktive_karte_leitung.html")
-
+# Abschlussausgaben
     print(f"✔️ Geokodierte Datei: {output_excel}")
     print(f"✔️ Fehlerdatei: {output_failure}")
     print(f"✔️ Interaktive Karte (Kosten): interaktive_karte_kosten.html")
     print(f"✔️ Interaktive Karte (Übertragung): interaktive_karte_uebertragung.html")
     print(f"✔️ Interaktive Karte (Leitung): interaktive_karte_leitung.html")
 
+# Zeitmessung, Ausführung der Hauptfunktion und Eingabe Dateipfad
 if __name__ == "__main__":
     start = time.time()
-    geocode_and_map("Bsp.: /Users/user/PycharmProjects/PythonProject/geokodiert_zugestimmt.xlsx")
+    geocode_and_map("Bsp.: /Users/user/PycharmProjects/PythonProject/geokodiert_gesamt.xlsx")
     end = time.time()
     mins, secs = divmod(int(end - start), 60)
     print(f"⏱️ Laufzeit: {mins:02d}:{secs:02d} Minuten:Sekunden")

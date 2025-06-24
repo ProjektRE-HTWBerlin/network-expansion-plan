@@ -53,7 +53,7 @@ making automated or direct comparison across DSOs difficult.
 
 ---
 
-##️ Datenaufbereitung / Data Preparation
+## Datenaufbereitung / Data Preparation
 
 **DE:**  
 Da die vorliegenden Netzausbaupläne ausschließlich im PDF-Format veröffentlicht wurden und somit nicht maschinenlesbar waren, 
@@ -167,6 +167,7 @@ Nevertheless, all entries with precise location information are also included in
 
 The completed map includes a layer selection menu in the top-right corner, allowing users to toggle the visibility of each represented DSO.
 Additionally, the displayed datasets can be grouped by DSO and exported as a CSV file, in case no sorted CSV version exists yet.
+
 ---
 
 ### FWA Plots (Folium Web App Plots)

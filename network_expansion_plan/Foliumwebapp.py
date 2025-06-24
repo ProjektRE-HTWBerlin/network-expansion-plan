@@ -265,7 +265,7 @@ def geocode_and_map(
 
 if __name__ == "__main__":
     start = time.time()
-    geocode_and_map("/Users/maxicolin/PycharmProjects/PythonProject/geokodiert_zugestimmt.xlsx")
+    geocode_and_map("Bsp.: /Users/user/PycharmProjects/PythonProject/geokodiert_zugestimmt.xlsx")
     end = time.time()
     mins, secs = divmod(int(end - start), 60)
     print(f"⏱️ Laufzeit: {mins:02d}:{secs:02d} Minuten:Sekunden")

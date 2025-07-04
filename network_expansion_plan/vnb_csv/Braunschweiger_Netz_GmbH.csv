@@ -1,0 +1,48 @@
+VNB-Name,Teilnetzgebiet,Bundesland,Ort / Trasse,Netzebene,Art der Maßnahme,Leitungslänge in km,Übertragungskapazität in MVA,"Netzkomponenten (z.B. UW,Trafo ;Anzahl/Typ)",Projektstatus,Zeithorizont,Kosten in Mio.€,location,latitude,longitude,passt
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,Niedersachsen,MS,Ertüchtigung Leitungen,5.0,0.0,k.A.,im Bau,2028,1.975,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,Hasenwinkel,HS,Neubau Trafo,0.0,0.0,1,abgeschlossen,2019,0.75,"Hasenwinkel, Niedersachsen, Deutschland",52.3262276,10.8231914,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Trafo,0.0,0.0,1,abgeschlossen,2023,1.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Trafo,0.0,0.0,1,abgeschlossen,2019,0.75,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Trafo,0.0,0.0,1,abgeschlossen,2023,1.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Leitungen,2.05,0.0,k.A.,vorgesehene Maßnahme,2026,6.8,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Leitungen,2.15,0.0,k.A.,abgeschlossen,2022,3.5,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Leitungen,2.34,0.0,k.A.,vorgesehene Maßnahme,2027,7.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Leitungen,2.02,0.0,k.A.,konkrete Planung,2025,6.8,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Ertüchtigung UW,0.0,0.0,1,abgeschlossen,2023,5.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Ertüchtigung UW,0.0,0.0,1,abgeschlossen,2018,0.94,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Trafo,0.0,0.0,1,im Bau,2028,1.7,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Leitungen,2.41,0.0,k.A.,abgeschlossen,2024,4.4,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Leitungen,3.62,0.0,k.A.,vorgesehene Maßnahme,2028,7.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Ertüchtigung Leitungen,2.2,0.0,k.A.,im Bau,2028,0.869,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Neubau Leitungen,7.0,0.0,k.A.,im Bau,2028,2.7645,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Neubau Leitungen,36.0,0.0,k.A.,im Bau,2028,14.22,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,NS,Ertüchtigung Leitungen,11.0,0.0,k.A.,im Bau,2028,3.729,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,NS,Neubau Leitungen,35.0,0.0,k.A.,im Bau,2028,11.865,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,NS,Neubau Leitungen,20.0,0.0,k.A.,im Bau,2028,6.78,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Ertüchtigung UW,0.0,0.0,1,im Bau,2028,6.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Neubau UW,0.0,0.0,1,im Bau,2028,2.016,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Ertüchtigung UW,0.0,0.0,1,im Bau,2028,3.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Trafo,0.0,0.0,1,im Bau,2028,1.7,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Ertüchtigung UW,0.0,0.0,1,konkrete Planung,2030,2.2,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Ertüchtigung UW,0.0,0.0,1,konkrete Planung,2030,2.2,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Kompensationsspule,0.0,0.0,1,konkrete Planung,2027,3.5,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2033,14.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2033,14.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2030,5.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2027,3.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2031,3.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2029,2.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2033,4.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2028,3.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2031,2.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Leitungen,1.69,0.0,k.A.,vorgesehene Maßnahme,2030,6.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Neubau UW,0.0,0.0,1,im Bau,2028,5.76,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2033,12.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2033,2.2,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2045,2.2,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau UW,0.0,0.0,1,abgeschlossen,2017,5.2,"Niedersachsen, Deutschland",52.83985,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2045,2.2,"Niedersachsen, Deutschland",52.83985,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2033,2.2,"Niedersachsen, Deutschland",52.83985,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Trafo,0.0,0.0,1,konkrete Planung,2029,2.2,"Niedersachsen, Deutschland",52.83985,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Trafo,0.0,0.0,1,konkrete Planung,2029,2.2,"Niedersachsen, Deutschland",52.83985,9.075962,True
+Braunschweiger Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2045,2.2,"Niedersachsen, Deutschland",52.83985,9.075962,True

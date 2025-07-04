@@ -1,0 +1,26 @@
+VNB-Name,Teilnetzgebiet,Bundesland,Ort / Trasse,Netzebene,Art der Maßnahme,Leitungslänge in km,Übertragungskapazität in MVA,"Netzkomponenten (z.B. UW,Trafo ;Anzahl/Typ)",Projektstatus,Zeithorizont,Kosten in Mio.€,location,latitude,longitude,passt
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,Kirchhörde,HS/MS,Ertüchtigungen Schaltanlage,0.0,0.0,UW ; 1,in Bau,2025,0.0,"Kirchhörde, Hombruch, Dortmund, Nordrhein-Westfalen, 44229, Deutschland",51.4573699,7.4644199,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,Eving,HS/MS,Ertüchtigungen Schaltanlage,0.0,0.0,UW ; 1,Vorplanung,2027,0.0,"Eving, Dortmund, Nordrhein-Westfalen, 44339, Deutschland",51.5558445,7.476573,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,Dortmund,HS/MS,Ertüchtigungen UW,0.0,0.0,UW ; 1,Vorplanung,2028,0.0,"Dortmund, Nordrhein-Westfalen, Deutschland",51.5142273,7.4652789,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,Gasrusswerke,HS/MS,Neubau UW,0.0,55.0,UW ; 1,Vorplanung,2027,0.0,"KG Deutsche Gasrußwerke, 70-72, Weidenstraße, Lindenhorst, Eving, Dortmund, Nordrhein-Westfalen, 44147, Deutschland",51.5443568,7.4411015,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,Kirchderne,HS/MS,Ertüchtigungen Schaltanlage,0.0,40.0,UW ; 1,Vorplanung,2029,0.0,"Kirchderne, Dortmund, Nordrhein-Westfalen, Deutschland",51.557006,7.5097949,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,Aplerbeck,HS/MS,Ertüchtigungen Schaltanlage,0.0,40.0,UW ; 1,Vorplanung,2034,0.0,"Aplerbeck, Dortmund, Nordrhein-Westfalen, 44287, Deutschland",51.4896852,7.5623082,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,Kronenburgallee,HS/MS,Ertüchtigungen Schaltanlage,0.0,0.0,UW ; 1,Vorplanung,2029,0.0,"Kronenburgallee, Körne, Innenstadt Ost, Dortmund, Nordrhein-Westfalen, 44139, Deutschland",51.5015306,7.4799436,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,Lütgendortmund,HS/MS,Ertüchtigungen Schaltanlage,0.0,0.0,UW ; 1,Vorplanung,2034,0.0,"Lütgendortmund, Dortmund, Nordrhein-Westfalen, 44388, Deutschland",51.4997348,7.3403427,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,k.A.,HS/MS,Neubau Trafo,0.0,160.0,Trafo ; 4,Vorplanung,2034,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,Höchsten-Holzen,MS,Ertüchtigungen Leitungen,8.5,0.0,k.A.,in Bau,2026,0.0,"Kirche auf dem Höchsten, 67, Grenzweg, Sommerberg, Höchsten, Hörde, Dortmund, Nordrhein-Westfalen, 44267, Deutschland",51.4579107,7.523399,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,Huckarde,MS,Ertüchtigungen Leitungen,4.9,0.0,k.A.,in Bau,2026,0.0,"Huckarde, Dortmund, Nordrhein-Westfalen, 44369, Deutschland",51.5317893,7.4156554,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,Holzen-Hörde,MS,Ertüchtigungen Leitungen,10.1,0.0,k.A.,konkrete Planung,2027,0.0,"Holzen, Hörde, Dortmund, Nordrhein-Westfalen, 44267, Deutschland",51.4443251,7.5258922,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,Kirchhörde,MS,Ertüchtigungen Leitungen,4.2,0.0,k.A.,konkrete Planung,2027,0.0,"Kirchhörde, Hombruch, Dortmund, Nordrhein-Westfalen, 44229, Deutschland",51.4573699,7.4644199,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,k.A.,MS,Neubau Leitungen,92.0,0.0,k.A.,Vorplanung,2028,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,k.A.,MS,Neubau Leitungen,18.0,0.0,k.A.,Vorplanung,2028,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,k.A.,MS,Ertüchtigungen Leitungen,31.0,0.0,k.A.,Vorplanung,2028,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,k.A.,MS,Ertüchtigungen Schaltanlage,0.0,0.0,Schaltstation ; k.A.,Vorplanung,2028,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,k.A.,MS/NS,Neubau Trafo,0.0,30.0,UW ; k.A.,Vorplanung,2028,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,k.A.,MS/NS,Neubau Trafo,0.0,10.0,UW ; k.A.,Vorplanung,2028,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,k.A.,MS/NS,Ertüchtigungen UW,0.0,0.0,UW ; k.A.,Vorplanung,2028,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,k.A.,NS,Neubau Leitungen,11.0,0.0,k.A.,Vorplanung,2028,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,k.A.,NS,Neubau Leitungen,19.0,0.0,k.A.,Vorplanung,2028,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,k.A.,NS,Ertüchtigungen Leitungen,43.0,0.0,k.A.,Vorplanung,2028,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,k.A.,HS/MS,Ertüchtigungen Schaltanlage,0.0,0.0,UW ; 1,konkrete Planung,2026,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Dortmunder Netz GmbH,West,Nordrhein-Westfalen,k.A.,HS/MS,Ertüchtigungen Schaltanlage,0.0,0.0,UW ; 1,Vorplanung,2029,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True

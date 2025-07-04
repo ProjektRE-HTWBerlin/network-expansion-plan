@@ -1,0 +1,7 @@
+VNB-Name,Teilnetzgebiet,Bundesland,Ort / Trasse,Netzebene,Art der Maßnahme,Leitungslänge in km,Übertragungskapazität in MVA,"Netzkomponenten (z.B. UW,Trafo ;Anzahl/Typ)",Projektstatus,Zeithorizont,Kosten in Mio.€,location,latitude,longitude,passt
+Stadtwerke Jena Netze GmbH,Ost,Thüringen,Jena,MS/NS,Leitungen,64.0,0.0,Leitungen,NOVA,2028,17.45,"Jena, Thüringen, Deutschland",50.9281717,11.5879359,True
+Stadtwerke Jena Netze GmbH,Ost,Thüringen,Jena,MS/NS,Anlagenstandorte,0.0,0.0,139 Anlagenstandorte,NOVA,2028,31.275,"Jena, Thüringen, Deutschland",50.9281717,11.5879359,True
+Stadtwerke Jena Netze GmbH,Ost,Thüringen,Jena,MS/NS,Leitungen,27.0,0.0,Leitungen,NOVA,2033,7.475,"Jena, Thüringen, Deutschland",50.9281717,11.5879359,True
+Stadtwerke Jena Netze GmbH,Ost,Thüringen,Jena,MS/NS,Anlagenstandorte,0.0,0.0,70 Anlagenstandorte,NOVA,2033,15.75,"Jena, Thüringen, Deutschland",50.9281717,11.5879359,True
+Stadtwerke Jena Netze GmbH,Ost,Thüringen,Jena,MS/NS,Leitungen,43.0,0.0,Leitungen,NOVA,2045,11.75,"Jena, Thüringen, Deutschland",50.9281717,11.5879359,True
+Stadtwerke Jena Netze GmbH,Ost,Thüringen,Jena,MS/NS,Anlagenstandorte,0.0,0.0,62 Anlagenstandorte,NOVA,2045,13.95,"Jena, Thüringen, Deutschland",50.9281717,11.5879359,True

@@ -1,0 +1,12 @@
+VNB-Name,Teilnetzgebiet,Bundesland,Ort / Trasse,Netzebene,Art der Maßnahme,Leitungslänge in km,Übertragungskapazität in MVA,"Netzkomponenten (z.B. UW,Trafo ;Anzahl/Typ)",Projektstatus,Zeithorizont,Kosten in Mio.€,location,latitude,longitude,passt
+SWE Erfurt Netz,Ost,Thüringen,Erfurt,NS,Neubau Leitungen,10.0,0.0,k.A.,geplante Maßnahme,2028,2.3,"Erfurt, Thüringen, Deutschland",50.9777974,11.0287364,True
+SWE Erfurt Netz,Ost,Thüringen,Erfurt,NS,Neubau Leitungen,16.0,0.0,k.A.,geplante Maßnahme,2033,3.8,"Erfurt, Thüringen, Deutschland",50.9777974,11.0287364,True
+SWE Erfurt Netz,Ost,Thüringen,Erfurt,MS,Neubau Leitungen,9.9,0.0,k.A.,geplante Maßnahme,2028,5.1,"Erfurt, Thüringen, Deutschland",50.9777974,11.0287364,True
+SWE Erfurt Netz,Ost,Thüringen,Erfurt,MS,Neubau Leitungen,11.3,0.0,k.A.,geplante Maßnahme,2033,5.8,"Erfurt, Thüringen, Deutschland",50.9777974,11.0287364,True
+SWE Erfurt Netz,Ost,Thüringen,Erfurt,HS,Anlagenstandorte,2.0,0.0,k.A.,geplante Maßnahme,2033,6.0,"Erfurt, Thüringen, Deutschland",50.9777974,11.0287364,True
+SWE Erfurt Netz,Ost,Thüringen,Erfurt,MS,Anlagenstandorte,107.0,0.0,k.A.,geplante Maßnahme,2029,8.0,"Erfurt, Thüringen, Deutschland",50.9777974,11.0287364,True
+SWE Erfurt Netz,Ost,Thüringen,Erfurt,NS,Neubau Leitungen,43.0,0.0,k.A.,geplante Maßnahme,2045,9.2,"Erfurt, Thüringen, Deutschland",50.9777974,11.0287364,True
+SWE Erfurt Netz,Ost,Thüringen,Erfurt,MS,Neubau Leitungen,27.1,0.0,k.A.,geplante Maßnahme,2045,12.8,"Erfurt, Thüringen, Deutschland",50.9777974,11.0287364,True
+SWE Erfurt Netz,Ost,Thüringen,Erfurt,MS,Anlagenstandorte,140.0,0.0,k.A.,geplante Maßnahme,2034,13.9,"Erfurt, Thüringen, Deutschland",50.9777974,11.0287364,True
+SWE Erfurt Netz,Ost,Thüringen,Erfurt,HS,Anlagenstandorte,6.0,0.0,k.A.,geplante Maßnahme,2045,18.0,"Erfurt, Thüringen, Deutschland",50.9777974,11.0287364,True
+SWE Erfurt Netz,Ost,Thüringen,Erfurt,MS,Anlagenstandorte,347.0,0.0,k.A.,geplante Maßnahme,2046,75.1,"Erfurt, Thüringen, Deutschland",50.9777974,11.0287364,True

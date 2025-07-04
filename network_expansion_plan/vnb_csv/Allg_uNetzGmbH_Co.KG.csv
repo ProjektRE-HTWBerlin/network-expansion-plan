@@ -1,0 +1,16 @@
+VNB-Name,Teilnetzgebiet,Bundesland,Ort / Trasse,Netzebene,Art der Maßnahme,Leitungslänge in km,Übertragungskapazität in MVA,"Netzkomponenten (z.B. UW,Trafo ;Anzahl/Typ)",Projektstatus,Zeithorizont,Kosten in Mio.€,location,latitude,longitude,passt
+AllgäuNetzGmbH&Co.KG,Bayern,Bayern,k.A.,HS,Leitungen,29.0,0.0,,im Bau,2028,10.79,"Bayern, Deutschland",48.9467562,11.4038717,True
+AllgäuNetzGmbH&Co.KG,Bayern,Bayern,k.A.,HS,Anlagenstandorte,0.0,0.0,5,im Bau,2028,22.96,"Bayern, Deutschland",48.9467562,11.4038717,True
+AllgäuNetzGmbH&Co.KG,Bayern,Bayern,k.A.,HS,Leitungen,44.0,0.0,,ausstehend,2033,19.29,"Bayern, Deutschland",48.9467562,11.4038717,True
+AllgäuNetzGmbH&Co.KG,Bayern,Bayern,k.A.,HS,Anlagenstandorte,0.0,0.0,4,ausstehend,2033,21.38,"Bayern, Deutschland",48.9467562,11.4038717,True
+AllgäuNetzGmbH&Co.KG,Bayern,Bayern,k.A.,HS,Leitungen,60.0,0.0,,ausstehend,2045,27.66,"Bayern, Deutschland",48.9467562,11.4038717,True
+AllgäuNetzGmbH&Co.KG,Bayern,Bayern,k.A.,HS,Anlagenstandorte,0.0,0.0,15,ausstehend,2045,56.76,"Bayern, Deutschland",48.9467562,11.4038717,True
+AllgäuNetzGmbH&Co.KG,Bayern,Bayern,k.A.,MS,Leitungen,158.0,0.0,,im Bau,2028,22.79,"Bayern, Deutschland",48.9467562,11.4038717,True
+AllgäuNetzGmbH&Co.KG,Bayern,Bayern,k.A.,MS,Anlagenstandorte,0.0,0.0,875,im Bau,2028,32.21,"Bayern, Deutschland",48.9467562,11.4038717,True
+AllgäuNetzGmbH&Co.KG,Bayern,Bayern,k.A.,MS,Leitungen,243.0,0.0,,ausstehend,2033,34.13,"Bayern, Deutschland",48.9467562,11.4038717,True
+AllgäuNetzGmbH&Co.KG,Bayern,Bayern,k.A.,MS,Anlagenstandorte,0.0,0.0,1630,ausstehend,2030,48.89,"Bayern, Deutschland",48.9467562,11.4038717,True
+AllgäuNetzGmbH&Co.KG,Bayern,Bayern,k.A.,MS,Leitungen,288.0,0.0,,ausstehend,2045,34.97,"Bayern, Deutschland",48.9467562,11.4038717,True
+AllgäuNetzGmbH&Co.KG,Bayern,Bayern,k.A.,MS,Anlagenstandorte,0.0,0.0,1420,ausstehend,2045,63.43,"Bayern, Deutschland",48.9467562,11.4038717,True
+AllgäuNetzGmbH&Co.KG,Bayern,Bayern,k.A.,NS,Leitungen,446.0,0.0,,im Bau,2028,49.71,"Bayern, Deutschland",48.9467562,11.4038717,True
+AllgäuNetzGmbH&Co.KG,Bayern,Bayern,k.A.,NS,Leitungen,590.0,0.0,,ausstehend,2033,55.1,"Bayern, Deutschland",48.9467562,11.4038717,True
+AllgäuNetzGmbH&Co.KG,Bayern,Bayern,k.A.,NS,Leitungen,1179.0,0.0,,ausstehend,2045,103.35,"Bayern, Deutschland",48.9467562,11.4038717,True

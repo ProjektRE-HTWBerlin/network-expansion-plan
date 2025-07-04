@@ -1,0 +1,48 @@
+VNB-Name,Teilnetzgebiet,Bundesland,Ort / Trasse,Netzebene,Art der Maßnahme,Leitungslänge in km,Übertragungskapazität in MVA,"Netzkomponenten (z.B. UW,Trafo ;Anzahl/Typ)",Projektstatus,Zeithorizont,Kosten in Mio.€,location,latitude,longitude,passt
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,MS,Ertüchtigung Leitungen,5.0,0.0,k.A.,im Bau,2028,1.97,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau Trafo,0.0,0.0,1,abgeschlossen,2023,1.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau Trafo,0.0,0.0,1,abgeschlossen,2019,0.75,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau Trafo,0.0,0.0,1,abgeschlossen,2023,1.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau Leitungen,2.05,0.0,k.A.,vorgesehene Maßnahme,2026,6.8,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau Leitungen,2.15,0.0,k.A.,abgeschlossen,2022,3.5,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau Leitungen,2.34,0.0,k.A.,vorgesehene Maßnahme,2027,7.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau Leitungen,2.2,0.0,k.A.,konkrete Planung,2025,6.8,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Ertüchtigung UW,0.0,0.0,1,abgeschlossen,2023,5.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,MS,Ertüchtigung UW,0.0,0.0,1,abgeschlossen,2018,0.94,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau Trafo,0.0,0.0,1,im Bau,2028,1.7,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau Leitungen,2.41,0.0,k.A.,abgeschlossen,2024,4.4,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau Leitungen,3.62,0.0,k.A.,vorgesehene Maßnahme,2028,7.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,MS,Ertüchtigung Leitungen,2.2,0.0,k.A.,im Bau,2028,0.869,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,MS,Neubau Leitungen,7.0,0.0,k.A.,im Bau,2028,2.765,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,MS,Neubau Leitungen,36.0,0.0,k.A.,im Bau,2028,14.22,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,NS,Ertüchtigung Leitungen,11.0,0.0,k.A.,im Bau,2028,3.729,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,NS,Neubau Leitungen,35.0,0.0,k.A.,im Bau,2028,11.865,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,NS,Neubau Leitungen,20.0,0.0,k.A.,im Bau,2028,6.78,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,MS,Ertüchtigung UW,0.0,0.0,1,im Bau,2028,6.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,MS,Neubau UW,0.0,0.0,1,im Bau,2028,2.016,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,MS,Ertüchtigung UW,0.0,0.0,1,im Bau,2028,3.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau Trafo,0.0,0.0,1,im Bau,2028,1.7,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,Wenden,HS,Neubau Trafo,0.0,0.0,1,konkrete Planung,2029,2.2,"Wenden, Kreis Olpe, Nordrhein-Westfalen, 57482, Deutschland",50.9691051,7.8733251,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,Wenden,HS,Neubau Trafo,0.0,0.0,1,konkrete Planung,2029,2.2,"Wenden, Kreis Olpe, Nordrhein-Westfalen, 57482, Deutschland",50.9691051,7.8733251,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Ertüchtigung UW,0.0,0.0,1,konkrete Planung,2030,2.2,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Ertüchtigung UW,0.0,0.0,1,konkrete Planung,2030,2.2,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau Kompensationsspule,0.0,0.0,1,konkrete Planung,2027,3.5,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2033,14.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2033,14.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2030,5.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,Wenden,MS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2027,3.0,"Wenden, Kreis Olpe, Nordrhein-Westfalen, 57482, Deutschland",50.9691051,7.8733251,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,Wenden,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2031,3.0,"Wenden, Kreis Olpe, Nordrhein-Westfalen, 57482, Deutschland",50.9691051,7.8733251,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,MS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2029,2.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2033,4.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,MS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2028,3.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,MS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2031,2.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau Leitungen,1.69,0.0,k.A.,vorgesehene Maßnahme,2030,6.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,MS,Neubau UW,0.0,0.0,1,im Bau,2028,5.76,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2033,12.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2033,2.2,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2045,2.2,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,"Hasenwinkel, 59821",HS,Neubau Trafo,0.0,0.0,1,abgeschlossen,2019,0.75,"Hasenwinkel, Arnsberg, Hochsauerlandkreis, Nordrhein-Westfalen, 59821, Deutschland",51.38469,8.078885,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,k.A.,HS,Neubau UW,0.0,0.0,1,abgeschlossen,2017,5.2,"Nordrhein-Westfalen, Deutschland",51.47892,7.554375,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,"Hasenwinkel, 59821",HS,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2045,2.2,"Hasenwinkel, Arnsberg, Hochsauerlandkreis, Nordrhein-Westfalen, 59821, Deutschland",51.38469,8.078885,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,Aachen,HS,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2045,2.2,"Aachen, Städteregion Aachen, Nordrhein-Westfalen, Deutschland",50.77635,6.083862,True
+Bielefelder Netz GmbH,Mitte,Nordrhein-Westfalen,Aachen,HS,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2033,2.2,"Aachen, Städteregion Aachen, Nordrhein-Westfalen, Deutschland",50.77635,6.083862,True

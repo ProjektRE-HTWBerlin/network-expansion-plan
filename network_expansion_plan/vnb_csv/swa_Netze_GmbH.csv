@@ -1,0 +1,24 @@
+VNB-Name,Teilnetzgebiet,Bundesland,Ort / Trasse,Netzebene,Art der Maßnahme,Leitungslänge in km,Übertragungskapazität in MVA,"Netzkomponenten (z.B. UW,Trafo ;Anzahl/Typ)",Projektstatus,Zeithorizont,Kosten in Mio.€,location,latitude,longitude,passt
+swa Netze GmbH,Bayern,Bayern,k.A.,NS,Netzoptimierung und -verstärkung,0.0,0.0,k.A.,vorgesehene Maßnahme,2045,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+swa Netze GmbH,Bayern,Bayern,k.A.,MS,Netzoptimierung und -verstärkung,0.0,0.0,k.A.,vorgesehene Maßnahme,2045,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+swa Netze GmbH,Bayern,Bayern,k.A.,HS/MS,Ersatzneubau/Erhöhung der Übertragungskapazität,0.0,20.0,k.A.,vorgesehene Maßnahme,2028,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+swa Netze GmbH,Bayern,Bayern,k.A.,MS,Ersatzneubau/Erhöhung der Übertragungskapazität,4.0,10.0,k.A.,vorgesehene Maßnahme,2026,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+swa Netze GmbH,Bayern,Bayern,k.A.,HS,Ersatzneubau/Erhöhung der Übertragungskapazität,2.1,20.0,k.A.,vorgesehene Maßnahme,2030,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+swa Netze GmbH,Bayern,Bayern,k.A.,HS,Ersatzneubau/Erhöhung der Übertragungskapazität,1.8,20.0,k.A.,vorgesehene Maßnahme,2032,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+swa Netze GmbH,Bayern,Bayern,k.A.,HS,Ersatzneubau/Erhöhung der Übertragungskapazität,2.1,20.0,k.A.,vorgesehene Maßnahme,2034,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+swa Netze GmbH,Bayern,Bayern,Lechhausen,MS,Neubau,0.8,0.0,k.A.,vorgesehene Maßnahme,2027,0.0,"Lechhausen, Augsburg, Bayern, Deutschland",48.3811586,10.9161463,True
+swa Netze GmbH,Bayern,Bayern,k.A.,HS/MS,Netzoptimierung und -verstärkung,0.0,0.0,k.A.,vorgesehene Maßnahme,2045,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+swa Netze GmbH,Bayern,Bayern,k.A.,MS/NS,Netzoptimierung und -verstärkung,0.0,0.0,k.A.,vorgesehene Maßnahme,2045,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+swa Netze GmbH,Bayern,Bayern,k.A.,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2028,1.0,"Bayern, Deutschland",48.94676,11.40387,True
+swa Netze GmbH,Bayern,Bayern,k.A.,HS,Ertüchtigung Leitungen,6.0,0.0,k.A.,vorgesehen,2033,8.0,"Bayern, Deutschland",48.94676,11.40387,True
+swa Netze GmbH,Bayern,Bayern,k.A.,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehen,2033,10.0,"Bayern, Deutschland",48.94676,11.40387,True
+swa Netze GmbH,Bayern,Bayern,k.A.,HS,Ertüchtigung Leitungen,29.0,0.0,k.A.,vorgesehen,2045,43.0,"Bayern, Deutschland",48.94676,11.40387,True
+swa Netze GmbH,Bayern,Bayern,k.A.,HS,Ertüchtigung UW,0.0,0.0,6,vorgesehen,2045,60.0,"Bayern, Deutschland",48.94676,11.40387,True
+swa Netze GmbH,Bayern,Bayern,k.A.,MS,Ertüchtigung Leitungen,30.0,0.0,k.A.,vorgesehen,2028,13.0,"Bayern, Deutschland",48.94676,11.40387,True
+swa Netze GmbH,Bayern,Bayern,k.A.,MS,Ertüchtigung UW,0.0,0.0,60,vorgesehen,2028,9.0,"Bayern, Deutschland",48.94676,11.40387,True
+swa Netze GmbH,Bayern,Bayern,k.A.,MS,Ertüchtigung Leitungen,40.0,0.0,k.A.,vorgesehen,2033,18.0,"Bayern, Deutschland",48.94676,11.40387,True
+swa Netze GmbH,Bayern,Bayern,k.A.,MS,Ertüchtigung UW,0.0,0.0,150,vorgesehen,2033,19.0,"Bayern, Deutschland",48.94676,11.40387,True
+swa Netze GmbH,Bayern,Bayern,k.A.,MS,Ertüchtigung Leitungen,96.0,0.0,k.A.,vorgesehen,2045,43.0,"Bayern, Deutschland",48.94676,11.40387,True
+swa Netze GmbH,Bayern,Bayern,k.A.,MS,Ertüchtigung UW,0.0,0.0,360,vorgesehen,2045,46.0,"Bayern, Deutschland",48.94676,11.40387,True
+swa Netze GmbH,Bayern,Bayern,k.A.,MS,Neubau,4.0,0.0,k.A.,im Bau,2026,0.0,"Bayern, Deutschland",48.94676,11.40387,True
+swa Netze GmbH,Bayern,Bayern,k.A.,MS,Neubau,1.0,0.0,k.A.,im Bau,2024,0.0,"Bayern, Deutschland",48.94676,11.40387,True

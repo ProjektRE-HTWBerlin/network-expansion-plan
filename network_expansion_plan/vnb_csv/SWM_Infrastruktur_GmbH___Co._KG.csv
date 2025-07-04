@@ -1,0 +1,12 @@
+VNB-Name,Teilnetzgebiet,Bundesland,Ort / Trasse,Netzebene,Art der Maßnahme,Leitungslänge in km,Übertragungskapazität in MVA,"Netzkomponenten (z.B. UW,Trafo ;Anzahl/Typ)",Projektstatus,Zeithorizont,Kosten in Mio.€,location,latitude,longitude,passt
+SWM Infrastruktur GmbH & Co. KG,Bayern,Bayern,k.A.,HS,Ertüchtigung Leitungen,10.0,40.0,Gasdruckkabel,konkrete Planung,k.A.,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+SWM Infrastruktur GmbH & Co. KG,Bayern,Bayern,k.A.,HS,Ertüchtigung Leitungen,0.0,0.0,Gasdruckkabel,im Bau,k.A.,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+SWM Infrastruktur GmbH & Co. KG,Bayern,Bayern,k.A.,HS/MS,Ertüchtigung UW,0.0,85.0,Umspanntransformator 110/10 kV,im Bau,k.A.,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+SWM Infrastruktur GmbH & Co. KG,Bayern,Bayern,k.A.,HS,Ertüchtigung UW,0.0,0.0,alle elektrischen Anlagen,im Bau,k.A.,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+SWM Infrastruktur GmbH & Co. KG,Bayern,Bayern,k.A.,HS,Ertüchtigung Leitungen,5.0,35.0,Freileitung,konkrete Planung,k.A.,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+SWM Infrastruktur GmbH & Co. KG,Bayern,Bayern,Moosburg,HS,Ertüchtigung Leitungen,20.0,35.0,Freileitung,konkrete Planung,2028,0.0,"Moosburg, Landkreis Freising, Bayern, 85368, Deutschland",48.4667,11.9333,True
+SWM Infrastruktur GmbH & Co. KG,Bayern,Bayern,k.A.,HS,Ertüchtigung Leitungen,0.0,10.0,Rohrkabel,im Bau,2027,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+SWM Infrastruktur GmbH & Co. KG,Bayern,Bayern,k.A.,HS,Ertüchtigung Leitungen,0.0,10.0,Rohrkabel,im Bau,2027,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+SWM Infrastruktur GmbH & Co. KG,Bayern,Bayern,k.A.,HS,Ertüchtigung Leitungen,0.0,10.0,Rohrkabel,im Bau,2027,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+SWM Infrastruktur GmbH & Co. KG,Bayern,Bayern,k.A.,HS,Ertüchtigung Leitungen,0.0,10.0,Rohrkabel,im Bau,2027,0.0,"Bayern, Deutschland",48.9467562,11.4038717,True
+SWM Infrastruktur GmbH & Co. KG,Bayern,Bayern,München,HS,Neubau UW,10.0,25.0,"NTS, Kabel",vorgesehene Maßnahme,2025,0.0,"München, Bayern, Deutschland",48.13711,11.57538,True

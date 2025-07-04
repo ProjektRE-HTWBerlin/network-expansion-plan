@@ -1,0 +1,30 @@
+VNB-Name,Teilnetzgebiet,Bundesland,Ort / Trasse,Netzebene,Art der Maßnahme,Leitungslänge in km,Übertragungskapazität in MVA,"Netzkomponenten (z.B. UW,Trafo ;Anzahl/Typ)",Projektstatus,Zeithorizont,Kosten in Mio.€,location,latitude,longitude,passt
+RheinNetz GmbH,West,Nordrhein-Westfalen,Niehler Hafen,MS,Ertüchtigungen Leitungen,6.5,0.0,5 Verbraucher,im Bau,2020,0.0,"Hafen Köln-Niehl I, Niehl, Nippes, Köln, Nordrhein-Westfalen, 50735, Deutschland",50.9792432,6.9769677,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,Hahnwald,MS,Ertüchtigungen Leitungen,4.0,0.0,k.A.,konkrete Planung,2025,0.0,"Hahnwald, Rodenkirchen, Köln, Nordrhein-Westfalen, Deutschland",50.8738192,6.9789269,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,Rath-Brück,MS,Ertüchtigungen Leitungen,4.0,0.0,k.A.,konkrete Planung,2024,0.0,"Stephanie Rath, geb. Rath, Brückstraße, Innenstadt, Bochum-Mitte, Bochum, Nordrhein-Westfalen, 44787, Deutschland",51.4849914,7.2151658,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,,MS,Ertüchtigungen Leitungen,36.0,0.0,k.A.,im Bau,2024,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,,MS,Ertüchtigungen Leitungen,41.0,0.0,k.A.,vorgesehene Maßnahme,2025,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,,MS,Ertüchtigungen Leitungen,41.0,0.0,k.A.,vorgesehene Maßnahme,2026,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,,MS,Ertüchtigungen Leitungen,49.0,0.0,k.A.,vorgesehene Maßnahme,2027,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,,MS,Ertüchtigungen Leitungen,49.0,0.0,k.A.,vorgesehene Maßnahme,2028,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,Hackenbroich,MS,Ertüchtigungen Leitungen,9.0,0.0,7 Verbraucher,konkrete Planung,2024,0.0,"Hackenbroich, Dormagen, Rhein-Kreis Neuss, Nordrhein-Westfalen, Deutschland",51.0643262,6.8133312,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,,NS,Ertüchtigungen Leitungen,64.0,0.0,k.A.,im Bau,2024,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,,NS,Ertüchtigungen Leitungen,64.0,0.0,k.A.,vorgesehene Maßnahme,2025,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,,NS,Ertüchtigungen Leitungen,79.0,0.0,k.A.,vorgesehene Maßnahme,2026,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,,NS,Ertüchtigungen Leitungen,75.0,0.0,k.A.,vorgesehene Maßnahme,2027,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,,NS,Ertüchtigungen Leitungen,67.0,0.0,k.A.,vorgesehene Maßnahme,2028,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,,NS,Ertüchtigungen Leitungen,246.0,0.0,k.A.,im Bau,2024,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,,NS,Ertüchtigungen Leitungen,281.0,0.0,k.A.,vorgesehene Maßnahme,2025,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,,NS,Ertüchtigungen Leitungen,296.0,0.0,k.A.,vorgesehene Maßnahme,2026,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,,NS,Ertüchtigungen Leitungen,295.0,0.0,k.A.,vorgesehene Maßnahme,2027,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,,NS,Ertüchtigungen Leitungen,295.0,0.0,k.A.,vorgesehene Maßnahme,2028,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,Venlo,MS,Ertüchtigungen Leitungen,4.0,0.0,k.A.,konkrete Planung,2026,0.0,"Hauptverteilerstation Venlo, Vogelsang, Ehrenfeld, Köln, Nordrhein-Westfalen, 50829, Deutschland",50.9658615,6.8799426,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,Deutz,MS,Ertüchtigungen Leitungen,1.3,0.0,k.A.,vorgesehene Maßnahme,2025,0.0,"Deutz, Innenstadt, Köln, Nordrhein-Westfalen, 50679, Deutschland",50.9367586,6.9730461,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,k.A.,MS,Ertüchtigungen Leitungen,2.0,0.0,k.A.,konkrete Planung,2024,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,k.A.,MS,Ertüchtigungen Leitungen,5.0,0.0,11 Verbraucher,vorgesehene Maßnahme,2025,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,k.A.,MS,Ertüchtigungen Leitungen,4.0,0.0,5 Verbraucher,im Bau,2020,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,k.A.,MS/HS,Ertüchtigungen Leitungen,7.5,0.0,k.A.,im Bau,2025,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,k.A.,MS/HS,Ertüchtigungen Leitungen,6.6,0.0,k.A.,abgeschlossen,2021,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,k.A.,MS/HS,Ertüchtigungen Leitungen,6.9,0.0,k.A.,im Bau,2024,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,k.A.,MS,Ertüchtigungen Leitungen,10.2,0.0,k.A.,vorgesehene Maßnahme,2026,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
+RheinNetz GmbH,West,Nordrhein-Westfalen,k.A.,MS,Ertüchtigungen Leitungen,7.6,0.0,12 Verbraucher,konkrete Planung,2024,0.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True

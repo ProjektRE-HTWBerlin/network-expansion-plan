@@ -1,0 +1,97 @@
+VNB-Name,Teilnetzgebiet,Bundesland,Ort / Trasse,Netzebene,Art der Maßnahme,Leitungslänge in km,Übertragungskapazität in MVA,"Netzkomponenten (z.B. UW,Trafo ;Anzahl/Typ)",Projektstatus,Zeithorizont,Kosten in Mio.€,location,latitude,longitude,passt
+LSW Netz GmbH,Mitte,Niedersachsen,Gamsen,HS,Neubau Leitungen,0.0,0.0,k.A.,konkrete Planung,2031,49.97,"Gamsen, Gifhorn, Niedersachsen, 38518, Deutschland",52.5072449,10.5398541,True
+LSW Netz GmbH,Mitte,Niedersachsen,Wittingen,HS,Ertüchtigung Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2027,3.08,"Wittingen, Gifhorn, Niedersachsen, Deutschland",52.7289399,10.735743,True
+LSW Netz GmbH,Mitte,Niedersachsen,Fallersleben,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2027,1.47,"Fallersleben, Wolfsburg, Niedersachsen, 38442, Deutschland",52.4190578,10.7187346,True
+LSW Netz GmbH,Mitte,Niedersachsen,vor Fallersleben,HS,Ertüchtigung Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2028,5.0,"Vor dem Dorfe, Wendschott, Wolfsburg, Niedersachsen, 38448, Deutschland",52.4544175,10.8511377,True
+LSW Netz GmbH,Mitte,Niedersachsen,Fallersleben,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2035,88.14,"Fallersleben, Wolfsburg, Niedersachsen, 38442, Deutschland",52.4190578,10.7187346,True
+LSW Netz GmbH,Mitte,Niedersachsen,Gamsen,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2039,30.13,"Gamsen, Gifhorn, Niedersachsen, 38518, Deutschland",52.5072449,10.5398541,True
+LSW Netz GmbH,Mitte,Niedersachsen,Fallersleben,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2039,13.56,"Fallersleben, Wolfsburg, Niedersachsen, 38442, Deutschland",52.4190578,10.7187346,True
+LSW Netz GmbH,Mitte,Niedersachsen,Wesendorf,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2027,11.7,"Wesendorf, Samtgemeinde Wesendorf, Gifhorn, Niedersachsen, 29392, Deutschland",52.592945,10.5347367,True
+LSW Netz GmbH,Mitte,Niedersachsen,Meinersen,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2039,11.7,"Meinersen, Samtgemeinde Meinersen, Gifhorn, Niedersachsen, 38536, Deutschland",52.4713946,10.3610062,True
+LSW Netz GmbH,Mitte,Niedersachsen,Niedersachsen,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2039,25.5,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+LSW Netz GmbH,Mitte,Niedersachsen,Papenrode,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2039,17.0,"Papenrode, Groß Twülpstedt, Samtgemeinde Velpke, Landkreis Helmstedt, Niedersachsen, 38464, Deutschland",52.3667849,10.9486443,True
+LSW Netz GmbH,Mitte,Niedersachsen,Hattorf,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2028,9.3,"Hattorf, Wolfsburg, Niedersachsen, 38444, Deutschland",52.3600784,10.7463328,True
+LSW Netz GmbH,Mitte,Niedersachsen,Gamsen,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2031,6.5,"Gamsen, Gifhorn, Niedersachsen, 38518, Deutschland",52.5072449,10.5398541,True
+LSW Netz GmbH,Mitte,Niedersachsen,Oerrel,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2031,4.9,"Oerrel, Munster, Heidekreis, Niedersachsen, Deutschland",52.9610835,10.1864248,True
+LSW Netz GmbH,Mitte,Niedersachsen,Papenrode,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2028,14.9,"Papenrode, Groß Twülpstedt, Samtgemeinde Velpke, Landkreis Helmstedt, Niedersachsen, 38464, Deutschland",52.3667849,10.9486443,True
+LSW Netz GmbH,Mitte,Niedersachsen,Ehra,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2035,5.7,"Ehra, Ehra-Lessien, Samtgemeinde Brome, Gifhorn, Niedersachsen, 38468, Deutschland",52.5698323,10.7886663,True
+LSW Netz GmbH,Mitte,Niedersachsen,Wittingen,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2035,8.1,"Wittingen, Gifhorn, Niedersachsen, Deutschland",52.7289399,10.735743,True
+LSW Netz GmbH,Mitte,Niedersachsen,Suderwittingen,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2025,0.38,"Suderwittingen, Wittingen, Gifhorn, Niedersachsen, 29378, Deutschland",52.7092793,10.7660863,True
+LSW Netz GmbH,Mitte,Niedersachsen,Voitze,MS,Neubau Leitungen,0.0,0.0,k.A.,konkrete Planung,2025,0.69,"Voitze, Tülau, Samtgemeinde Brome, Gifhorn, Niedersachsen, 38474, Deutschland",52.5917239,10.8754234,True
+LSW Netz GmbH,Mitte,Niedersachsen,Leiferde,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2025,0.6,"Leiferde, Samtgemeinde Meinersen, Gifhorn, Niedersachsen, 38542, Deutschland",52.4377658,10.4373284,True
+LSW Netz GmbH,Mitte,Niedersachsen,Oerrel,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2026,1.2,"Oerrel, Munster, Heidekreis, Niedersachsen, Deutschland",52.9610835,10.1864248,True
+LSW Netz GmbH,Mitte,Niedersachsen,Wesendorf,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2025,0.3,"Wesendorf, Samtgemeinde Wesendorf, Gifhorn, Niedersachsen, 29392, Deutschland",52.592945,10.5347367,True
+LSW Netz GmbH,Mitte,Niedersachsen,Gamsen,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2037,25.0,"Gamsen, Gifhorn, Niedersachsen, 38518, Deutschland",52.5072449,10.5398541,True
+LSW Netz GmbH,Mitte,Niedersachsen,Niedersachsen,MS,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2028,20.8,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+LSW Netz GmbH,Mitte,Niedersachsen,Niedersachsen,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2028,29.12,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+LSW Netz GmbH,Mitte,Niedersachsen,Fallersleben,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2035,88.14,"Fallersleben, Wolfsburg, Niedersachsen, 38442, Deutschland",52.4190578,10.7187346,True
+LSW Netz GmbH,Mitte,Niedersachsen,Gamsen,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2039,30.13,"Gamsen, Gifhorn, Niedersachsen, 38518, Deutschland",52.5072449,10.5398541,True
+LSW Netz GmbH,Mitte,Niedersachsen,Fallersleben,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2039,13.56,"Fallersleben, Wolfsburg, Niedersachsen, 38442, Deutschland",52.4190578,10.7187346,True
+LSW Netz GmbH,Mitte,Niedersachsen,Wesendorf,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2027,11.7,"Wesendorf, Samtgemeinde Wesendorf, Gifhorn, Niedersachsen, 29392, Deutschland",52.592945,10.5347367,True
+LSW Netz GmbH,Mitte,Niedersachsen,Meinersen,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2039,11.7,"Meinersen, Samtgemeinde Meinersen, Gifhorn, Niedersachsen, 38536, Deutschland",52.4713946,10.3610062,True
+LSW Netz GmbH,Mitte,Niedersachsen,Neindorf,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2036,11.7,"Neindorf, Denkte, Samtgemeinde Elm-Asse, Landkreis Wolfenbüttel, Niedersachsen, 38324, Deutschland",52.1267007,10.5807074,True
+LSW Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2039,25.5,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+LSW Netz GmbH,Mitte,Niedersachsen,Papenrode,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2039,17.0,"Papenrode, Groß Twülpstedt, Samtgemeinde Velpke, Landkreis Helmstedt, Niedersachsen, 38464, Deutschland",52.3667849,10.9486443,True
+LSW Netz GmbH,Mitte,Niedersachsen,Hattorf,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2028,9.3,"Hattorf, Wolfsburg, Niedersachsen, 38444, Deutschland",52.3600784,10.7463328,True
+LSW Netz GmbH,Mitte,Niedersachsen,Gamsen,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2031,6.5,"Gamsen, Gifhorn, Niedersachsen, 38518, Deutschland",52.5072449,10.5398541,True
+LSW Netz GmbH,Mitte,Niedersachsen,Oerrel,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2031,4.9,"Oerrel, Munster, Heidekreis, Niedersachsen, Deutschland",52.9610835,10.1864248,True
+LSW Netz GmbH,Mitte,Niedersachsen,Papenrode,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2028,14.9,"Papenrode, Groß Twülpstedt, Samtgemeinde Velpke, Landkreis Helmstedt, Niedersachsen, 38464, Deutschland",52.3667849,10.9486443,True
+LSW Netz GmbH,Mitte,Niedersachsen,Ehra,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2035,5.7,"Ehra, Ehra-Lessien, Samtgemeinde Brome, Gifhorn, Niedersachsen, 38468, Deutschland",52.5698323,10.7886663,True
+LSW Netz GmbH,Mitte,Niedersachsen,Wittingen,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2035,8.1,"Wittingen, Gifhorn, Niedersachsen, Deutschland",52.7289399,10.735743,True
+LSW Netz GmbH,Mitte,Niedersachsen,Suderwittingen,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2025,0.38,"Suderwittingen, Wittingen, Gifhorn, Niedersachsen, 29378, Deutschland",52.7092793,10.7660863,True
+LSW Netz GmbH,Mitte,Niedersachsen,Voitze,MS,Neubau Leitungen,0.0,0.0,k.A.,konkrete Planung,2025,0.69,"Voitze, Tülau, Samtgemeinde Brome, Gifhorn, Niedersachsen, 38474, Deutschland",52.5917239,10.8754234,True
+LSW Netz GmbH,Mitte,Niedersachsen,Leiferde,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2025,0.6,"Leiferde, Samtgemeinde Meinersen, Gifhorn, Niedersachsen, 38542, Deutschland",52.4377658,10.4373284,True
+LSW Netz GmbH,Mitte,Niedersachsen,Oerrel,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2026,1.2,"Oerrel, Munster, Heidekreis, Niedersachsen, Deutschland",52.9610835,10.1864248,True
+LSW Netz GmbH,Mitte,Niedersachsen,Wesendorf,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2025,0.3,"Wesendorf, Samtgemeinde Wesendorf, Gifhorn, Niedersachsen, 29392, Deutschland",52.592945,10.5347367,True
+LSW Netz GmbH,Mitte,Niedersachsen,Gamsen,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2037,25.0,"Gamsen, Gifhorn, Niedersachsen, 38518, Deutschland",52.5072449,10.5398541,True
+LSW Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2028,20.8,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+LSW Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2028,29.12,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+LSW Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2028,29.12,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+LSW Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2028,20.8,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+LSW Netz GmbH,Mitte,Niedersachsen,Gamsen,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2037,25.0,"Gamsen, Gifhorn, Niedersachsen, 38518, Deutschland",52.5072449,10.5398541,True
+LSW Netz GmbH,Mitte,Niedersachsen,Wesendorf,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2025,0.3,"Wesendorf, Samtgemeinde Wesendorf, Gifhorn, Niedersachsen, 29392, Deutschland",52.592945,10.5347367,True
+LSW Netz GmbH,Mitte,Niedersachsen,Oerrel,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2026,1.2,"Oerrel, Munster, Heidekreis, Niedersachsen, Deutschland",52.9610835,10.1864248,True
+LSW Netz GmbH,Mitte,Niedersachsen,Leiferde,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2025,0.6,"Leiferde, Samtgemeinde Meinersen, Gifhorn, Niedersachsen, 38542, Deutschland",52.4377658,10.4373284,True
+LSW Netz GmbH,Mitte,Niedersachsen,Voitze,MS,Neubau Leitungen,0.0,0.0,k.A.,konkrete Planung,2025,0.69,"Voitze, Tülau, Samtgemeinde Brome, Gifhorn, Niedersachsen, 38474, Deutschland",52.5917239,10.8754234,True
+LSW Netz GmbH,Mitte,Niedersachsen,Suderwittingen,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2025,0.38,"Suderwittingen, Wittingen, Gifhorn, Niedersachsen, 29378, Deutschland",52.7092793,10.7660863,True
+LSW Netz GmbH,Mitte,Niedersachsen,Wittingen,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2035,8.1,"Wittingen, Gifhorn, Niedersachsen, Deutschland",52.7289399,10.735743,True
+LSW Netz GmbH,Mitte,Niedersachsen,Ehra,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2035,5.7,"Ehra, Ehra-Lessien, Samtgemeinde Brome, Gifhorn, Niedersachsen, 38468, Deutschland",52.5698323,10.7886663,True
+LSW Netz GmbH,Mitte,Niedersachsen,Papenrode,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2028,14.9,"Papenrode, Groß Twülpstedt, Samtgemeinde Velpke, Landkreis Helmstedt, Niedersachsen, 38464, Deutschland",52.3667849,10.9486443,True
+LSW Netz GmbH,Mitte,Niedersachsen,Oerrel,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2031,4.9,"Oerrel, Munster, Heidekreis, Niedersachsen, Deutschland",52.9610835,10.1864248,True
+LSW Netz GmbH,Mitte,Niedersachsen,Gamsen,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2031,6.5,"Gamsen, Gifhorn, Niedersachsen, 38518, Deutschland",52.5072449,10.5398541,True
+LSW Netz GmbH,Mitte,Niedersachsen,Hattorf,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2028,9.3,"Hattorf, Wolfsburg, Niedersachsen, 38444, Deutschland",52.3600784,10.7463328,True
+LSW Netz GmbH,Mitte,Niedersachsen,Papenrode,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2039,17.0,"Papenrode, Groß Twülpstedt, Samtgemeinde Velpke, Landkreis Helmstedt, Niedersachsen, 38464, Deutschland",52.3667849,10.9486443,True
+LSW Netz GmbH,Mitte,Niedersachsen,Meinersen,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2039,25.5,"Meinersen, Samtgemeinde Meinersen, Gifhorn, Niedersachsen, 38536, Deutschland",52.4713946,10.3610062,True
+LSW Netz GmbH,Mitte,Niedersachsen,Neindorf,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2036,11.7,"Neindorf, Denkte, Samtgemeinde Elm-Asse, Landkreis Wolfenbüttel, Niedersachsen, 38324, Deutschland",52.1267007,10.5807074,True
+LSW Netz GmbH,Mitte,Niedersachsen,Meinersen,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2039,11.7,"Meinersen, Samtgemeinde Meinersen, Gifhorn, Niedersachsen, 38536, Deutschland",52.4713946,10.3610062,True
+LSW Netz GmbH,Mitte,Niedersachsen,Wesendorf,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2027,11.7,"Wesendorf, Samtgemeinde Wesendorf, Gifhorn, Niedersachsen, 29392, Deutschland",52.592945,10.5347367,True
+LSW Netz GmbH,Mitte,Niedersachsen,Fallersleben,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2039,13.56,"Fallersleben, Wolfsburg, Niedersachsen, 38442, Deutschland",52.4190578,10.7187346,True
+LSW Netz GmbH,Mitte,Niedersachsen,Gamsen,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2039,30.13,"Gamsen, Gifhorn, Niedersachsen, 38518, Deutschland",52.5072449,10.5398541,True
+LSW Netz GmbH,Mitte,Niedersachsen,Fallersleben,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2035,88.14,"Fallersleben, Wolfsburg, Niedersachsen, 38442, Deutschland",52.4190578,10.7187346,True
+LSW Netz GmbH,Mitte,Niedersachsen,Fallersleben,HS,Ertüchtigung Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2028,5.0,"Fallersleben, Wolfsburg, Niedersachsen, 38442, Deutschland",52.4190578,10.7187346,True
+LSW Netz GmbH,Mitte,Niedersachsen,Fallersleben,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2027,1.47,"Fallersleben, Wolfsburg, Niedersachsen, 38442, Deutschland",52.4190578,10.7187346,True
+LSW Netz GmbH,Mitte,Niedersachsen,Wittingen,HS,Ertüchtigung Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2027,3.08,"Wittingen, Gifhorn, Niedersachsen, Deutschland",52.7289399,10.735743,True
+LSW Netz GmbH,Mitte,Niedersachsen,Gamsen,HS,Neubau Leitungen,0.0,0.0,k.A.,konkrete Planung,2031,49.97,"Gamsen, Gifhorn, Niedersachsen, 38518, Deutschland",52.5072449,10.5398541,True
+LSW Netz GmbH,Mitte,Niedersachsen,Papenrode,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2028,14.9,"Papenrode, Groß Twülpstedt, Samtgemeinde Velpke, Landkreis Helmstedt, Niedersachsen, 38464, Deutschland",52.3667849,10.9486443,True
+LSW Netz GmbH,Mitte,Niedersachsen,Oerrel,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2031,4.9,"Oerrel, Munster, Heidekreis, Niedersachsen, Deutschland",52.9610835,10.1864248,True
+LSW Netz GmbH,Mitte,Niedersachsen,Gamsen,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2031,6.5,"Gamsen, Gifhorn, Niedersachsen, 38518, Deutschland",52.5072449,10.5398541,True
+LSW Netz GmbH,Mitte,Niedersachsen,Hattorf,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2028,9.3,"Hattorf, Wolfsburg, Niedersachsen, 38444, Deutschland",52.3600784,10.7463328,True
+LSW Netz GmbH,Mitte,Niedersachsen,Papenrode,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2039,17.0,"Papenrode, Groß Twülpstedt, Samtgemeinde Velpke, Landkreis Helmstedt, Niedersachsen, 38464, Deutschland",52.3667849,10.9486443,True
+LSW Netz GmbH,Mitte,Niedersachsen,Meinersen,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2039,25.5,"Meinersen, Samtgemeinde Meinersen, Gifhorn, Niedersachsen, 38536, Deutschland",52.4713946,10.3610062,True
+LSW Netz GmbH,Mitte,Niedersachsen,Neindorf,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2036,11.7,"Neindorf, Denkte, Samtgemeinde Elm-Asse, Landkreis Wolfenbüttel, Niedersachsen, 38324, Deutschland",52.1267007,10.5807074,True
+LSW Netz GmbH,Mitte,Niedersachsen,Meinersen,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2039,11.7,"Meinersen, Samtgemeinde Meinersen, Gifhorn, Niedersachsen, 38536, Deutschland",52.4713946,10.3610062,True
+LSW Netz GmbH,Mitte,Niedersachsen,Wesendorf,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2037,25.0,"Wesendorf, Samtgemeinde Wesendorf, Gifhorn, Niedersachsen, 29392, Deutschland",52.592945,10.5347367,True
+LSW Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2028,29.12,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+LSW Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2028,20.8,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+LSW Netz GmbH,Mitte,Niedersachsen,k.A.,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2026,0.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+LSW Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2039,0.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+LSW Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2035,0.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+LSW Netz GmbH,Mitte,Niedersachsen,k.A.,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2039,0.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+LSW Netz GmbH,Mitte,Sachsen-Anhalt,Oebisfelde,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2039,11.7,"Oebisfelde, Oebisfelde-Weferlingen, Börde, Sachsen-Anhalt, 39646, Deutschland",52.4294974,10.9872643,True
+LSW Netz GmbH,Mitte,Sachsen-Anhalt,Bornum,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2025,0.6,"Bornum, Zerbst/Anhalt, Anhalt-Bitterfeld, Sachsen-Anhalt, Deutschland",51.9788201,12.2004124,True
+LSW Netz GmbH,Mitte,Sachsen-Anhalt,Oebisfelde,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2039,11.7,"Oebisfelde, Oebisfelde-Weferlingen, Börde, Sachsen-Anhalt, 39646, Deutschland",52.4294974,10.9872643,True
+LSW Netz GmbH,Mitte,Sachsen-Anhalt,Bornum,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2025,0.6,"Bornum, Zerbst/Anhalt, Anhalt-Bitterfeld, Sachsen-Anhalt, Deutschland",51.9788201,12.2004124,True
+LSW Netz GmbH,Mitte,Sachsen-Anhalt,Bornum,MS,Neubau Leitungen,0.0,0.0,k.A.,vorgesehene Maßnahme,2025,0.6,"Bornum, Zerbst/Anhalt, Anhalt-Bitterfeld, Sachsen-Anhalt, Deutschland",51.9788201,12.2004124,True
+LSW Netz GmbH,Mitte,Sachsen-Anhalt,Oebisfelde,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2039,11.7,"Oebisfelde, Oebisfelde-Weferlingen, Börde, Sachsen-Anhalt, 39646, Deutschland",52.4294974,10.9872643,True
+LSW Netz GmbH,Mitte,Sachsen-Anhalt,Oebisfelde,HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2039,11.7,"Oebisfelde, Oebisfelde-Weferlingen, Börde, Sachsen-Anhalt, 39646, Deutschland",52.4294974,10.9872643,True
+LSW Netz GmbH,Mitte,Niedersachsen,"Neindorf, Denkte",HS,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2036,11.7,"Neindorf, Denkte, Samtgemeinde Elm-Asse, Landkreis Wolfenbüttel, Niedersachsen, 38324, Deutschland",52.1267,10.58071,True

@@ -1,0 +1,190 @@
+VNB-Name,Teilnetzgebiet,Bundesland,Ort / Trasse,Netzebene,Art der Maßnahme,Leitungslänge in km,Übertragungskapazität in MVA,"Netzkomponenten (z.B. UW,Trafo ;Anzahl/Typ)",Projektstatus,Zeithorizont,Kosten in Mio.€,location,latitude,longitude,passt
+MITNETZ STROM GmbH,Ost,Sachsen,Freiberg,HS,Netzoptimierung und -verstärkung,0.0,0.0,Kabel,ermittelter Bedarf,2033,0.1,"Freiberg, Mittelsachsen, Sachsen, 09599, Deutschland",50.9169415,13.3428889,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Reideburg,HS,Neubau Leitungen,6.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,0.2,"Reideburg, Halle (Saale), Sachsen-Anhalt, Deutschland",51.4812,12.0512306,True
+MITNETZ STROM GmbH,Ost,Sachsen,Crossen,HS,Erüchtigungen Leitungen,0.0,0.0,HS-Leitungen,ermittelter Bedarf,2028,0.3,"Erlau, Mittelsachsen, Sachsen, Deutschland",51.0348497,12.9227478,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Braunsbedra,HS,Neubau UW,12.0,0.0,UW,ermittelter Bedarf,k.A.,0.5,"Braunsbedra, Saalekreis, Sachsen-Anhalt, Deutschland",51.2840933,11.8855493,True
+MITNETZ STROM GmbH,Ost,Sachsen,Gersdorf,MS,Erüchtigungen Leitungen,0.0,0.0,MS-Leitungen,ermittelter Bedarf,2028,0.8,"Gersdorf, Zwickau, Sachsen, 09355, Deutschland",50.7500064,12.7166858,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Quedlinburg,HS,Neubau UW,18.0,0.0,UW,ermittelter Bedarf,2033,0.88,"Quedlinburg, Landkreis Harz, Sachsen-Anhalt, Deutschland",51.7855428,11.1519933,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Drebkau,HS/MS,Neubau UW,0.0,0.0,UW,konkrete Planung,2028,1.0,"Drebkau, Spree-Neiße - Sprjewja-Nysa, Brandenburg, 03116, Deutschland",51.6577353,14.2204983,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Bernburg,HS,Erüchtigungen Leitungen,1.0,0.0,HS-Leitungen,konkrete Planung,2026,1.04,"Bernburg, Salzlandkreis, Sachsen-Anhalt, 06406, Deutschland",51.7930788,11.7391606,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Sachsen-Anhalt,HS,Netzoptimierung und -verstärkung,0.0,0.0,Kabel,im Bau,2033,1.18,"Sachsen-Anhalt, Deutschland",51.9280976,11.6812243,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Halle,HS,Erüchtigungen Leitungen,4.0,0.0,HS-Leitungen,konkrete Planung,2026,1.3,"Halle (Saale), Sachsen-Anhalt, Deutschland",51.4824354,11.9712985,True
+MITNETZ STROM GmbH,Ost,Sachsen,Crossen,HS,Erüchtigungen Leitungen,0.0,0.0,HS-Leitungen,ermittelter Bedarf,2028,1.3,"Erlau, Mittelsachsen, Sachsen, Deutschland",51.0348497,12.9227478,True
+MITNETZ STROM GmbH,Ost,Sachsen,Eula,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,1.4,"Eula, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",51.1496022,12.5130329,True
+MITNETZ STROM GmbH,Ost,Sachsen,Crossen,HS,Erüchtigungen Leitungen,7.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,1.4,"Erlau, Mittelsachsen, Sachsen, Deutschland",51.0348497,12.9227478,True
+MITNETZ STROM GmbH,Ost,Sachsen,Crottendorf,MS,Erüchtigungen Leitungen,0.0,0.0,MS-Leitungen,konkrete Planung,2028,1.4,"Crottendorf, Erzgebirgskreis, Sachsen, 09474, Deutschland",50.5169333,12.947132,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Klostermansfeld,HS,Erüchtigungen Leitungen,1.0,0.0,HS-Leitungen,konkrete Planung,2026,1.5,"Klostermansfeld, Mansfelder Grund-Helbra, Mansfeld-Südharz, Sachsen-Anhalt, 06308, Deutschland",51.5841525,11.4933395,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Lauchstädt,HS,Erüchtigungen Leitungen,28.0,0.0,HS-Leitungen,konkrete Planung,2025,1.69,"Goethestadt Bad Lauchstädt, Saalekreis, Sachsen-Anhalt, 06246, Deutschland",51.3874297,11.8679537,True
+MITNETZ STROM GmbH,Ost,Sachsen,Herlasgrün,HS,Erüchtigungen Leitungen,0.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,1.7,"Herlasgrün, Pöhl, Vogtlandkreis, Sachsen, 08543, Deutschland",50.5680975,12.2299537,True
+MITNETZ STROM GmbH,Ost,Brandenburg,k.A.,HS,Netzoptimierung und -verstärkung,0.0,0.0,Kabel,im Bau,2033,2.0,"Brandenburg, Deutschland",52.8455492,13.2461296,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Graustein,HS,Netzoptimierung und -verstärkung,12.0,0.0,Kabel,ermittelter Bedarf,2028,1.8,"Graustein - Syjk, Spremberg, Spree-Neiße - Sprjewja-Nysa, Brandenburg, Deutschland",51.572529,14.4739811,True
+MITNETZ STROM GmbH,Ost,Sachsen,Zwenkau,HS,Erüchtigungen Leitungen,0.0,0.0,HS-Leitungen,im Bau,2026,1.9,"Zwenkau, Landkreis Leipzig, Sachsen, 04442, Deutschland",51.2182735,12.324152,True
+MITNETZ STROM GmbH,Ost,Sachsen,Zwenkau,HS,Erüchtigungen Leitungen,2.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,1.95,"Zwenkau, Landkreis Leipzig, Sachsen, 04442, Deutschland",51.2182735,12.324152,True
+MITNETZ STROM GmbH,Ost,Sachsen,Crottendorf,MS,Rückbau / Altlastentsorgung,-31.5,0.0,k.A.,ermittelter Bedarf,2033,2.0,"Crottendorf, Erzgebirgskreis, Sachsen, 09474, Deutschland",50.5169333,12.947132,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Klostermansfeld,HS,Netzoptimierung und -verstärkung,11.0,0.0,Kabel,ermittelter Bedarf,2028,2.04,"Klostermansfeld, Mansfelder Grund-Helbra, Mansfeld-Südharz, Sachsen-Anhalt, 06308, Deutschland",51.5841525,11.4933395,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Großräschen,HS,Erüchtigungen Leitungen,1.0,0.0,HS-Leitungen,konkrete Planung,2028,2.06,"Großräschen, Oberspreewald-Lausitz - Górne Błota-Łužyca, Brandenburg, 01983, Deutschland",51.5883265,14.0123136,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Oberröblingen,HS,Neubau Leitungen,5.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,2.3,"Oberröblingen, Sangerhausen, Mansfeld-Südharz, Sachsen-Anhalt, Deutschland",51.4377403,11.3083232,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Marke,HS,Netzoptimierung und -verstärkung,24.0,0.0,Kabel,ermittelter Bedarf,2028,2.3,"Marke, Raguhn-Jeßnitz, Anhalt-Bitterfeld, Sachsen-Anhalt, Deutschland",51.7301547,12.2524587,True
+MITNETZ STROM GmbH,Ost,Sachsen,Zwönitz,HS,Erüchtigungen Leitungen,0.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,2.35,"Zwönitz, Erzgebirgskreis, Sachsen, 08297, Deutschland",50.6301029,12.8131994,True
+MITNETZ STROM GmbH,Ost,Sachsen,Röhrsdorf,HS,Netzoptimierung und -verstärkung,9.0,0.0,Kabel,ermittelter Bedarf,2033,2.38,"Röhrsdorf, Chemnitz, Sachsen, 09247, Deutschland",50.8635926,12.8453055,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Ragow,HS,Erüchtigungen Leitungen,1.0,0.0,HS-Leitungen,konkrete Planung,2026,2.5,"Ragow, Lübbenau/Spreewald, Oberspreewald-Lausitz - Górne Błota-Łužyca, Brandenburg, Deutschland",51.8862135,13.9010632,True
+MITNETZ STROM GmbH,Ost,Sachsen,Zwenkau,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,2.5,"Zwenkau, Landkreis Leipzig, Sachsen, 04442, Deutschland",51.2182735,12.324152,True
+MITNETZ STROM GmbH,Ost,Sachsen,Oberlungwitz,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,2.58,"Oberlungwitz, Zwickau, Sachsen, 09353, Deutschland",50.7894372,12.7343596,True
+MITNETZ STROM GmbH,Ost,Sachsen,Plauen,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2026,2.58,"Plauen, Vogtlandkreis, Sachsen, Deutschland",50.4950632,12.1346523,True
+MITNETZ STROM GmbH,Ost,Sachsen,Zwickau,HS,Erüchtigungen UW,0.0,0.0,UW,im Bau,2025,2.62,"Zwickau, Langenweißbach, Zwickau, Sachsen, 08134, Deutschland",50.7185043,12.4939267,True
+MITNETZ STROM GmbH,Ost,Sachsen,Lößnitz,HS,Erüchtigungen UW,0.0,0.0,UW,ermittelter Bedarf,2033,2.62,"Lößnitz, Erzgebirgskreis, Sachsen, 08294, Deutschland",50.6210947,12.730753,True
+MITNETZ STROM GmbH,Ost,Sachsen,Gersdorf,k.A.,Netzoptimierung und -verstärkung,0.0,0.0,Kabel,konkrete Planung,2028,2.62,"Gersdorf, Zwickau, Sachsen, 09355, Deutschland",50.7500064,12.7166858,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Graustein,HS,Erüchtigungen Leitungen,3.0,0.0,HS-Leitungen,konkrete Planung,2029,2.64,"Graustein - Syjk, Spremberg, Spree-Neiße - Sprjewja-Nysa, Brandenburg, Deutschland",51.572529,14.4739811,True
+MITNETZ STROM GmbH,Ost,Sachsen,Zschopau,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,2.8,"Zschopau, Erzgebirgskreis, Sachsen, Deutschland",50.7469606,13.0695613,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Halle,HS,Neubau Leitungen,0.0,0.0,HS-Leitungen,ermittelter Bedarf,k.A.,2.8,"Halle (Saale), Sachsen-Anhalt, Deutschland",51.4824354,11.9712985,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Zörbig,HS/MS,Neubau UW,2.0,0.0,UW,konkrete Planung,2029,2.88,"Zörbig, Anhalt-Bitterfeld, Sachsen-Anhalt, 06780, Deutschland",51.6291126,12.1175042,True
+MITNETZ STROM GmbH,Ost,Sachsen,Röhrsdorf,HS,Netzoptimierung und -verstärkung,0.0,0.0,Kabel,ermittelter Bedarf,2028,3.2,"Röhrsdorf, Chemnitz, Sachsen, 09247, Deutschland",50.8635926,12.8453055,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Spremberg,HS,Erüchtigungen UW,0.0,0.0,UW,ermittelter Bedarf,2028,3.3,"Spremberg, Spree-Neiße - Sprjewja-Nysa, Brandenburg, 03130, Deutschland",51.5714513,14.3804302,True
+MITNETZ STROM GmbH,Ost,Sachsen,Silberstraße,HS,Rückbau / Altlastentsorgung,0.0,0.0,,konkrete Planung,2028,3.3,"Silberstraße, Wilkau-Haßlau, Zwickau, Sachsen, Deutschland",50.6626566,12.5488057,True
+MITNETZ STROM GmbH,Ost,Sachsen,Flöha,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2030,3.4,"Flöha, Mittelsachsen, Sachsen, 09557, Deutschland",50.8503529,13.0772325,True
+MITNETZ STROM GmbH,Ost,Sachsen,Plaußig,HS,Erüchtigungen UW,0.0,0.0,UW,ermittelter Bedarf,2033,3.43,"Plaußig, Leipzig, Sachsen, 04349, Deutschland",51.3922413,12.4549089,True
+MITNETZ STROM GmbH,Ost,Sachsen,Röhrsdorf,HS,Erüchtigungen Leitungen,0.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,3.44,"Röhrsdorf, Chemnitz, Sachsen, 09247, Deutschland",50.8635926,12.8453055,True
+MITNETZ STROM GmbH,Ost,Sachsen,Eula,HS,Neubau Leitungen,7.0,0.0,HS-Leitungen,ermittelter Bedarf,2028,3.5,"Eula, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",51.1496022,12.5130329,True
+MITNETZ STROM GmbH,Ost,Sachsen,Zwönitz,HS,Erüchtigungen Leitungen,12.0,0.0,HS-Leitungen,konkrete Planung,2029,3.8,"Zwönitz, Erzgebirgskreis, Sachsen, 08297, Deutschland",50.6301029,12.8131994,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Lauchstädt,HS,Neubau Leitungen,25.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,3.9,"Goethestadt Bad Lauchstädt, Saalekreis, Sachsen-Anhalt, 06246, Deutschland",51.3874297,11.8679537,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Marke,HS,Netzoptimierung und -verstärkung,4.0,0.0,Kabel,konkrete Planung,2028,4.0,"Marke, Raguhn-Jeßnitz, Anhalt-Bitterfeld, Sachsen-Anhalt, Deutschland",51.7301547,12.2524587,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Lauchstädt,HS,Erüchtigungen Leitungen,9.0,0.0,HS-Leitungen,ermittelter Bedarf,2028,4.3,"Goethestadt Bad Lauchstädt, Saalekreis, Sachsen-Anhalt, 06246, Deutschland",51.3874297,11.8679537,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Sangerhausen,HS,Neubau UW,4.0,0.0,UW,ermittelter Bedarf,k.A.,4.9,"Sangerhausen, Mansfeld-Südharz, Sachsen-Anhalt, 06526, Deutschland",51.4729797,11.2981851,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Halle,HS,Erüchtigungen UW,0.0,0.0,UW,im Bau,2026,5.0,"Halle (Saale), Sachsen-Anhalt, Deutschland",51.4824354,11.9712985,True
+MITNETZ STROM GmbH,Ost,Sachsen,Geithain,HS,Erüchtigungen UW,0.0,0.0,UW,ermittelter Bedarf,2033,5.08,"Geithain, Landkreis Leipzig, Sachsen, 04643, Deutschland",51.054325,12.694675,True
+MITNETZ STROM GmbH,Ost,Sachsen,Eula,HS,Erüchtigungen UW,0.0,0.0,UW,ermittelter Bedarf,2033,5.15,"Eula, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",51.1496022,12.5130329,True
+MITNETZ STROM GmbH,Ost,Sachsen,Niederwiesa,HS,Neubau Leitungen,4.0,0.0,HS-Leitungen,konkrete Planung,2028,5.18,"Niederwiesa, Mittelsachsen, Sachsen, 09577, Deutschland",50.8630791,13.0159707,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Lauchhammer,HS,Neubau UW,2.0,0.0,UW,ermittelter Bedarf,2028,5.33,"Lauchhammer, Oberspreewald-Lausitz - Górne Błota-Łužyca, Brandenburg, 01979, Deutschland",51.4977774,13.7400618,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Marke,HS,Neubau Leitungen,7.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,5.58,"Marke, Raguhn-Jeßnitz, Anhalt-Bitterfeld, Sachsen-Anhalt, Deutschland",51.7301547,12.2524587,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Marke,HS,Erüchtigungen Leitungen,10.0,0.0,HS-Leitungen,konkrete Planung,2029,5.72,"Marke, Raguhn-Jeßnitz, Anhalt-Bitterfeld, Sachsen-Anhalt, Deutschland",51.7301547,12.2524587,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Doberlug,HS,Erüchtigungen Leitungen,23.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,5.82,"Doberlug, Doberlug-Kirchhain, Elbe-Elster, Brandenburg, 03253, Deutschland",51.6096879,13.5526992,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Rieder,HS,Erüchtigungen UW,0.0,0.0,UW,ermittelter Bedarf,2033,5.89,"Rieder, Ballenstedt, Landkreis Harz, Sachsen-Anhalt, Deutschland",51.7338532,11.1676301,True
+MITNETZ STROM GmbH,Ost,Sachsen,Röhrsdorf,HS,Netzoptimierung und -verstärkung,0.0,0.0,Kabel,ermittelter Bedarf,2033,6.05,"Röhrsdorf, Chemnitz, Sachsen, 09247, Deutschland",50.8635926,12.8453055,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Marke,HS,Erüchtigungen Leitungen,5.0,0.0,HS-Leitungen,im Bau,2025,6.2,"Marke, Raguhn-Jeßnitz, Anhalt-Bitterfeld, Sachsen-Anhalt, Deutschland",51.7301547,12.2524587,True
+MITNETZ STROM GmbH,Ost,Sachsen,Schönheide,HS,Erüchtigungen UW,0.0,0.0,UW,ermittelter Bedarf,2028,6.28,"Schönheide, Erzgebirgskreis, Sachsen, 08304, Deutschland",50.503462,12.5353494,True
+MITNETZ STROM GmbH,Ost,Sachsen,Delitzsch,HS/MS,Erüchtigungen UW,0.0,0.0,UW,im Bau,2024,6.4,"Delitzsch, Nordsachsen, Sachsen, 04509, Deutschland",51.5255661,12.342857,True
+MITNETZ STROM GmbH,Ost,Sachsen,Eilenburg,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,6.0,"Eilenburg, Nordsachsen, Sachsen, 04838, Deutschland",51.4586736,12.6344389,True
+MITNETZ STROM GmbH,Ost,Sachsen,Meerane,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,6.54,"Meerane, Meerane-Schönberg, Zwickau, Sachsen, 08393, Deutschland",50.8427835,12.4581578,True
+MITNETZ STROM GmbH,Ost,Sachsen,Oberelsdorf,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,6.54,"Elsdorf, Oberelsdorf, Hauptstraße, Lunzenau, Mittelsachsen, Sachsen, 09328, Deutschland",50.9710367,12.70282,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Jessen,HS,Erüchtigungen Leitungen,17.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,6.58,"Jessen (Elster), Wittenberg, Sachsen-Anhalt, Deutschland",51.7931158,12.9590741,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Calau,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,7.0,"Calau, Oberspreewald-Lausitz - Górne Błota-Łužyca, Brandenburg, 03205, Deutschland",51.7466674,13.949307,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Ragow,HS,Erüchtigungen Leitungen,32.0,0.0,HS-Leitungen,ermittelter Bedarf,2028,7.1,"Ragow, Lübbenau/Spreewald, Oberspreewald-Lausitz - Górne Błota-Łužyca, Brandenburg, Deutschland",51.8862135,13.9010632,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Lauchstädt,HS,Erüchtigungen Leitungen,7.0,0.0,HS-Leitungen,im Bau,2024,7.0,"Goethestadt Bad Lauchstädt, Saalekreis, Sachsen-Anhalt, 06246, Deutschland",51.3874297,11.8679537,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Marke,HS,Erüchtigungen Leitungen,11.0,0.0,HS-Leitungen,konkrete Planung,2026,7.5,"Marke, Raguhn-Jeßnitz, Anhalt-Bitterfeld, Sachsen-Anhalt, Deutschland",51.7301547,12.2524587,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Marke,HS,Netzoptimierung und -verstärkung,9.0,0.0,Kabel,ermittelter Bedarf,2033,7.76,"Marke, Raguhn-Jeßnitz, Anhalt-Bitterfeld, Sachsen-Anhalt, Deutschland",51.7301547,12.2524587,True
+MITNETZ STROM GmbH,Ost,Sachsen,Zwönitz,HS,Erüchtigungen Leitungen,13.0,0.0,HS-Leitungen,konkrete Planung,2027,7.89,"Zwönitz, Erzgebirgskreis, Sachsen, 08297, Deutschland",50.6301029,12.8131994,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Klostermansfeld,HS,Netzoptimierung und -verstärkung,22.0,0.0,Kabel,ermittelter Bedarf,2028,8.37,"Klostermansfeld, Mansfelder Grund-Helbra, Mansfeld-Südharz, Sachsen-Anhalt, 06308, Deutschland",51.5841525,11.4933395,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Querfurt,HS,Neubau Leitungen,9.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,8.42,"Querfurt, Saalekreis, Sachsen-Anhalt, 06268, Deutschland",51.378707,11.5974078,True
+MITNETZ STROM GmbH,Ost,Sachsen,Herlasgrün,HS,Erüchtigungen Leitungen,0.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,9.0,"Herlasgrün, Pöhl, Vogtlandkreis, Sachsen, 08543, Deutschland",50.5680975,12.2299537,True
+MITNETZ STROM GmbH,Ost,Sachsen,Röhrsdorf,HS,Erüchtigungen Leitungen,0.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,9.46,"Röhrsdorf, Chemnitz, Sachsen, 09247, Deutschland",50.8635926,12.8453055,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Graustein,HS,Erüchtigungen Leitungen,17.0,0.0,HS-Leitungen,ermittelter Bedarf,2028,9.8,"Graustein - Syjk, Spremberg, Spree-Neiße - Sprjewja-Nysa, Brandenburg, Deutschland",51.572529,14.4739811,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Finsterwalde,HS,Erüchtigungen Leitungen,18.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,9.94,"Finsterwalde, Elbe-Elster, Brandenburg, 03238, Deutschland",51.6315282,13.707358,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Roßla,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,10.0,"Roßla, Südharz, Mansfeld-Südharz, Sachsen-Anhalt, Deutschland",51.4627742,11.0746095,True
+MITNETZ STROM GmbH,Ost,Sachsen,Kriebethal,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,10.1,"Kriebethal, Kriebstein, Mittelsachsen, Sachsen, 04736, Deutschland",51.0494103,13.0193809,True
+MITNETZ STROM GmbH,Ost,Sachsen,Markneukirchen,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,10.1,"Markneukirchen, Vogtlandkreis, Sachsen, Deutschland",50.311883,12.3292151,True
+MITNETZ STROM GmbH,Ost,Sachsen,Niederwiesa,HS,Erüchtigungen UW,0.0,0.0,UW,ermittelter Bedarf,2033,10.1,"Niederwiesa, Mittelsachsen, Sachsen, 09577, Deutschland",50.8630791,13.0159707,True
+MITNETZ STROM GmbH,Ost,Sachsen,Marienberg,HS,Neubau UW,5.0,0.0,UW,ermittelter Bedarf,2028,10.1,"Marienberg, Erzgebirgskreis, Sachsen, 09496, Deutschland",50.6507279,13.163188,True
+MITNETZ STROM GmbH,Ost,Sachsen,Kriebethal,k.A.,Netzoptimierung und -verstärkung,0.0,0.0,Kabel,konkrete Planung,2028,10.1,"Kriebethal, Kriebstein, Mittelsachsen, Sachsen, 04736, Deutschland",51.0494103,13.0193809,True
+MITNETZ STROM GmbH,Ost,Sachsen,Althen,HS,Neubau UW,0.0,0.0,UW,ermittelter Bedarf,2028,10.1,"Althen, Leipzig, Sachsen, 04451, Deutschland",51.3404931,12.5211373,True
+MITNETZ STROM GmbH,Ost,Sachsen,Oberelsdorf,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2026,10.4,"Elsdorf, Oberelsdorf, Hauptstraße, Lunzenau, Mittelsachsen, Sachsen, 09328, Deutschland",50.9710367,12.70282,True
+MITNETZ STROM GmbH,Ost,Sachsen,Aue,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,10.44,"Aue, Aue-Bad Schlema, Erzgebirgskreis, Sachsen, 08280, Deutschland",50.586993,12.6992687,True
+MITNETZ STROM GmbH,Ost,Sachsen,Auerbach,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,10.44,"Auerbach/Vogtland, Vogtlandkreis, Sachsen, 08209, Deutschland",50.5087816,12.400153,True
+MITNETZ STROM GmbH,Ost,Sachsen,Burgstädt,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,10.44,"Burgstädt, Mittelsachsen, Sachsen, 09217, Deutschland",50.9199843,12.8056571,True
+MITNETZ STROM GmbH,Ost,Sachsen,Frankenberg,HS,Erüchtigungen UW,0.0,0.0,UW,im Bau,2025,10.44,"Frankenberg/Sachsen, Mittelsachsen, Sachsen, 09669, Deutschland",50.9110365,13.0331023,True
+MITNETZ STROM GmbH,Ost,Sachsen,Plauen,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2025,10.44,"Plauen, Vogtlandkreis, Sachsen, Deutschland",50.4950632,12.1346523,True
+MITNETZ STROM GmbH,Ost,Sachsen,Zwickau,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,10.44,"Zwickau, Langenweißbach, Zwickau, Sachsen, 08134, Deutschland",50.7185043,12.4939267,True
+MITNETZ STROM GmbH,Ost,Sachsen,Oberlungwitz,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,10.44,"Oberlungwitz, Zwickau, Sachsen, 09353, Deutschland",50.7894372,12.7343596,True
+MITNETZ STROM GmbH,Ost,Sachsen,Schönheide,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,10.44,"Schönheide, Erzgebirgskreis, Sachsen, 08304, Deutschland",50.503462,12.5353494,True
+MITNETZ STROM GmbH,Ost,Sachsen,Thalheim,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,10.44,"Thalheim/Erzgebirge, Erzgebirgskreis, Sachsen, 09380, Deutschland",50.7024268,12.8514034,True
+MITNETZ STROM GmbH,Ost,Sachsen,Treuen,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,10.44,"Treuen, Treuen/Neuensalz, Vogtlandkreis, Sachsen, 08233, Deutschland",50.5389413,12.3069937,True
+MITNETZ STROM GmbH,Ost,Sachsen,Waldenburg,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,10.44,"Waldenburg, Zwickau, Sachsen, 08396, Deutschland",50.8743975,12.6003812,True
+MITNETZ STROM GmbH,Ost,Sachsen,Zwönitz,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,10.44,"Zwönitz, Erzgebirgskreis, Sachsen, 08297, Deutschland",50.6301029,12.8131994,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Halle,HS,Netzoptimierung und -verstärkung,33.0,0.0,Kabel,ermittelter Bedarf,2033,10.44,"Halle (Saale), Sachsen-Anhalt, Deutschland",51.4824354,11.9712985,True
+MITNETZ STROM GmbH,Ost,Sachsen,Zwönitz,HS,Erüchtigungen Leitungen,37.6,0.0,HS-Leitungen,ermittelter Bedarf,2028,10.44,"Zwönitz, Erzgebirgskreis, Sachsen, 08297, Deutschland",50.6301029,12.8131994,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Schierstedt,HS,Neubau UW,0.0,0.0,UW,konkrete Planung,2031,10.5,"Schierstedt, Hauptstraße, Groß Schierstedt, Aschersleben, Salzlandkreis, Sachsen-Anhalt, 06449, Deutschland",51.7514674,11.5210623,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Uckro,HS,Neubau Leitungen,12.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,10.65,"Uckro, Luckau, Dahme-Spreewald, Brandenburg, Deutschland",51.8529092,13.6122219,True
+MITNETZ STROM GmbH,Ost,Sachsen,Silberstraße,HS,Neubau Leitungen,15.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,10.9,"Silberstraße, Wilkau-Haßlau, Zwickau, Sachsen, Deutschland",50.6626566,12.5488057,True
+MITNETZ STROM GmbH,Ost,Sachsen,Röhrsdorf,HS,Erüchtigungen Leitungen,9.0,0.0,HS-Leitungen,im Bau,2025,11.0,"Röhrsdorf, Chemnitz, Sachsen, 09247, Deutschland",50.8635926,12.8453055,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Grano,HS/MS,Neubau UW,0.0,0.0,UW,konkrete Planung,2026,11.13,"Grano - Granow, Schenkendöbern, Spree-Neiße - Sprjewja-Nysa, Brandenburg, 03172, Deutschland",51.9748705,14.630312,True
+MITNETZ STROM GmbH,Ost,Sachsen,Niederwiesa,HS,Erüchtigungen Leitungen,28.0,0.0,HS-Leitungen,ermittelter Bedarf,2028,11.61,"Niederwiesa, Mittelsachsen, Sachsen, 09577, Deutschland",50.8630791,13.0159707,True
+MITNETZ STROM GmbH,Ost,Sachsen,Eula,HS,Erüchtigungen Leitungen,0.0,0.0,HS-Leitungen,im Bau,2025,11.7,"Eula, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",51.1496022,12.5130329,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Querfurt,HS,Neubau UW,0.0,0.0,UW,konkrete Planung,2027,11.97,"Querfurt, Saalekreis, Sachsen-Anhalt, 06268, Deutschland",51.378707,11.5974078,True
+MITNETZ STROM GmbH,Ost,Sachsen,Crossen,HS,Netzoptimierung und -verstärkung,0.0,0.0,Kabel,ermittelter Bedarf,2033,12.4,"Erlau, Mittelsachsen, Sachsen, Deutschland",51.0348497,12.9227478,True
+MITNETZ STROM GmbH,Ost,Sachsen,k.A.,HS,Netzoptimierung und -verstärkung,0.0,0.0,Kabel,im Bau,2033,13.0,"Sachsen, Deutschland",50.9295798,13.4585052,True
+MITNETZ STROM GmbH,Ost,Sachsen,Herlasgrün,HS,Erüchtigungen Leitungen,14.0,0.0,HS-Leitungen,im Bau,2026,13.0,"Herlasgrün, Pöhl, Vogtlandkreis, Sachsen, 08543, Deutschland",50.5680975,12.2299537,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Querfurt,HS,Neubau Leitungen,13.0,0.0,HS-Leitungen,konkrete Planung,2027,13.1,"Querfurt, Saalekreis, Sachsen-Anhalt, 06268, Deutschland",51.378707,11.5974078,True
+MITNETZ STROM GmbH,Ost,Sachsen,Crottendorf,HS/MS,Neubau UW,0.0,0.0,UW,konkrete Planung,2027,13.1,"Crottendorf, Erzgebirgskreis, Sachsen, 09474, Deutschland",50.5169333,12.947132,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Schwarzheide,HS,Erüchtigungen Leitungen,14.0,0.0,HS-Leitungen,konkrete Planung,2025,13.12,"Schwarzheide, Oberspreewald-Lausitz - Górne Błota-Łužyca, Brandenburg, 01987, Deutschland",51.4858276,13.8306977,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Quedlinburg,HS,Erüchtigungen UW,0.0,0.0,UW,ermittelter Bedarf,2033,13.17,"Quedlinburg, Landkreis Harz, Sachsen-Anhalt, Deutschland",51.7855428,11.1519933,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Brandenburg,HS,Netzoptimierung und -verstärkung,0.0,0.0,Kabel,konkrete Planung,2033,14.0,"Brandenburg, Deutschland",52.8455492,13.2461296,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Finsterwalde,HS,Netzoptimierung und -verstärkung,20.0,0.0,Kabel,ermittelter Bedarf,2028,14.88,"Finsterwalde, Elbe-Elster, Brandenburg, 03238, Deutschland",51.6315282,13.707358,True
+MITNETZ STROM GmbH,Ost,Sachsen,Westsachsen,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2033,14.98,"Westsachsen, 9, Eisenbahnstraße, Lobstädt, Neukieritzsch, Landkreis Leipzig, Sachsen, 04575, Deutschland",51.1349299,12.4482728,True
+MITNETZ STROM GmbH,Ost,Sachsen,Röhrsdorf,HS,Neubau Leitungen,0.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,16.08,"Röhrsdorf, Chemnitz, Sachsen, 09247, Deutschland",50.8635926,12.8453055,True
+MITNETZ STROM GmbH,Ost,Sachsen,Kuhschnappel,HS,Neubau UW,0.0,0.0,UW,ermittelter Bedarf,2033,16.3,"Kuhschnappel, St. Egidien, Rund um den Auersberg, Zwickau, Sachsen, 09356, Deutschland",50.8055212,12.6430328,True
+MITNETZ STROM GmbH,Ost,Sachsen,Grimma,HS,Erüchtigungen UW,0.0,0.0,UW,im Bau,2025,16.45,"Grimma, Landkreis Leipzig, Sachsen, 04668, Deutschland",51.2383379,12.7287511,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Graustein,HS,Erüchtigungen Leitungen,16.0,0.0,HS-Leitungen,ermittelter Bedarf,2028,17.26,"Graustein - Syjk, Spremberg, Spree-Neiße - Sprjewja-Nysa, Brandenburg, Deutschland",51.572529,14.4739811,True
+MITNETZ STROM GmbH,Ost,Sachsen,Torgau,HS,Erüchtigungen UW,0.0,0.0,UW,ermittelter Bedarf,2033,17.37,"Torgau, Nordsachsen, Sachsen, Deutschland",51.5581272,13.0046538,True
+MITNETZ STROM GmbH,Ost,Sachsen,Delitzsch,HS,Erüchtigungen Leitungen,15.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,17.55,"Delitzsch, Nordsachsen, Sachsen, 04509, Deutschland",51.5255661,12.342857,True
+MITNETZ STROM GmbH,Ost,Sachsen,Eula,HS,Erüchtigungen Leitungen,28.0,0.0,HS-Leitungen,im Bau,2026,18.0,"Eula, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",51.1496022,12.5130329,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Frose,HS,Netzoptimierung und -verstärkung,11.0,0.0,Kabel,ermittelter Bedarf,2033,18.74,"Frose, Seeland, Salzlandkreis, Sachsen-Anhalt, 06464, Deutschland",51.791955,11.3648866,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Lauchstädt,HS,Neubau Leitungen,21.0,0.0,HS-Leitungen,ermittelter Bedarf,k.A.,18.78,"Goethestadt Bad Lauchstädt, Saalekreis, Sachsen-Anhalt, 06246, Deutschland",51.3874297,11.8679537,True
+MITNETZ STROM GmbH,Ost,Sachsen,Röhrsdorf,HS,Neubau Leitungen,17.0,0.0,HS-Leitungen,konkrete Planung,2026,19.0,"Röhrsdorf, Chemnitz, Sachsen, 09247, Deutschland",50.8635926,12.8453055,True
+MITNETZ STROM GmbH,Ost,Sachsen,Silberstraße,HS,Neubau Leitungen,18.0,0.0,HS-Leitungen,konkrete Planung,2029,19.37,"Silberstraße, Wilkau-Haßlau, Zwickau, Sachsen, Deutschland",50.6626566,12.5488057,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Ragow,HS,Neubau Leitungen,10.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,20.04,"Ragow, Lübbenau/Spreewald, Oberspreewald-Lausitz - Górne Błota-Łužyca, Brandenburg, Deutschland",51.8862135,13.9010632,True
+MITNETZ STROM GmbH,Ost,Sachsen,Leipzig,HS,Erüchtigungen Leitungen,12.0,0.0,HS-Leitungen,im Bau,2028,20.04,"Leipzig, Sachsen, Deutschland",51.3406321,12.3747329,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Frose,HS,Netzoptimierung und -verstärkung,0.0,0.0,Kabel,ermittelter Bedarf,2028,20.5,"Frose, Seeland, Salzlandkreis, Sachsen-Anhalt, 06464, Deutschland",51.791955,11.3648866,True
+MITNETZ STROM GmbH,Ost,Sachsen,Oschatz,HS,Erüchtigungen UW,0.0,0.0,UW,im Bau,2027,20.79,"Oschatz, Nordsachsen, Sachsen, 04758, Deutschland",51.2979627,13.1081103,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Finsterwalde,HS,Erüchtigungen Leitungen,10.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,21.06,"Finsterwalde, Elbe-Elster, Brandenburg, 03238, Deutschland",51.6315282,13.707358,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Weißenfels,HS,Erüchtigungen Leitungen,21.0,0.0,HS-Leitungen,konkrete Planung,2026,21.32,"Weißenfels, Burgenlandkreis, Sachsen-Anhalt, Deutschland",51.1999793,11.9667857,True
+MITNETZ STROM GmbH,Ost,Sachsen,Zwickau,HS,Neubau UW,0.0,0.0,UW,ermittelter Bedarf,2033,21.4,"Zwickau, Langenweißbach, Zwickau, Sachsen, 08134, Deutschland",50.7185043,12.4939267,True
+MITNETZ STROM GmbH,Ost,Sachsen,Westerzgebirge,HS,Erüchtigungen Leitungen,11.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,21.45,"Floßteiche im Oberen Vogtland / Westerzgebirge, Floßgrabenweg, Georgenthal, Mühlleithen, Klingenthal, Vogtlandkreis, Sachsen, 08248, Deutschland",50.3999659,12.4822605,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,k.A.,HS/MS,Netzoptimierung und -verstärkung,0.0,0.0,Kabel,im Bau,2033,22.0,"Sachsen-Anhalt, Deutschland",51.9280976,11.6812243,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Graustein,HS,Netzoptimierung und -verstärkung,15.0,0.0,Kabel,ermittelter Bedarf,2028,22.08,"Graustein - Syjk, Spremberg, Spree-Neiße - Sprjewja-Nysa, Brandenburg, Deutschland",51.572529,14.4739811,True
+MITNETZ STROM GmbH,Ost,Sachsen,Crossen,HS,Neubau Leitungen,25.0,0.0,HS-Leitungen,im Bau,2026,23.0,"Erlau, Mittelsachsen, Sachsen, Deutschland",51.0348497,12.9227478,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Großräschen,HS,Erüchtigungen Leitungen,18.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,23.25,"Großräschen, Oberspreewald-Lausitz - Górne Błota-Łužyca, Brandenburg, 01983, Deutschland",51.5883265,14.0123136,True
+MITNETZ STROM GmbH,Ost,Sachsen,Taucha,HS,Erüchtigungen Leitungen,19.0,0.0,HS-Leitungen,ermittelter Bedarf,2028,23.28,"Taucha, Nordsachsen, Sachsen, 04425, Deutschland",51.3799905,12.4936336,True
+MITNETZ STROM GmbH,Ost,Sachsen,k.A.,HS,Neubau Leitungen,0.0,0.0,HS-Leitungen,konkrete Planung,2033,23.94,"Sachsen, Deutschland",50.9295798,13.4585052,True
+MITNETZ STROM GmbH,Ost,Thüringen,Eisenberg,HS,Neubau UW,16.0,0.0,UW,ermittelter Bedarf,k.A.,25.35,"Eisenberg, Saale-Holzland-Kreis, Thüringen, 07607, Deutschland",50.9691346,11.8961116,True
+MITNETZ STROM GmbH,Ost,Sachsen,Oschatz,HS,Erüchtigungen Leitungen,22.0,0.0,HS-Leitungen,ermittelter Bedarf,2030,26.95,"Oschatz, Nordsachsen, Sachsen, 04758, Deutschland",51.2979627,13.1081103,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Großräschen,HS,Netzoptimierung und -verstärkung,28.0,0.0,Kabel,ermittelter Bedarf,2033,26.96,"Großräschen, Oberspreewald-Lausitz - Górne Błota-Łužyca, Brandenburg, 01983, Deutschland",51.5883265,14.0123136,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Querfurt,HS,Neubau Leitungen,25.0,0.0,HS-Leitungen,konkrete Planung,2030,27.13,"Querfurt, Saalekreis, Sachsen-Anhalt, 06268, Deutschland",51.378707,11.5974078,True
+MITNETZ STROM GmbH,Ost,Sachsen,Herlasgrün,HS,Netzoptimierung und -verstärkung,0.6,0.0,Kabel,ermittelter Bedarf,2028,27.8,"Herlasgrün, Pöhl, Vogtlandkreis, Sachsen, 08543, Deutschland",50.5680975,12.2299537,True
+MITNETZ STROM GmbH,Ost,Sachsen,Schkeuditz,HS/MS,Neubau UW,0.0,0.0,UW,konkrete Planung,2027,29.0,"Schkeuditz, Nordsachsen, Sachsen, 04435, Deutschland",51.3938624,12.2208538,True
+MITNETZ STROM GmbH,Ost,Sachsen,Taucha,HS,Erüchtigungen UW,0.0,0.0,UW,ermittelter Bedarf,2028,28.95,"Taucha, Nordsachsen, Sachsen, 04425, Deutschland",51.3799905,12.4936336,True
+MITNETZ STROM GmbH,Ost,Sachsen,Freiberg,HS,Erüchtigungen Leitungen,28.0,0.0,HS-Leitungen,konkrete Planung,2028,29.21,"Freiberg, Mittelsachsen, Sachsen, 09599, Deutschland",50.9169415,13.3428889,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Klostermansfeld,HS,Neubau UW,25.0,0.0,UW,ermittelter Bedarf,2033,29.92,"Klostermansfeld, Mansfelder Grund-Helbra, Mansfeld-Südharz, Sachsen-Anhalt, 06308, Deutschland",51.5841525,11.4933395,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Wittenberg,HS,Neubau UW,36.0,0.0,UW,ermittelter Bedarf,k.A.,31.3,"Wittenberg, Sachsen-Anhalt, Deutschland",51.8666527,12.646761,True
+MITNETZ STROM GmbH,Ost,Sachsen,Herlasgrün,HS,Erüchtigungen Leitungen,0.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,31.4,"Herlasgrün, Pöhl, Vogtlandkreis, Sachsen, 08543, Deutschland",50.5680975,12.2299537,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Klostermansfeld,HS,Neubau Leitungen,38.0,0.0,HS-Leitungen,konkrete Planung,2030,34.89,"Klostermansfeld, Mansfelder Grund-Helbra, Mansfeld-Südharz, Sachsen-Anhalt, 06308, Deutschland",51.5841525,11.4933395,True
+MITNETZ STROM GmbH,Ost,Sachsen,Delitzsch,HS,Neubau Leitungen,31.0,0.0,HS-Leitungen,ermittelter Bedarf,2028,35.34,"Delitzsch, Nordsachsen, Sachsen, 04509, Deutschland",51.5255661,12.342857,True
+MITNETZ STROM GmbH,Ost,Sachsen,Eula,HS,Erüchtigungen Leitungen,36.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,37.26,"Eula, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",51.1496022,12.5130329,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Altdöbern,HS,Neubau Leitungen,4.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,38.26,"Altdöbern, Oberspreewald-Lausitz - Górne Błota-Łužyca, Brandenburg, Deutschland",51.6511561,14.0342532,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Drebkau,HS,Erüchtigungen Leitungen,21.0,0.0,HS-Leitungen,konkrete Planung,2028,39.2,"Drebkau, Spree-Neiße - Sprjewja-Nysa, Brandenburg, 03116, Deutschland",51.6577353,14.2204983,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Lauchstädt,HS,Netzoptimierung und -verstärkung,5.0,0.0,Kabel,ermittelter Bedarf,2033,40.0,"Goethestadt Bad Lauchstädt, Saalekreis, Sachsen-Anhalt, 06246, Deutschland",51.3874297,11.8679537,True
+MITNETZ STROM GmbH,Ost,Sachsen,Eula,HS,Erüchtigungen Leitungen,39.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,45.63,"Eula, Borna, Landkreis Leipzig, Sachsen, 04552, Deutschland",51.1496022,12.5130329,True
+MITNETZ STROM GmbH,Ost,Sachsen,Röhrsdorf,HS,Netzoptimierung und -verstärkung,0.0,0.0,Kabel,ermittelter Bedarf,2033,49.1,"Röhrsdorf, Chemnitz, Sachsen, 09247, Deutschland",50.8635926,12.8453055,True
+MITNETZ STROM GmbH,Ost,Sachsen,Delitzsch,HS,Neubau UW,18.0,0.0,UW,konkrete Planung,2028,54.33,"Delitzsch, Nordsachsen, Sachsen, 04509, Deutschland",51.5255661,12.342857,True
+MITNETZ STROM GmbH,Ost,Brandenburg,Graustein,HS,Erüchtigungen Leitungen,12.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,57.24,"Graustein - Syjk, Spremberg, Spree-Neiße - Sprjewja-Nysa, Brandenburg, Deutschland",51.572529,14.4739811,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Marke,HS,Netzoptimierung und -verstärkung,4.0,0.0,Kabel,ermittelter Bedarf,2033,75.22,"Marke, Raguhn-Jeßnitz, Anhalt-Bitterfeld, Sachsen-Anhalt, Deutschland",51.7301547,12.2524587,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,Weißenfels,HS,Neubau Leitungen,9.0,0.0,HS-Leitungen,ermittelter Bedarf,2028,83.35,"Weißenfels, Burgenlandkreis, Sachsen-Anhalt, Deutschland",51.1999793,11.9667857,True
+MITNETZ STROM GmbH,Ost,Sachsen,Annaberg-Buchholz,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2028,3.3,"Annaberg-Buchholz, Erzgebirgskreis, Sachsen, 09456, Deutschland",50.5788781,13.0106108,True
+MITNETZ STROM GmbH,Ost,Sachsen,Annaberg-Buchholz,HS/MS,Neubau UW,0.0,0.0,UW,konkrete Planung,2027,10.1,"Annaberg-Buchholz, Erzgebirgskreis, Sachsen, 09456, Deutschland",50.5788781,13.0106108,True
+MITNETZ STROM GmbH,Ost,Sachsen,"Falkenberg, Trossin",HS,Erüchtigungen Leitungen,4.0,0.0,HS-Leitungen,konkrete Planung,2028,1.4,"Falkenberg, Trossin, Dommitzsch, Nordsachsen, Sachsen, Deutschland",51.6131287,12.7682527,True
+MITNETZ STROM GmbH,Ost,Sachsen,Limbach-Oberfrohna,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2027,10.44,"Limbach-Oberfrohna, Zwickau, Sachsen, 09212, Deutschland",50.8608138,12.7545462,True
+MITNETZ STROM GmbH,Ost,Brandenburg,"Neuendorf, Brandenburg an der Havel, 14770",HS,Netzoptimierung und -verstärkung,20.0,0.0,Kabel,ermittelter Bedarf,2033,17.26,"Neuendorf, Brandenburg an der Havel, Brandenburg, 14770, Deutschland",52.3950146,12.5071949,True
+MITNETZ STROM GmbH,Ost,Brandenburg,"Neuendorf, Brandenburg an der Havel, 14770",HS,Erüchtigungen Leitungen,11.0,0.0,HS-Leitungen,konkrete Planung,2030,2.68,"Neuendorf, Brandenburg an der Havel, Brandenburg, 14770, Deutschland",52.3950146,12.5071949,True
+MITNETZ STROM GmbH,Ost,Sachsen,Schwarzenberg/Erzgebirge,HS,Erüchtigungen UW,0.0,0.0,UW,im Bau,2025,10.77,"Schwarzenberg/Erzgebirge, Erzgebirgskreis, Sachsen, 08340, Deutschland",50.538248,12.7826635,True
+MITNETZ STROM GmbH,Ost,Sachsen,k.A.,HS,Erüchtigungen UW,0.0,0.0,UW,konkrete Planung,2025,14.3,"Sachsen, Deutschland",50.9295798,13.4585052,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,k.A.,k.A.,Ersatz(neubau) mit Erhöhung der Übertragungskapazität,0.0,0.0,"UW, Trafo",ermittelter Bedarf,2028,10.0,"Sachsen-Anhalt, Deutschland",51.9280976,11.6812243,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,k.A.,HS,Erüchtigungen UW,0.0,0.0,UW,ermittelter Bedarf,2033,15.67,"Sachsen-Anhalt, Deutschland",51.9280976,11.6812243,True
+MITNETZ STROM GmbH,Ost,Brandenburg,k.A.,HS,Erüchtigungen Leitungen,39.0,0.0,HS-Leitungen,ermittelter Bedarf,2028,17.47,"Brandenburg, Deutschland",52.8455492,13.2461296,True
+MITNETZ STROM GmbH,Ost,Brandenburg,k.A.,HS,Erüchtigungen Leitungen,48.0,0.0,HS-Leitungen,ermittelter Bedarf,2028,53.82,"Brandenburg, Deutschland",52.8455492,13.2461296,True
+MITNETZ STROM GmbH,Ost,Sachsen,k.A.,HS,Neubau Leitungen,14.0,0.0,HS-Leitungen,konkrete Planung,2027,16.99,"Sachsen, Deutschland",50.9295798,13.4585052,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,k.A.,HS,Neubau Leitungen,12.0,0.0,HS-Leitungen,ermittelter Bedarf,2033,11.84,"Sachsen-Anhalt, Deutschland",51.9280976,11.6812243,True
+MITNETZ STROM GmbH,Ost,Sachsen,k.A.,HS,Erüchtigungen Leitungen,4.0,0.0,HS-Leitungen,konkrete Planung,2026,2.5,"Sachsen, Deutschland",50.9295798,13.4585052,True
+MITNETZ STROM GmbH,Ost,Sachsen,k.A.,HS,Netzoptimierung und -verstärkung,7.0,0.0,Kabel,ermittelter Bedarf,2033,5.1,"Sachsen, Deutschland",50.9295798,13.4585052,True
+MITNETZ STROM GmbH,Ost,Sachsen,k.A.,HS,Netzoptimierung und -verstärkung,16.0,0.0,Kabel,ermittelter Bedarf,2033,14.51,"Sachsen, Deutschland",50.9295798,13.4585052,True
+MITNETZ STROM GmbH,Ost,Sachsen,k.A.,HS,Netzoptimierung und -verstärkung,0.0,0.0,Kabel,im Bau,2028,1.02,"Sachsen, Deutschland",50.9295798,13.4585052,True
+MITNETZ STROM GmbH,Ost,Sachsen,k.A.,HS,Erüchtigungen Leitungen,11.0,0.0,HS-Leitungen,ermittelter Bedarf,2028,3.84,"Sachsen, Deutschland",50.9295798,13.4585052,True
+MITNETZ STROM GmbH,Ost,Brandenburg,k.A.,HS,Neubau UW,8.0,0.0,UW,ermittelter Bedarf,2033,10.11,"Brandenburg, Deutschland",52.8455492,13.2461296,True
+MITNETZ STROM GmbH,Ost,Sachsen-Anhalt,k.A.,HS,Erüchtigungen UW,0.0,0.0,UW,im Bau,2033,13.0,"Sachsen-Anhalt, Deutschland",51.9280976,11.6812243,True

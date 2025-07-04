@@ -1,0 +1,115 @@
+VNB-Name,Teilnetzgebiet,Bundesland,Ort / Trasse,Netzebene,Art der Maßnahme,Leitungslänge in km,Übertragungskapazität in MVA,"Netzkomponenten (z.B. UW,Trafo ;Anzahl/Typ)",Projektstatus,Zeithorizont,Kosten in Mio.€,location,latitude,longitude,passt
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Clausthal,k.A.,Neubau Trafo,0.0,6.5,1,abgeschlossen,2023,0.0,"Clausthal, Clausthal-Zellerfeld, Landkreis Goslar, Niedersachsen, 38678, Deutschland",51.8043301,10.3338277,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,27.0,1,vorgesehene Maßnahme,2029,2.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Ertüchtigung Leitungen,120.0,0.0,k.A.,im Bau,2028,2.5,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Petersenspule,0.0,60.0,1,im Bau,2024,1.85,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,0.0,1,im Bau,2024,2.2,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Kalefeld,k.A.,Neubau Trafo,0.0,25.0,1,im Bau,2027,1.5,"Kalefeld, Landkreis Northeim, Niedersachsen, 37589, Deutschland",51.8,10.0333,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Bad Lauterberg,k.A.,Neubau Leitungen,12.0,100.0,k.A.,vorgesehene Maßnahme,2031,10.7,"Bad Lauterberg im Harz, Landkreis Göttingen, Niedersachsen, 37431, Deutschland",51.6313633,10.4706667,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Bad Lauterberg,k.A.,Neubau Leitungen,9.4,100.0,k.A.,vorgesehene Maßnahme,2031,9.6,"Bad Lauterberg im Harz, Landkreis Göttingen, Niedersachsen, 37431, Deutschland",51.6313633,10.4706667,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Bad Lauterberg,k.A.,Neubau UW,0.0,50.0,1,vorgesehene Maßnahme,2029,7.0,"Bad Lauterberg im Harz, Landkreis Göttingen, Niedersachsen, 37431, Deutschland",51.6313633,10.4706667,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,100.0,1,vorgesehene Maßnahme,2029,400.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,0.0,1,im Bau,2025,130.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Oker,k.A.,Neubau Trafo,0.0,0.0,1,konkrete Planung,2025,220.0,"Oker, Niedersachsen, Deutschland",52.1794089,10.5187761,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Altenau,k.A.,Neubau Trafo,0.0,0.0,1,konkrete Planung,2025,0.5,"Altenau, Bergstadt Altenau - Schulenberg i.O., Clausthal-Zellerfeld, Landkreis Goslar, Niedersachsen, Deutschland",51.8034705,10.4472774,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Kalefeld,k.A.,Neubau Trafo,0.0,21.0,1,vorgesehene Maßnahme,2026,0.06,"Kalefeld, Landkreis Northeim, Niedersachsen, 37589, Deutschland",51.8,10.0333,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Goslar,k.A.,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2026,0.36,"Goslar, Landkreis Goslar, Niedersachsen, Deutschland",51.9059936,10.4266284,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Clausthal,k.A.,Neubau Leitungen,16.17,100.0,k.A.,vorgesehene Maßnahme,2036,12.5,"Clausthal, Clausthal-Zellerfeld, Landkreis Goslar, Niedersachsen, 38678, Deutschland",51.8043301,10.3338277,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Clausthal,k.A.,Neubau UW,0.0,50.0,1,vorgesehene Maßnahme,2036,2.8,"Clausthal, Clausthal-Zellerfeld, Landkreis Goslar, Niedersachsen, 38678, Deutschland",51.8043301,10.3338277,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Rhumspringe,k.A.,Neubau Leitungen,0.5,6.0,k.A.,konkrete Planung,2024,0.214,"Rhumspringe, Samtgemeinde Gieboldehausen, Landkreis Göttingen, Niedersachsen, Deutschland",51.5824034,10.2963249,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Rhumspringe,k.A.,Neubau Leitungen,0.3,6.0,k.A.,konkrete Planung,2024,0.085,"Rhumspringe, Samtgemeinde Gieboldehausen, Landkreis Göttingen, Niedersachsen, Deutschland",51.5824034,10.2963249,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Walkenried,k.A.,Neubau Leitungen,0.94,3.6,k.A.,konkrete Planung,2024,0.341,"Walkenried, Landkreis Göttingen, Niedersachsen, Deutschland",51.5880823,10.6160849,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Walkenried,k.A.,Neubau Leitungen,0.71,6.0,k.A.,konkrete Planung,2024,0.269,"Walkenried, Landkreis Göttingen, Niedersachsen, Deutschland",51.5880823,10.6160849,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Wiedelah,k.A.,Neubau Leitungen,1.3,4.4,k.A.,konkrete Planung,2024,0.23,"Wiedelah, Goslar, Landkreis Goslar, Niedersachsen, Deutschland",51.9609044,10.5871249,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Wiedelah,k.A.,Neubau Leitungen,1.2,4.4,k.A.,konkrete Planung,2024,0.198,"Wiedelah, Goslar, Landkreis Goslar, Niedersachsen, Deutschland",51.9609044,10.5871249,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Wiedelah,k.A.,Neubau Leitungen,0.2,4.4,k.A.,konkrete Planung,2024,0.079,"Wiedelah, Goslar, Landkreis Goslar, Niedersachsen, Deutschland",51.9609044,10.5871249,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Wiedelah,k.A.,Neubau Leitungen,0.55,4.4,k.A.,konkrete Planung,2024,0.123,"Wiedelah, Goslar, Landkreis Goslar, Niedersachsen, Deutschland",51.9609044,10.5871249,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Altenau,k.A.,Neubau Leitungen,0.48,7.2,k.A.,konkrete Planung,2024,0.53,"Altenau, Bergstadt Altenau - Schulenberg i.O., Clausthal-Zellerfeld, Landkreis Goslar, Niedersachsen, Deutschland",51.8034705,10.4472774,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Altenau,k.A.,Neubau Leitungen,0.2,7.2,k.A.,konkrete Planung,2024,0.168,"Altenau, Bergstadt Altenau - Schulenberg i.O., Clausthal-Zellerfeld, Landkreis Goslar, Niedersachsen, Deutschland",51.8034705,10.4472774,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Altenau,k.A.,Neubau Leitungen,0.18,7.2,k.A.,konkrete Planung,2024,0.153,"Altenau, Bergstadt Altenau - Schulenberg i.O., Clausthal-Zellerfeld, Landkreis Goslar, Niedersachsen, Deutschland",51.8034705,10.4472774,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Altenau,k.A.,Neubau Leitungen,0.3,7.2,k.A.,konkrete Planung,2024,0.067,"Altenau, Bergstadt Altenau - Schulenberg i.O., Clausthal-Zellerfeld, Landkreis Goslar, Niedersachsen, Deutschland",51.8034705,10.4472774,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Altenau,k.A.,Neubau Leitungen,1.2,10.3,k.A.,konkrete Planung,2024,0.08,"Altenau, Bergstadt Altenau - Schulenberg i.O., Clausthal-Zellerfeld, Landkreis Goslar, Niedersachsen, Deutschland",51.8034705,10.4472774,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Altenau,k.A.,Neubau Leitungen,0.9,10.3,k.A.,konkrete Planung,2024,0.07,"Altenau, Bergstadt Altenau - Schulenberg i.O., Clausthal-Zellerfeld, Landkreis Goslar, Niedersachsen, Deutschland",51.8034705,10.4472774,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Walkenried,k.A.,Neubau Leitungen,0.36,6.0,k.A.,konkrete Planung,2024,0.136,"Walkenried, Landkreis Göttingen, Niedersachsen, Deutschland",51.5880823,10.6160849,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Altenau,k.A.,Neubau Leitungen,1.5,10.3,k.A.,konkrete Planung,2024,0.099,"Altenau, Bergstadt Altenau - Schulenberg i.O., Clausthal-Zellerfeld, Landkreis Goslar, Niedersachsen, Deutschland",51.8034705,10.4472774,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.4,5.8,k.A.,konkrete Planung,2024,0.047,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Herrhausen,k.A.,Neubau Leitungen,0.1,8.0,k.A.,konkrete Planung,2024,0.052,"Herrhausen, Seesen, Landkreis Goslar, Niedersachsen, 38723, Deutschland",51.8676514,10.178415,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.8,6.0,k.A.,konkrete Planung,2024,0.079,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Lengde,k.A.,Neubau Leitungen,1.1,4.4,k.A.,konkrete Planung,2024,0.339,"Lengde, Goslar, Landkreis Goslar, Niedersachsen, Deutschland",51.9818694,10.5529705,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Lengde,k.A.,Neubau Leitungen,0.8,4.4,k.A.,konkrete Planung,2024,0.13,"Lengde, Goslar, Landkreis Goslar, Niedersachsen, Deutschland",51.9818694,10.5529705,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,6.8,3.4,k.A.,konkrete Planung,2024,1.294,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,1.28,3.75,k.A.,konkrete Planung,2024,0.245,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,2.1,2.1,k.A.,konkrete Planung,2024,1.081,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.8,0.8,k.A.,konkrete Planung,2025,0.719,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.5,6.0,k.A.,vorgesehene Maßnahme,2025,0.164,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.4,7.2,k.A.,vorgesehene Maßnahme,2025,0.15,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.07,8.3,k.A.,vorgesehene Maßnahme,2025,0.02,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.25,11.0,k.A.,vorgesehene Maßnahme,2025,0.12,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.42,8.3,k.A.,vorgesehene Maßnahme,2025,0.16,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.1,8.0,k.A.,konkrete Planung,2025,0.06,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Seesen,k.A.,Neubau Leitungen,1.0,14.4,k.A.,konkrete Planung,2025,0.15,"Seesen, Landkreis Goslar, Niedersachsen, 38723, Deutschland",51.8905566,10.1703902,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Ertüchtigung Leitungen,1.8,11.0,k.A.,konkrete Planung,2026,0.35,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,1.4,11.0,k.A.,konkrete Planung,2026,0.3,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.2,4.4,k.A.,vorgesehene Maßnahme,2025,0.05,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Wiedelah,k.A.,Neubau Leitungen,1.0,4.4,k.A.,konkrete Planung,2025,0.1,"Wiedelah, Goslar, Landkreis Goslar, Niedersachsen, Deutschland",51.9609044,10.5871249,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Wiedelah,k.A.,Ertüchtigung Leitungen,3.1,-2.6,k.A.,konkrete Planung,2025,0.08,"Wiedelah, Goslar, Landkreis Goslar, Niedersachsen, Deutschland",51.9609044,10.5871249,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.3,14.4,k.A.,vorgesehene Maßnahme,2027,0.07,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,3.5,49.0,k.A.,vorgesehene Maßnahme,2030,0.75,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.18,7.2,k.A.,vorgesehene Maßnahme,2025,0.051,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,7.215,101.0,k.A.,vorgesehene Maßnahme,2025,1.048,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,1.638,81.0,k.A.,vorgesehene Maßnahme,2025,0.6,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,13.082,26.0,k.A.,vorgesehene Maßnahme,2025,3.39,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,63.542,279.0,k.A.,vorgesehene Maßnahme,2025,16.2,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.0,10.0,k.A.,konkrete Planung,2025,2.06,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.0,20.0,k.A.,vorgesehene Maßnahme,2025,4.89,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2025,0.114,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.3,7.2,k.A.,vorgesehene Maßnahme,2026,0.075,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.5,7.2,k.A.,vorgesehene Maßnahme,2026,0.118,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.21,4.6,k.A.,vorgesehene Maßnahme,2026,0.033,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.27,11.0,k.A.,vorgesehene Maßnahme,2026,0.093,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.47,8.3,k.A.,vorgesehene Maßnahme,2026,0.12,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.47,8.3,k.A.,vorgesehene Maßnahme,2026,0.12,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Ertüchtigung Leitungen,0.5,0.0,k.A.,vorgesehene Maßnahme,2026,0.15,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.8,6.0,k.A.,konkrete Planung,2026,0.2,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Ertüchtigung Leitungen,4.0,11.0,k.A.,konkrete Planung,2026,0.7,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Ertüchtigung Leitungen,0.7,11.0,k.A.,konkrete Planung,2026,0.15,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.5,4.4,k.A.,vorgesehene Maßnahme,2026,0.246,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,14.095,197.0,k.A.,vorgesehene Maßnahme,2026,3.35,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,1.1,0.0,k.A.,vorgesehene Maßnahme,2027,0.25,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Ertüchtigung Leitungen,8.0,26.0,k.A.,vorgesehene Maßnahme,2027,0.2,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,1.4,0.0,k.A.,vorgesehene Maßnahme,2027,0.3,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,15.615,0.0,k.A.,vorgesehene Maßnahme,2027,3.76,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,6.318,5.0,k.A.,vorgesehene Maßnahme,2027,1.47,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,13.082,20.0,k.A.,vorgesehene Maßnahme,2027,3.3,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,63.542,4.6,k.A.,vorgesehene Maßnahme,2027,16.2,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Ertüchtigung UW,0.0,0.0,1,vorgesehene Maßnahme,2027,1.2,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Ertüchtigung UW,0.0,4.4,1,vorgesehene Maßnahme,2027,1.0,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau UW,0.0,218.0,1,vorgesehene Maßnahme,2027,4.89,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.5,311.0,k.A.,vorgesehene Maßnahme,2028,0.125,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Ertüchtigung Leitungen,2.5,26.0,k.A.,vorgesehene Maßnahme,2029,0.5,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,1.9,0.0,k.A.,vorgesehene Maßnahme,2028,0.45,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.5,0.0,k.A.,vorgesehene Maßnahme,2028,0.17,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,15.215,0.0,k.A.,vorgesehene Maßnahme,2028,3.725,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,3.818,0.0,k.A.,vorgesehene Maßnahme,2028,0.97,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,13.082,0.0,k.A.,vorgesehene Maßnahme,2028,3.39,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,63.542,0.0,k.A.,vorgesehene Maßnahme,2028,16.2,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2028,2.2,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau UW,0.0,0.0,1,vorgesehene Maßnahme,2028,4.89,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2026,0.14,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2026,0.16,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2027,0.14,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2027,0.12,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2027,0.46,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2029,1.1,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2028,0.15,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2028,0.4,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2028,0.15,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2029,0.45,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2031,0.47,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Trafo,0.0,0.0,1,vorgesehene Maßnahme,2031,0.23,"Niedersachsen, Deutschland",52.8398531,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,"Neuhof, Hildesheim",k.A.,Neubau Trafo,0.0,25.0,1,konkrete Planung,2029,2.2,"Neuhof, Lamspringe, Samtgemeinde Lamspringe, Landkreis Hildesheim, Niedersachsen, Deutschland",51.98034,10.03376,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Osterode am Harz,k.A.,Neubau Trafo,0.0,0.0,1,konkrete Planung,2025,100.0,"Osterode am Harz, Landkreis Göttingen, Niedersachsen, 37520, Deutschland",51.72784,10.25082,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,Osterode am Harz,k.A.,Neubau Trafo,0.0,0.0,1,konkrete Planung,2025,1.75,"Osterode am Harz, Landkreis Göttingen, Niedersachsen, 37520, Deutschland",51.72784,10.25082,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Neubau Leitungen,0.26,4.4,k.A.,konkrete Planung,2025,0.048,"Niedersachsen, Deutschland",52.83985,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,k.A.,k.A.,Ertüchtigung Leitungen,0.5,0.0,k.A.,vorgesehene Maßnahme,2025,0.15,"Niedersachsen, Deutschland",52.83985,9.075962,True
+Harz Energie Netz GmbH,Mitte,Niedersachsen,"Neuhof, Hildesheim",k.A.,Neubau Leitungen,3.7,3.6,k.A.,vorgesehene Maßnahme,2026,1.2,"Neuhof, Lamspringe, Samtgemeinde Lamspringe, Landkreis Hildesheim, Niedersachsen, Deutschland",51.98034,10.03376,True

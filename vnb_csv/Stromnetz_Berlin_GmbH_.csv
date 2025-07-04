@@ -1,0 +1,1512 @@
+VNB-Name,Teilnetzgebiet,Bundesland,Ort / Trasse,Netzebene,Art der Maßnahme,Leitungslänge in km,Übertragungskapazität in MVA,"Netzkomponenten (z.B. UW,Trafo ;Anzahl/Typ)",Projektstatus,Zeithorizont,Kosten in Mio.€,location,latitude,longitude,passt
+Stromnetz Berlin GmbH ,Ost,Berlin,"Malchow, Berlin ",HS,"Ersatz(neubau) 
+mit Erhöhung der 
+Übertragungskap
+azität",4.0,500.0,"110-kV Kabel
+HS Schaltanlage,  
++ Freileitung, 
+Schutz- und 
+Leittechnik, 
+Eigenbedarf",im Bau,2024,38.66863,"Malchow, Lichtenberg, Berlin, Deutschland",52.5798667,13.4820928,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS/MS,"Netzoptimierung 
+und -verstärkung",2.8,63.0,"110-kV-Kabel
+HS + MS-
+Schaltanlage,  10-
+kV-Kabel, Schutz- 
+und Leittechnik, 
+Eigenbedarf, 
+110/10-kV-
+T
+ransformatoren, 
+MS-Stationen",im Bau,2027,45.759001,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Netzoptimierung 
+und -verstärkung",3.6,0.0,"110-kV-Kabel
+110-kV-
+Schaltanlage",im Bau,2033,70.863,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Netzoptimierung 
+und -verstärkung",100.0,0.0,"10-kV-Kabel
+Netzstationen",im Bau,2029,89.873,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Heizkraftwerk Marzahn, Berlin ",k.A.,"Neubau
+HS Kabel +",6.5,0.0,Schaltanlage,abgeschlossen,2024,34.405635,"Heizkraftwerk Marzahn, 26b, Allee der Kosmonauten, Friedrichsfelde Ost, Marzahn, Marzahn-Hellersdorf, Berlin, 12681, Deutschland",52.5249542,13.5239245,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Netzoptimierung 
+und -verstärkung",0.0,0.0,"Schaltanlage, 
+Kabel, 
+T
+ransformator",im Bau,2019,40.775125,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Gallwitzallee, Berlin ",HS/MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"HS + MS-
+Schaltanlage, 110-
+kV + 10-kV-
+Kabel, Schutz- 
+und Leittechnik, 
+Eigenbedarf, 
+110/10-kV-
+T
+ransformatoren",im Bau,2025,14.454725,"Gallwitzallee, Lankwitz, Steglitz-Zehlendorf, Berlin, Teltow, 12249, Deutschland",52.4352523,13.3463643,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Lichterfelde, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"HS Schaltanlage
+0",im Bau,2027,32.208647,"Lichterfelde, Steglitz-Zehlendorf, Berlin, Teltow, Deutschland",52.437293,13.3138645,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Münstersche 
+Straße, Berlin ",HS/MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"HS + MS-
+Schaltanlage, 110-
+kV + 10-kV-
+Kabel, Schutz- 
+und Leittechnik, 
+Eigenbedarf, 
+110/10-kV-
+T
+ransformatoren",im Bau,2028,15.330615,"Münstersche Straße, Wilmersdorf, Charlottenburg-Wilmersdorf, Berlin, 10709, Deutschland",52.494433,13.30842,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Jägerstraße, Berlin ",HS/MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"HS Schaltanlage, 
+MS Schaltanlage, 
+Schutz und 
+Leittechnik, 
+Eigenbedarf,",im Bau,2031,32.09266,"Jägerstraße, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",52.513768,13.3875957,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Rubensstraße, Berlin ",HS/MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"HS + MS-
+Schaltanlage, 110-
+kV + 10-kV-
+Kabel, Schutz- 
+und Leittechnik, 
+Eigenbedarf,",abgeschlossen,2026,17.525465,"Rubensstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, 12159, Deutschland",52.4771208,13.3425829,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Tempelhof, Berlin ",MS,und -verstärkung,10.0,0.0,"10-kV-Kabel
+  1-kV-Kabel",im Bau,2024,3.167184,"Tempelhof, Hoeppnerstraße, Gartenstadt Neu-Tempelhof, Tempelhof, Tempelhof-Schöneberg, Berlin, Teltow, 12101, Deutschland",52.4709704,13.3844457,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"Schutz- und 
+Leittechnik",abgeschlossen,2024,2.308756,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"MS- Schaltanlage
+0",abgeschlossen,2024,8.028334,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Wittenau, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"HS- Schaltanlage
+0",im Bau,2029,67.823965,"Wittenau, Ilbeshäuser Weg, Wittenau, Reinickendorf, Berlin, 13435, Deutschland",52.597052,13.3342591,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Weserstraße, Berlin ",HS/MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"HS + MS-
+Schaltanlage, 110-
+kV + 10-kV-
+Kabel, Schutz- 
+und Leittechnik, 
+Eigenbedarf, 
+110/10-kV-
+T
+ransformatoren","vorgesehene 
+Maßnahme",2034,25.327054,"Weserstraße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10247, Deutschland",52.508605,13.4698948,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Rollbergstraße, Berlin ",HS/MS,"Ersatz(neubau) 
+mit Erhöhung der 
+Übertragungskap
+azität",4.5,0.0,"HS + MS-
+Schaltanlage, 110-
+kV + 10-kV-
+Kabel, Schutz-",k.A.,2019,0.0,"Rollbergstraße, Flughafenkiez, Neukölln, Berlin, 12053, Deutschland",52.4787889,13.4304054,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Reinickendorf, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",4.5,0.0,"HS-Schaltanlage, 
+110-kV + 10-kV-
+Kabel, Schutz- 
+und Leittechnik,",abgeschlossen,2024,13.492483,"Reinickendorf, Berlin, Deutschland",52.6047631,13.2952872,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Lichterfelde, Berlin ",HS,"Netzoptimierung 
+und -verstärkung",21.5,0.0,110-kV-Kabel,im Bau,2030,13.77797,"Lichterfelde, Steglitz-Zehlendorf, Berlin, Teltow, Deutschland",52.437293,13.3138645,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Wiebestraße, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"10-kV-Kabel, 
+MS-Schaltanlage,",im Bau,2024,6.520441,"Wiebestraße, Moabit, Mitte, Berlin, 10553, Deutschland",52.5270927,13.3188646,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,NS,"Neubau
+10-kV-Kabel",25.0,0.0,1-kV-Kabel,k.A.,2024,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,NS,"Neubau
+10-kV-Kabel",25.0,0.0,1-kV-Kabel,"vorgesehene 
+Maßnahme",2025,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Voltairestraße, Berlin ",HS,"Neubau
+HS + MS-",0.0,63.0,"Schaltanlage, 110-
+kV + 10-kV-
+Kabel, Schutz- 
+und Leittechnik, 
+Eigenbedarf,",im Bau,2028,37.993009,"Voltairestraße, Mitte, Berlin, 10179, Deutschland",52.5176235,13.416719,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Rhinstraße, Berlin ",k.A.,"Neubau
+110-kV-Kabel",0.0,0.0,k.A.,k.A.,2017,0.0,"Rhinstraße, Rosenfelder Ring, Friedrichsfelde, Lichtenberg, Berlin, 10315, Deutschland",52.5129,13.5182592,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Steglitz, Berlin",k.A.,,31.0,250.0,"Schutz- und 
+Leittechnik",im Bau,2028,30.070582,"Steglitz, Steglitz-Zehlendorf, Berlin, Teltow, Deutschland",52.4572569,13.3222865,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Barbarossastraße, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"HS-Schaltanlage
+0","vorgesehene 
+Maßnahme",2036,20.149865,"Barbarossastraße, Schöneberg, Tempelhof-Schöneberg, Berlin, 10779, Deutschland",52.4923229,13.3405005,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Neukölln, Berlin ",HS,"Neubau
+110-kV-",0.5,0.0,"Schaltanlage; 110-
+kV Kabel; Schutz- 
+un Leittechnik, 
+Eigenbedarf",im Bau,2033,65.839687,"Neukölln, Berlin, Deutschland",52.4459669,13.4617649,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Prenzlauer Berg, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",2.5,0.0,"10-kV-Kabel; 
+HS + MS-
+Schaltanlage, 
+Schutz- und 
+Leittechnik,","vorgesehene 
+Maßnahme",2038,23.837138,"Prenzlauer Berg, Pankow, Berlin, Deutschland",52.5398466,13.4285652,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Grenzallee, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"10-kV-Kabel; 
+HS + MS-
+Schaltanlage, 110-
+kV Kabel, Schutz- 
+und Leittechnik,",konkrete Planung ,2031,44.231,"Grenzallee, A 100, Britz, Neukölln, Berlin, 12359, Deutschland",52.4628825,13.4447716,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Steglitz, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"110-kV-
+Schaltanlage",im Bau,2034,95.218171,"Steglitz, Steglitz-Zehlendorf, Berlin, Teltow, Deutschland",52.4572569,13.3222865,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Gropiusstadt, Berlin ",MS,"ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"10-kV-Kabel;
+HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz- 
+und Leittechnik, 
+Eigenbedarf,","vorgesehene 
+Maßnahme",2035,22.928,"Gropiusstadt, Neukölln, Berlin, Deutschland",52.4249493,13.466183,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Baldersheimer Weg, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"10-kV-Kabel;
+HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz- 
+und Leittechnik,",im Bau,2027,25.082985,"Baldersheimer Weg, Buckow, Neukölln, Berlin, Teltow, 12349, Deutschland",52.4140323,13.410687,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Claszeile, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"10-kV-Kabel;
+HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz- 
+und Leittechnik, 
+Eigenbedarf,",im Bau,2030,27.546215,"Claszeile, Zehlendorf, Steglitz-Zehlendorf, Berlin, Teltow, 14165, Deutschland",52.4174762,13.2589121,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Ohmstraße, Berlin ",k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"Schutz- und 
+Leittechnik",im Bau,2027,10.382903,"Ohmstraße, Siemensstadt, Spandau, Berlin, 13629, Deutschland",52.5354042,13.2731615,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"MS-Schaltanlage
+0",im Bau,2029,8.81103,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Niederneuendorfer Allee, Berlin ",HS,"ohne Erhöhung 
+der 
+Übertragungskap
+azität",1.8,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2026,1.13,"Niederneuendorfer Allee, Hakenfelde, Spandau, Berlin, 13587, Deutschland",52.5660631,13.2095644,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Nordgraben, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"110-kV 
+Schaltanlage
+10-kV-Kabel
+MS-Schaltanlage","vorgesehene 
+Maßnahme",2035,22.928,"Nordgraben, Berlin, Deutschland",52.5910238,13.3557064,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Schäfersee, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz- 
+und Leittechnik, 
+Eigenbedarf,","vorgesehene 
+Maßnahme",2034,29.16958,"Schäfersee, Reinickendorf, Berlin, 13407, Deutschland",52.5643804,13.3608816,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Forckenbeckstraße, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz- 
+und Leittechnik, 
+Eigenbedarf, 110-
+kV-Transformator","vorgesehene 
+Maßnahme",2037,16.765683,"Forckenbeckstraße, Schmargendorf, Charlottenburg-Wilmersdorf, Berlin, 14199, Deutschland",52.4800499,13.3037043,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"110-kV-
+T
+ransformator",im Bau,2024,4.471487,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Mahlsdorf, Berlin ",MS,und -verstärkung,15.0,0.0,"10-kV-Kabel
+  1-kV-Kabel",im Bau,2026,2.328913,"Mahlsdorf, Wodanstraße, Mahlsdorf, Marzahn-Hellersdorf, Berlin, 12623, Deutschland",52.5120903,13.6104126,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"MS-Schaltanlage
+0","vorgesehene 
+Maßnahme",2028,3.058,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Wuhlheide, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"HS-Schaltanlage
+0","vorgesehene 
+Maßnahme",2036,0.0,"Wuhlheide, Am Bahnhof Wuhlheide, Köpenick, Treptow-Köpenick, Berlin, 12555, Deutschland",52.4685507,13.5543359,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Schlachtensee, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz- 
+und Leittechnik,","vorgesehene 
+Maßnahme",2033,22.928,"Schlachtensee, Am Schlachtensee, Schlachtensee, Steglitz-Zehlendorf, Berlin, Teltow, 14129, Deutschland",52.440088,13.2154373,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"110-kV-
+T
+ransformator",noch nicht,2026,8.308223,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,und -verstärkung,10.0,0.0,"10-kV-Kabel
+  1-kV-Kabel","vorgesehene 
+Maßnahme",2026,3.054,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Friedrichshain, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",14.0,0.0,110-kV-Kabel,im Bau,2026,23.896655,"Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Deutschland",52.5122154,13.4502904,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Heiligensee, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",2.25,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz-","vorgesehene 
+Maßnahme",2034,29.179,"Heiligensee, An der Aussicht, Heiligensee, Reinickendorf, Berlin, 13503, Deutschland",52.6246647,13.229194,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Germaniastraße, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz- 
+und Leittechnik, 
+Eigenbedarf,","vorgesehene 
+Maßnahme",2037,26.284,"Germaniastraße, Tempelhof, Tempelhof-Schöneberg, Berlin, Teltow, 12099, Deutschland",52.4654477,13.3949592,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Alt-Buckow, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz- 
+und Leittechnik, 
+Eigenbedarf, 
+110/10-kV-
+T
+ransformatoren","vorgesehene 
+Maßnahme",2032,38.653,"Alt-Buckow, Buckow 1, Buckow, Neukölln, Berlin, 12349, Deutschland",52.4234374,13.4362052,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Clara-Zetkin-Park, Berlin ",MS,und -verstärkung,10.0,0.0,"10-kV-Kabel
+  1-kV-Kabel","vorgesehene 
+Maßnahme",2027,2.879,"Clara-Zetkin-Park, Berlin-Ahrensfelde, Marzahn, Marzahn-Hellersdorf, Berlin, 12689, Deutschland",52.5664045,13.568358,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Neubau
+10-kV-Kabel",21.0,0.0,MS-Schaltanlage,im Bau,2024,43.736893,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Netzoptimierung 
+und -verstärkung",18.0,0.0,10-kV-Kabel,k.A.,2024,6.263304,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Mitte, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",1.0,0.0,"110-kV-Kabel
+110-kV-
+Schaltanlage, 
+Schutztechnik, 
+Leittechnik",im Bau,2035,97.791816,"Mitte, Berlin, Deutschland",52.517012,13.3888222,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Zillestraße, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 
+Schutz- und 
+Leittechnik, 
+Eigenbedarf, 
+110/10-kV 
+T
+ransformatoren","vorgesehene 
+Maßnahme",2036,25.208,"Zillestraße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10585, Deutschland",52.5135733,13.3101803,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,und -verstärkung,10.0,0.0,"10-kV-Kabel
+  1-kV-Kabel","vorgesehene 
+Maßnahme",2027,2.902,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Neubau
+10-kV-Kabel",21.0,0.0,MS-Schaltanlage,"vorgesehene 
+Maßnahme",2025,50.211,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Netzoptimierung 
+und -verstärkung",18.0,0.0,10-kV-Kabel,"vorgesehene 
+Maßnahme",2025,1.477095,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Rudow, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",1.0,0.0,"110-kV-Kabel
+HS-Schaltanlage, 
+Schutz- und 
+Leittechnik, 
+Eigenbedarf,","vorgesehene 
+Maßnahme",2035,64.665,"Rudow, Neuköllner Straße, Rudow, Neukölln, Berlin, 12355, Deutschland",52.41617,13.4953978,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"110-kV-
+T
+ransformator","vorgesehene 
+Maßnahme",2031,10.98,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Falkenberg, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",10.0,0.0,110-kV Kabel,"vorgesehene 
+Maßnahme",2031,4.112,"Falkenberg, Berlin, 12526, Deutschland",52.4070591,13.5698415,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap
+azität",1.1,0.0,110-kV Kabel,"vorgesehene 
+Maßnahme",2028,5.343,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Spittelmarkt, Berlin ",k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"Schutz- und 
+Leittechnik","vorgesehene 
+Maßnahme",2031,10.895,"Spittelmarkt, Wallstraße, Friedrichswerder, Mitte, Berlin, 10179, Deutschland",52.5112959,13.4041155,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Neubau
+10-kV-Kabel",21.0,0.0,MS-Schaltanlage,"vorgesehene 
+Maßnahme",2026,60.861,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Rudow, Berlin ",HS,und -verstärkung,14.0,250.0,"110-kV-Kabel, 
+Schutz- und 
+Leittechnik",im Bau,2027,18.617831,"Rudow, Neuköllner Straße, Rudow, Neukölln, Berlin, 12355, Deutschland",52.41617,13.4953978,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Neukölln, Berlin ",HS,und -verstärkung,5.0,110.0,"110-kV-Kabel, 
+Schutz- und 
+Leittechnik",im Bau,2024,7.789081,"Neukölln, Berlin, Deutschland",52.4459669,13.4617649,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Neubau
+110-kV-Kabel",1.5,500.0,"HS + 
+Schaltanlage, 
+Schutz- und 
+Leittechnik, 
+Eigenbedarf,",im Bau,2028,49.801475,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Westend, Berlin ",HS/MS,"Neubau
+10-kV-Kabel",4.5,63.0,"HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz- 
+und Leittechnik,",konkrete Planung ,2031,44.231,"Westend, Spandauer Damm, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 14059, Deutschland",52.5180135,13.2844201,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Stromstraße, Berlin",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",4.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz- 
+und Leittechnik,","vorgesehene 
+Maßnahme",2038,25.666,"Stromstraße, Moabit, Mitte, Berlin, 10555, Deutschland",52.5236069,13.3421411,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Blankenburg, Berlin ",HS/MS,"Neubau
+10-kV-Kabel",4.5,63.0,"HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz-","vorgesehene 
+Maßnahme",2031,46.166,"Blankenburg, Rudelsburgstraße, Blankenburg, Pankow, Berlin, 13129, Deutschland",52.5914655,13.4434822,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Rüsternweg, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",4.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz-","vorgesehene 
+Maßnahme",2035,34.491354,"Rüsternweg, Kleingartenverein Schlachtensee-Süd e.V., Nikolassee, Steglitz-Zehlendorf, Berlin, Teltow, 14163, Deutschland",52.4202437,13.2206819,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Gürtelstraße, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",4.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz-","vorgesehene 
+Maßnahme",2033,27.121,"Gürtelstraße, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10247, Deutschland",52.5117972,13.4753631,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Kopernikusstraße, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",4.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz-","vorgesehene 
+Maßnahme",2038,25.666,"Kopernikusstraße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10245, Deutschland",52.5101988,13.4546756,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Fennpfuhl, Berlin ",k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"Schutz- und 
+Leittechnik","vorgesehene 
+Maßnahme",2033,12.235,"Fennpfuhl, Lichtenberg, Berlin, 10369, Deutschland",52.5287849,13.4734687,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Gelnitzstraße, Berlin ",k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"Schutz- und 
+Leittechnik",im Bau,2031,12.447273,"Gelnitzstraße, Dammvorstadt, Köpenick, Treptow-Köpenick, Berlin, 12555, Deutschland",52.455754,13.5859855,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Rüdersdorferstraße, Berlin ",k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"Schutz- und 
+Leittechnik",im Bau,2029,6.944612,"Rüdersdorfer Straße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10243, Deutschland",52.5143759,13.4387626,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Jungfernheide, Berlin ",HS/MS,"Neubau
+10-kV-Kabel",4.5,63.0,"HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz- 
+und Leittechnik,","vorgesehene 
+Maßnahme",2037,31.658,"Jungfernheide, Max-Dohrn-Straße, Charlottenburg-Nord, Charlottenburg-Wilmersdorf, Berlin, 10589, Deutschland",52.5304034,13.299269,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Poelchaustraße, Berlin ",HS/MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",4.5,0.0,"HS + MS-
+Schaltanlage, 110-
+kV + 10-kV-
+Kabel, Schutz-",im Bau,2028,38.488574,"Poelchaustraße, Dahmeweg, Marzahn, Marzahn-Hellersdorf, Berlin, 12681, Deutschland",52.5358712,13.5355776,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"MS-Station; MS-
+Schaltanlage","vorgesehene 
+Maßnahme",2031,6.187923,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Mitte, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"MS-Station; MS-
+Schaltanlage","vorgesehene 
+Maßnahme",2030,5.373213,"Mitte, Berlin, Deutschland",52.517012,13.3888222,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+MS-Kabel",0.0,0.0,k.A.,im Bau,2024,2.773921,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Netzoptimierung 
+und -verstärkung",4.0,0.0,"10-kV Kabel; 1-
+kV Kabel",im Bau,2024,2.605501,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"Schutz- und 
+Leittechnik",k.A.,2024,9.728124,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"MS-Station; MS-
+Schaltanlage",im Bau,2027,4.23664,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap
+azität",9.8,0.0,110-kV Kabel,im Bau,2025,4.039944,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Mannheimerstr., Berlin ",k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"Schutz- und 
+Leittechnik",im Bau,2029,11.521813,"Mannheimer Straße, Mahlsdorf, Marzahn-Hellersdorf, Berlin, 12623, Deutschland",52.4898869,13.5941521,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Voltairestr., Berlin ",k.A.,"Neubau
+110-kV Kabel",0.0,0.0,k.A.,im Bau,2026,7.155021,"Voltairestraße, Mitte, Berlin, 10179, Deutschland",52.5176235,13.416719,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Jungfernheide, Berlin ",k.A.,"Neubau
+110-kV Kabel",0.0,0.0,k.A.,"vorgesehene 
+Maßnahme",2034,6.660973,"Jungfernheide, Max-Dohrn-Straße, Charlottenburg-Nord, Charlottenburg-Wilmersdorf, Berlin, 10589, Deutschland",52.5304034,13.299269,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Tegel, Berlin ",k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"Schutz- und 
+Leittechnik",im Bau,2031,11.791035,"Tegel, A 111, Tegel, Reinickendorf, Berlin, 13507, Deutschland",52.5881913,13.2896968,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap",12.2,0.0,110-kV Kabel,im Bau,2028,17.281872,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,MS-Station,im Bau,2026,4.459555,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap
+azität",3.1,0.0,110-kV Kabel,"vorgesehene 
+Maßnahme",2029,4.197,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,und -verstärkung,10.0,0.0,"10-kV-Kabel
+  1-kV-Kabel","vorgesehene 
+Maßnahme",2028,2.96606,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,110-kV-Kabel,0.0,0.0,k.A.,k.A.,2024,17.302505,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Wuhlheide, Berlin ",HS,und -verstärkung,2.1,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2029,6.366,"Wuhlheide, Am Bahnhof Wuhlheide, Köpenick, Treptow-Köpenick, Berlin, 12555, Deutschland",52.4685507,13.5543359,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Mitte, Berlin ",HS,und -verstärkung,2.8,0.0,110-kV-Kabel,im Bau,2032,20.094967,"Mitte, Berlin, Deutschland",52.517012,13.3888222,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Poelchaustraße, Berlin ",HS,und -verstärkung,22.8,0.0,110-kV-Kabel,im Bau,2029,24.978376,"Poelchaustraße, Dahmeweg, Marzahn, Marzahn-Hellersdorf, Berlin, 12681, Deutschland",52.5358712,13.5355776,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Prenzlauer Berg, Berlin ",HS,"Netzoptimierung 
+und -verstärkung",3.0,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2036,8.101,"Prenzlauer Berg, Pankow, Berlin, Deutschland",52.5398466,13.4285652,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Steglitz, Berlin ",HS,und -verstärkung,23.0,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2029,28.929,"Steglitz, Steglitz-Zehlendorf, Berlin, Teltow, Deutschland",52.4572569,13.3222865,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Blankenburg, Berlin ",k.A.,110-kV-Kabel,0.0,0.0,k.A.,"vorgesehene 
+Maßnahme",2029,5.883,"Blankenburg, Rudelsburgstraße, Blankenburg, Pankow, Berlin, 13129, Deutschland",52.5914655,13.4434822,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Wilmersdorf, Berlin ",HS,"Netzoptimierung 
+und -verstärkung",2.0,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2033,4.281,"Wilmersdorf, Charlottenburg-Wilmersdorf, Berlin, Deutschland",52.4871152,13.3203298,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Malchow, Berlin ",HS,"mit Erhöhung der 
+Übertragungskap
+azität",8.8,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2026,9.482,"Malchow, Lichtenberg, Berlin, Deutschland",52.5798667,13.4820928,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap",2.5,0.0,110-kV Kabel,"vorgesehene 
+Maßnahme",2029,4.77,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap",5.8,0.0,110-kV Kabel,"vorgesehene 
+Maßnahme",2031,5.172,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,und -verstärkung,10.0,0.0,"10-kV-Kabel
+1-kV-Kabel","vorgesehene 
+Maßnahme",2029,2.981,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Dahlem, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",2.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 
+Schutz- und 
+Leittechnik,","vorgesehene 
+Maßnahme",2033,43.141424,"Dahlem, Steglitz-Zehlendorf, Berlin, Teltow, 14195, Deutschland",52.4573805,13.2810976,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Netzoptimierung 
+und -verstärkung",0.0,0.0,k.A.,im Bau,2024,2.289481,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Wedding, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",2.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 
+Schutz- und 
+Leittechnik,","vorgesehene 
+Maßnahme",2039,24.866864,"Wedding, Müllerstraße, Sprengelkiez, Wedding, Mitte, Berlin, 13353, Deutschland",52.5431097,13.3649521,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Marienfelde, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",2.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 
+Schutz- und 
+Leittechnik,","vorgesehene 
+Maßnahme",2037,27.527058,"Marienfelde, Bahnstraße, Marienfelde, Tempelhof-Schöneberg, Berlin, Teltow, 12277, Deutschland",52.4242122,13.3746844,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Lepsiusstr., Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",2.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 
+Schutz- und 
+Leittechnik, 
+Eigenbedarf, 
+110/10-kV-
+T
+ransformatoren","vorgesehene 
+Maßnahme",2037,26.284813,"Lepsiusstraße, Steglitz, Steglitz-Zehlendorf, Berlin, 12163, Deutschland",52.4617568,13.3183088,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"MS.Stationen
+0",im Bau,2029,3.543438,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"MS-Station; MS-
+Schaltanlage","vorgesehene 
+Maßnahme",2031,9.453705,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Buch, Berlin ",k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"Schutz- und 
+Leittechnik;","vorgesehene 
+Maßnahme",2033,14.859394,"Buch, Am Sportplatz, Buch III Süd, Buch, Pankow, Berlin, 13125, Deutschland",52.6358345,13.4916378,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Weserstr., Berlin ",MS,"Netzoptimierung 
+und -verstärkung",8.2,0.0,"10-kV-Kabel
+1-kV-Kabel","vorgesehene 
+Maßnahme",2029,4.755748,"Weserstraße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10247, Deutschland",52.508605,13.4698948,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Netzoptimierung 
+und -verstärkung",0.0,0.0,"HS-Schaltanlage
+Schutz- und 
+Leittechnik",im Bau,2026,4.365815,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Neukölln, Berlin ",HS,"Netzoptimierung 
+und -verstärkung",0.0,0.0,"HS-Schaltanlage
+Schutz- und 
+Leittechnik",im Bau,2024,2.197712,"Neukölln, Berlin, Deutschland",52.4459669,13.4617649,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Buch, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",1.5,0.0,"10-kV-Kabel
+1-kV-Kabel",im Bau,2024,1.87273,"Buch, Am Sportplatz, Buch III Süd, Buch, Pankow, Berlin, 13125, Deutschland",52.6358345,13.4916378,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Voltairestr., Berlin ",NS,"Neubau
+10-kV-Kabel",12.3,0.0,1-kV-Kabel,im Bau,2026,3.834794,"Voltairestraße, Mitte, Berlin, 10179, Deutschland",52.5176235,13.416719,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Blankenburg, Berlin ",NS,"Neubau
+10-kV-Kabel",20.0,0.0,1-kV-Kabel,"vorgesehene 
+Maßnahme",2031,6.359148,"Blankenburg, Rudelsburgstraße, Blankenburg, Pankow, Berlin, 13129, Deutschland",52.5914655,13.4434822,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Jungfernheide, Berlin ",NS,"Neubau
+10-kV-Kabel",20.0,0.0,1-kV-Kabel,im Bau,2026,4.851234,"Jungfernheide, Max-Dohrn-Straße, Charlottenburg-Nord, Charlottenburg-Wilmersdorf, Berlin, 10589, Deutschland",52.5304034,13.299269,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Jungfernheide, Berlin ",NS,"Neubau
+10-kV-Kabel",20.0,0.0,1-kV-Kabel,"vorgesehene 
+Maßnahme",2030,7.810465,"Jungfernheide, Max-Dohrn-Straße, Charlottenburg-Nord, Charlottenburg-Wilmersdorf, Berlin, 10589, Deutschland",52.5304034,13.299269,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Neubau
+10-kV-Kabel",21.0,0.0,MS-Schaltanlage,"vorgesehene 
+Maßnahme",2027,65.070507,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Neubau
+10-kV-Kabel",21.0,0.0,MS-Schaltanlage,"vorgesehene 
+Maßnahme",2028,66.696731,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Netzoptimierung 
+und -verstärkung",10.0,0.0,10-kV-Kabel,"vorgesehene 
+Maßnahme",2026,1.477095,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Netzoptimierung 
+und -verstärkung",10.0,0.0,10-kV-Kabel,"vorgesehene 
+Maßnahme",2027,1.090365,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Netzoptimierung 
+und -verstärkung",10.0,0.0,10-kV-Kabel,"vorgesehene 
+Maßnahme",2028,0.83004,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,NS,"Neubau
+10-kV-Kabel",25.0,0.0,1-kV-Kabel,"vorgesehene 
+Maßnahme",2026,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,NS,"Neubau
+10-kV-Kabel",25.0,0.0,1-kV-Kabel,"vorgesehene 
+Maßnahme",2027,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,NS,"Neubau
+10-kV-Kabel",25.0,0.0,1-kV-Kabel,"vorgesehene 
+Maßnahme",2028,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap",6.0,0.0,110-kV-Kabel,im Bau,2024,10.265567,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Rückbau / 
+Altlastentsorgung",0.0,0.0,110-kV-Kabel,im Bau,2024,14.77979,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Moabit, Berlin",k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,k.A.,im Bau,2026,3.432338,"Moabit, Mitte, Berlin, Deutschland",52.5301017,13.3425422,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,k.A.,im Bau,2024,53.896369,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Netzoptimierung 
+und -verstärkung",0.0,0.0,"110-kV-
+Freileitung",k.A.,2020,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,k.A.,im Bau,2026,11.091143,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Amalienhof, Berlin ",HS/MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",2.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 110-
+kV-Kabel, Schutz-",im Bau,2032,48.090475,"KGA Amalienhof 1, Staaken, Spandau, Berlin, 13593, Deutschland",52.522017,13.1500458,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,und -verstärkung,7.0,0.0,110-kV-Kabel,im Bau,2025,10.930543,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Wittenau, Berlin ",HS,und -verstärkung,2.8,0.0,110-kV-Kabel,im Bau,2031,20.956469,"Wittenau, Ilbeshäuser Weg, Wittenau, Reinickendorf, Berlin, 13435, Deutschland",52.597052,13.3342591,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Neukölln, Berlin ",HS,und -verstärkung,12.0,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2031,22.613418,"Neukölln, Berlin, Deutschland",52.4459669,13.4617649,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap
+azität",2.1,0.0,110-kV Kabel,im Bau,2024,4.435331,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Rüsternweg, Berlin ",HS,und -verstärkung,22.0,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2031,42.205894,"Rüsternweg, Kleingartenverein Schlachtensee-Süd e.V., Nikolassee, Steglitz-Zehlendorf, Berlin, Teltow, 14163, Deutschland",52.4202437,13.2206819,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Westend, Berlin ",HS,und -verstärkung,3.0,0.0,110-kV-Kabel,konkrete Planung ,2029,6.462452,"Westend, Spandauer Damm, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 14059, Deutschland",52.5180135,13.2844201,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap
+azität",12.6,0.0,110-kV Kabel,"vorgesehene 
+Maßnahme",2032,4.804595,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Barbarossastraße, Berlin ",HS,und -verstärkung,3.0,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2032,6.499221,"Barbarossastraße, Schöneberg, Tempelhof-Schöneberg, Berlin, 10779, Deutschland",52.4923229,13.3405005,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Rudow, Berlin ",HS,und -verstärkung,1.1,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2032,3.052861,"Rudow, Neuköllner Straße, Rudow, Neukölln, Berlin, 12355, Deutschland",52.41617,13.4953978,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",1.0,0.0,"10-kV-Kabel
+Schutz- und 
+Leittechnik;",k.A.,2025,3.071552,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap",1.8,0.0,110-kV Kabel,im Bau,2027,5.671824,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Eichhorst, Berlin ",k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"Schutz- und 
+Leittechnik;","vorgesehene 
+Maßnahme",2035,14.859394,"Umspannwerk Eichhorst, 66, Wittenauer Straße, Wittenau, Reinickendorf, Berlin, 13435, Deutschland",52.6040515,13.3370307,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der",0.0,0.0,"Schutz- und 
+Leittechnik;",im Bau,2028,7.403068,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Netzoptimierung 
+und -verstärkung",6.6,0.0,10-kV-Kabel,im Bau,2024,0.9118,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"MS-Schaltanlage
+0",im Bau,2026,2.905288,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,Neubau,0.0,0.0,k.A.,im Bau,2025,6.444808,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,NS,"Neubau
+10-kV-Kabel",24.6,0.0,"1-kV-Kabel
+FM-Kabel",im Bau,2025,4.155033,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"MS-Station; MS-
+Schaltanlage","vorgesehene 
+Maßnahme",2031,6.899963,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Uhlandstr., Berlin ",MS,"Netzoptimierung 
+und -verstärkung",12.3,0.0,"10-kV-Kabel
+1-kV-Kabel","vorgesehene 
+Maßnahme",2030,6.821013,"Uhlandstraße, Kurfürstendamm, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10719, Deutschland",52.5028118,13.3266968,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Gropiusstadt, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",12.3,0.0,"10-kV-Kabel
+1-kV-Kabel","vorgesehene 
+Maßnahme",2031,6.409325,"Gropiusstadt, Neukölln, Berlin, Deutschland",52.4249493,13.466183,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Baldersheimer Weg, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",12.3,0.0,"10-kV-Kabel
+1-kV-Kabel",im Bau,2027,1.416446,"Baldersheimer Weg, Buckow, Neukölln, Berlin, Teltow, 12349, Deutschland",52.4140323,13.410687,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Weserstr., Berlin ",MS,"Netzoptimierung 
+und -verstärkung",12.3,0.0,"10-kV-Kabel
+1-kV-Kabel","vorgesehene 
+Maßnahme",2030,6.323473,"Weserstraße, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10247, Deutschland",52.508605,13.4698948,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Schlachtensee, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",12.3,0.0,"10-kV-Kabel
+1-kV-Kabel","vorgesehene 
+Maßnahme",2029,6.23889,"Schlachtensee, Am Schlachtensee, Schlachtensee, Steglitz-Zehlendorf, Berlin, Teltow, 14129, Deutschland",52.440088,13.2154373,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Dahlem, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",12.3,0.0,"10-kV-Kabel
+1-kV-Kabel","vorgesehene 
+Maßnahme",2029,6.23889,"Dahlem, Steglitz-Zehlendorf, Berlin, Teltow, 14195, Deutschland",52.4573805,13.2810976,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Nordgraben, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",12.3,0.0,"10-kV-Kabel
+1-kV-Kabel","vorgesehene 
+Maßnahme",2031,6.409325,"Nordgraben, Berlin, Deutschland",52.5910238,13.3557064,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Gürtelstraße, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",12.3,0.0,"10-kV-Kabel
+1-kV-Kabel","vorgesehene 
+Maßnahme",2028,6.323473,"Gürtelstraße, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10247, Deutschland",52.5117972,13.4753631,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Poelchaustraße, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",2.0,0.0,"10-kV-Kabel
+1-kV-Kabel",im Bau,2027,3.847233,"Poelchaustraße, Dahmeweg, Marzahn, Marzahn-Hellersdorf, Berlin, 12681, Deutschland",52.5358712,13.5355776,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Netzoptimierung 
+und -verstärkung",2.0,0.0,"10-kV-Kabel
+1-kV-Kabel","vorgesehene 
+Maßnahme",2031,1.807188,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Claszeile, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",2.0,0.0,"10-kV-Kabel
+1-kV-Kabel","vorgesehene 
+Maßnahme",2029,1.760036,"Claszeile, Zehlendorf, Steglitz-Zehlendorf, Berlin, Teltow, 14165, Deutschland",52.4174762,13.2589121,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Amalienhof, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",2.0,0.0,"10-kV-Kabel
+1-kV-Kabel","vorgesehene 
+Maßnahme",2033,2.136911,"KGA Amalienhof 1, Staaken, Spandau, Berlin, 13593, Deutschland",52.522017,13.1500458,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Pyramidenbrücke, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.1,0.0,"110-kV-Kabel
+10-kV-Kabel
+Sek.-Kabel",im Bau,2026,1.186213,"Pyramidenbrücke, Wasserstadt Spindlersfeld, Köpenick, Treptow-Köpenick, Berlin, 12555, Deutschland",52.4552563,13.5666681,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,k.A.,im Bau,2027,2.350548,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,k.A.,"vorgesehene 
+Maßnahme",2025,3.337045,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Kladow, Berlin ",HS/MS,"Ersatz(neubau) 
+mit Erhöhung der 
+Übertragungskap
+azität",2.5,63.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 
+Schutz- und 
+Leittechnik,","vorgesehene 
+Maßnahme",2032,43.863892,"Kladow, Spandau, Berlin, Teltow, 14089, Deutschland",52.4602925,13.1400517,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Kurt-
+Schumacher-
+Damm, Berlin ",HS/MS,"Neubau
+10-kV-Kabel",2.5,63.0,"HS + MS-
+Schaltanlage, 
+Schutz- und 
+Leittechnik,",konkrete Planung ,2029,42.887534,"Kurt-Schumacher-Damm, Wedding, Mitte, Berlin, 13405, Deutschland",52.5612248,13.3262268,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Bundesallee, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",1.0,0.0,"110-kV-Kabel
+HS Schaltanlage, 
+Schutz- und 
+Leittechnik, 
+Eigenbedarf,","vorgesehene 
+Maßnahme",2034,71.490782,"Bundesallee, Wilmersdorf, Charlottenburg-Wilmersdorf, Berlin, 10715, Deutschland",52.485126,13.3308724,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Moissistr., Berlin",HS/MS,"Ersatz(neubau) 
+mit Erhöhung der 
+Übertragungskap
+azität",0.0,31.5,"HS + MS-
+Schaltanlage
+110-kV-Kabel
+10-kV-Kabel",im Bau,2024,15.515596,"Moissistraße, Adlershof, Treptow-Köpenick, Berlin, 12489, Deutschland",52.4341486,13.5475069,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,110-kV-Kabel,6.0,0.0,Sek. Kabel,"vorgesehene 
+Maßnahme",2030,4.243014,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Lunderstr., Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",2.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 
+Schutz- und 
+Leittechnik,","vorgesehene 
+Maßnahme",2032,37.476715,"Lunder Straße, Pankow, Berlin, 13189, Deutschland",52.5556286,13.4195614,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Richardstr., Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",2.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 
+Schutz- und 
+Leittechnik,","im Bau
+bereits eingeleitet",2030,27.667259,"Richardstraße, Richardkiez, Neukölln, Berlin, 12055, Deutschland",52.4727934,13.4457108,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Mitte, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",2.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 
+Schutz- und 
+Leittechnik,","vorgesehene 
+Maßnahme",2038,39.642031,"Mitte, Berlin, Deutschland",52.517012,13.3888222,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"110-kV-
+T
+ransformator","vorgesehene 
+Maßnahme",2032,10.641241,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,Neubau,0.0,0.0,k.A.,"vorgesehene 
+Maßnahme",2027,1.4998,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap",6.5,0.0,110-kV Kabel,im Bau,2026,12.053558,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap
+azität",6.0,0.0,110-kV Kabel,"vorgesehene 
+Maßnahme",2031,15.543597,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Gürtelstraße, Berlin ",HS,"ohne Erhöhung 
+der",4.6,0.0,110-kV Kabel,"vorgesehene 
+Maßnahme",2031,3.795091,"Gürtelstraße, Samariterviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10247, Deutschland",52.5117972,13.4753631,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap",5.1,0.0,110-kV Kabel,"vorgesehene 
+Maßnahme",2031,4.709544,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap
+azität",5.1,0.0,110-kV Kabel,"vorgesehene 
+Maßnahme",2030,0.642251,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap
+azität",8.2,0.0,110-kV Kabel,"vorgesehene 
+Maßnahme",2028,7.819425,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap
+azität",8.2,0.0,110-kV Kabel,"vorgesehene 
+Maßnahme",2033,9.842257,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Potsdamer Platz, Berlin ",k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,k.A.,"vorgesehene 
+Maßnahme",2036,14.831835,"Potsdamer Platz, Tiergarten, Mitte, Berlin, 10785, Deutschland",52.5098014,13.3755898,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Grenzallee, Berlin ",k.A.,110-kV-Kabel,0.0,0.0,k.A.,"vorgesehene 
+Maßnahme",2029,5.339251,"Grenzallee, A 100, Britz, Neukölln, Berlin, 12359, Deutschland",52.4628825,13.4447716,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,110-kV-Kabel,0.0,0.0,k.A.,im Bau,2028,13.950073,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+Schaltanlage,",0.0,0.0,Kabel,"vorgesehene 
+Maßnahme",2029,10.869609,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,NS,10-kV-Kabel,5.0,0.0,"1-kV-Kabel
+FM-Kabel",im Bau,2024,1.307341,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Kanzleramt, Berlin",k.A.,"Neubau
+10-kV-Kabel",4.0,0.0,FM-Kabel,im Bau,2028,1.982332,"Bundeskanzleramt, 1, Willy-Brandt-Straße, Tiergarten, Mitte, Berlin, 10557, Deutschland",52.5201616,13.3691247,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,10-kV-Kabel,6.4,0.0,FM-Kabel,im Bau,2024,2.324065,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Barbarossastraße, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",12.3,0.0,"10-kV-Kabel
+1-kV-Kabel","vorgesehene 
+Maßnahme",2028,6.821013,"Barbarossastraße, Schöneberg, Tempelhof-Schöneberg, Berlin, 10779, Deutschland",52.4923229,13.3405005,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"MS-Station; MS-
+Schaltanlage","vorgesehene 
+Maßnahme",2027,5.465647,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,110-kV-Kabel,0.0,0.0,k.A.,"vorgesehene 
+Maßnahme",2032,93.513451,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+Schutz-Leit -",0.0,0.0,Steuertechnik,k.A.,2035,4.798203,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,10-kV-Kabel; 1-,5.2,0.0,"kV-Kabel; MS-
+Station; MS-
+Schaltanlage",im Bau,2024,1.953849,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+Schaltanlage,",0.0,0.0,Kabel,"vorgesehene 
+Maßnahme",2030,11.032653,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Funkturm, Berlin",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",2.8,0.0,"110-kV-Kabel
+Sekundärkabel",bereits eingeleitet,2025,9.140376,"Funkturm Berlin, Hammarskjöldplatz, Westend, Charlottenburg-Wilmersdorf, Berlin, 14055, Deutschland",52.5050275,13.2781397,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Funkturm, Berlin",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",2.8,0.0,"10-kV-Kabel
+1-kV-Kabel
+Stationen
+KVS
+HA",bereits eingeleitet,2025,4.545603,"Funkturm Berlin, Hammarskjöldplatz, Westend, Charlottenburg-Wilmersdorf, Berlin, 14055, Deutschland",52.5050275,13.2781397,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Neukölln, Berlin ",k.A.,"Neubau
+110-kV-Kabel",0.5,40.0,Sekundärkabel,k.A.,2024,0.0,"Neukölln, Berlin, Deutschland",52.4459669,13.4617649,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Tegeler Brücke, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der",1.4,0.0,"110-kV-Kabel
+Sekundärkabel",bereits eingeleitet,2024,1.943695,"Tegeler Brücke, Siemensstadt, Spandau, Berlin, 13507, Deutschland",52.5517468,13.2490194,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.8,0.0,"110-kV-Kabel
+110-kV-Schaltfeld",bereits eingeleitet,2026,3.372645,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Reuterstr., Berlin ",HS,und -verstärkung,2.4,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2030,4.850493,"Reuterstraße, Reuterkiez, Neukölln, Berlin, 12047, Deutschland",52.4912623,13.4291345,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,110-kV-SA,"vorgesehene 
+Maßnahme",2031,6.805043,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Holzhauserstr., Berlin ",k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"Schutz- und 
+Leittechnik;","vorgesehene 
+Maßnahme",2032,12.07108,"Holzhauser Straße, Seidelstraße, Tegel, Reinickendorf, Berlin, 13507, Deutschland",52.575692,13.2961132,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",2.4,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2030,5.541161,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Reuterstr., Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",1.0,0.0,"110-kV-Kabel
+110-kV-
+Schaltanlage","vorgesehene 
+Maßnahme",2033,66.99408,"Reuterstraße, Reuterkiez, Neukölln, Berlin, 12047, Deutschland",52.4912623,13.4291345,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Zossenerstr., Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"110-kV-
+Schaltanlage","vorgesehene 
+Maßnahme",2033,6.992591,"Zossener Straße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10961, Deutschland",52.4910448,13.3942871,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Hakenfelde, Berlin ",MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",2.5,0.0,"10-kV-Kabel
+110-KV-SA
+10-kV-SA
+110/10-kV-
+T
+ransformatoren","vorgesehene 
+Maßnahme",2035,24.400197,"Hakenfelde, Spandau, Berlin, 13587, Deutschland",52.5609908,13.1967693,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",2.5,0.0,"10-kV-Kabel
+110-KV-SA
+10-kV-SA
+110/10-kV-
+T
+ransformatoren","vorgesehene 
+Maßnahme",2039,24.400197,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Fabeckstraße, Berlin ",NS,"Neubau
+10-kV-Kabel",4.3,0.0,"1-kV-Kabel
+Sek. Kabel",k.A.,2025,0.0,"Fabeckstraße, Dahlem, Steglitz-Zehlendorf, Berlin, Teltow, 14195, Deutschland",52.4575041,13.2887109,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Südkreuz, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",19.3,0.0,10-kV-Kabel,noch nicht,2026,3.720883,"Südkreuz (Ringbahn), 1, General-Pape-Straße, Tempelhof, Tempelhof-Schöneberg, Berlin, Teltow, 12101, Deutschland",52.4759806,13.3650726,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Netzoptimierung 
+und -verstärkung",0.0,0.0,"10-kV-SA
+10-kV-Trafo",k.A.,2027,3.951974,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+Schaltanlage,",0.0,0.0,Kabel,"vorgesehene 
+Maßnahme",2031,11.198143,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Marienfelde, Berlin ",k.A.,"Neubau
+110-kV Kabel",0.0,90.0,"Schutz- und 
+Leittechnik","vorgesehene 
+Maßnahme",2028,0.0,"Marienfelde, Bahnstraße, Marienfelde, Tempelhof-Schöneberg, Berlin, Teltow, 12277, Deutschland",52.4242122,13.3746844,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Arendsweg, Berlin ",k.A.,"Neubau
+110-kV Kabel",0.0,65.0,"Schutz- und 
+Leittechnik",k.A.,2026,0.0,"Arendsweg, Lichtenberg, Berlin, 13055, Deutschland",52.5348632,13.5055566,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+HS Schaltanlagen",0.0,126.0,"Schutz- und 
+Leittechnik","vorgesehene 
+Maßnahme",2027,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Nordhafen, Berlin ",k.A.,"Neubau
+HS Schaltanlagen",0.0,20.0,"Schutz- und 
+Leittechnik
+HS-Kabel","vorgesehene 
+Maßnahme",2028,0.0,"Nordhafen, Moabit, Mitte, Berlin, 13353, Deutschland",52.5367709,13.3636729,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+HS Schaltanlagen",0.0,0.0,Schutz- und,"vorgesehene 
+Maßnahme",2029,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+HS Schaltanlagen",0.0,50.0,Schutz- und,"vorgesehene 
+Maßnahme",2027,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Zepernickerstr., Berlin ",k.A.,"Neubau
+110-kV Kabel",0.0,105.0,"Schutz- und 
+Leittechnik","vorgesehene 
+Maßnahme",2029,0.0,"Zepernicker Straße, Buch III Nord, Buch, Pankow, Berlin, 13125, Deutschland",52.6386518,13.5075857,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Am Juliusturm, Berlin",k.A.,"Neubau
+110-kV Kabel",0.0,25.0,"Schutz- und 
+Leittechnik",HS,2025,0.0,"Am Juliusturm, Haselhorst, Spandau, Berlin, 13599, Deutschland",52.5384317,13.2103043,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+HS Schaltanlagen",0.0,100.0,"Schutz- und 
+Leittechnik","vorgesehene 
+Maßnahme",2027,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Klingenberg, Berlin ",k.A.,"Neubau
+110 kV-Kabel",70.0,0.0,"5,5","vorgesehene 
+Maßnahme",2029,0.0,"Klingenbergbrücke, Rummelsburg, Lichtenberg, Berlin, 10317, Deutschland",52.4867156,13.4972604,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Coswigerstr., Berlin ",k.A.,"Neubau
+HS-Kabel",1.5,80.0,"Schutz- und 
+Leittechnik",k.A.,2028,0.0,"Coswiger Straße, Marzahn, Marzahn-Hellersdorf, Berlin, 12681, Deutschland",52.5286709,13.5322809,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Motardstr., Berlin ",HS,"Neubau
+HS-Kabel",6.0,63.0,"HS Schaltanlagen
+Schutz- und 
+Leittechnik",k.A.,2028,0.0,"Motardstraße, Siemensstadt, Spandau, Berlin, 13629, Deutschland",52.5352518,13.2497963,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Nahmitzer Damm, Berlin ",HS,"Neubau
+HS-Kabel",8.2,90.0,"HS Schaltanlagen
+Schutz- und 
+Leittechnik","vorgesehene 
+Maßnahme",2030,0.0,"Nahmitzer Damm, Marienfelde, Tempelhof-Schöneberg, Berlin, Teltow, 12277, Deutschland",52.4107509,13.366074,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Klingenberg, Berlin ",k.A.,"Neubau
+HS Schaltanlagen",0.0,125.0,"Schutz- und 
+Leittechnik","vorgesehene 
+Maßnahme",2028,0.0,"Klingenbergbrücke, Rummelsburg, Lichtenberg, Berlin, 10317, Deutschland",52.4867156,13.4972604,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Alte Rhinstr., Berlin",HS,"Neubau
+HS Schaltanlagen",0.0,40.0,"Schutz- und 
+Leittechnik
+HS-Kabel","vorgesehene 
+Maßnahme",2028,0.0,"Alte Rhinstraße, Marzahn, Marzahn-Hellersdorf, Berlin, 12681, Deutschland",52.5339586,13.5198342,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Nalepastr., Berlin ",HS,"Neubau
+HS Schaltanlagen",0.0,25.0,"Schutz- und 
+Leittechnik
+HS-Kabel","vorgesehene 
+Maßnahme",2033,0.0,"Nalepastraße, Oberschöneweide, Treptow-Köpenick, Berlin, 12459, Deutschland",52.469512,13.5035617,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+HS Schutz- und",0.0,0.0,Leittechnik,"vorgesehene 
+Maßnahme",2026,1.023751,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Rhinstraße, Berlin ",k.A.,"Neubau
+HS Schaltanlagen",16.0,25.0,"Schutz- und 
+Leittechnik","vorgesehene 
+Maßnahme",2028,0.0,"Rhinstraße, Rosenfelder Ring, Friedrichsfelde, Lichtenberg, Berlin, 10315, Deutschland",52.5129,13.5182592,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Moabit, Berlin",k.A.,"Neubau
+HS Schaltanlagen",0.0,12.0,"Schutz- und 
+Leittechnik","vorgesehene 
+Maßnahme",2028,0.0,"Moabit, Mitte, Berlin, Deutschland",52.5301017,13.3425422,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Marzahn, Berlin ",k.A.,"Neubau
+HS Schaltanlagen",0.0,136.0,"Schutz- und 
+Leittechnik","vorgesehene 
+Maßnahme",2028,0.0,"Marzahn, Wiesenburger Weg, Marzahn, Marzahn-Hellersdorf, Berlin, 12681, Deutschland",52.5436548,13.5413545,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Niederschönhausen, Berlin ",k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"Schutz- und 
+Leittechnik","vorgesehene 
+Maßnahme",2029,11.739049,"Niederschönhausen, Pankow, Berlin, 13156, Deutschland",52.5858062,13.401397,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Dorfstr., Berlin ",k.A.,"Neubau
+HS-Kabelrohre",0.0,0.0,2,im Bau,2035,3.918018,"Dorfstraße, Malchow, Lichtenberg, Berlin, 13051, Deutschland",52.5778466,13.4832245,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Malchow, Berlin ",k.A.,"Neubau
+HS Schaltanlage",0.0,250.0,"Schutz- und 
+Lettechnik",im Bau,2028,23.866115,"Malchow, Lichtenberg, Berlin, Deutschland",52.5798667,13.4820928,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Kladow, Berlin ",HS,"ohne Erhöhung 
+der 
+Übertragungskap",8.0,0.0,110 kV-Kabel,"vorgesehene 
+Maßnahme",2030,11.340156,"Kladow, Spandau, Berlin, Teltow, 14089, Deutschland",52.4602925,13.1400517,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Zossenerstr., Berlin ",HS,"ohne Erhöhung 
+der 
+Übertragungskap",3.0,0.0,110 kV-Kabel,"vorgesehene 
+Maßnahme",2031,8.863408,"Zossener Straße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10961, Deutschland",52.4910448,13.3942871,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Kurt-
+Schumacher-
+Damm, Berlin ",k.A.,110 kV-Kabel,0.0,0.0,6,konkrete Planung ,2029,12.987767,"Kurt-Schumacher-Damm, Wedding, Mitte, Berlin, 13405, Deutschland",52.5612248,13.3262268,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap
+azität",10.0,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2034,18.736195,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap",2.9,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2033,6.273135,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap",3.1,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2031,5.777259,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap",2.1,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2029,4.13381,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Alt-Hohenschönhausen, Berlin",k.A.,HS + MS-,0.0,63.0,"Schaltanlage
+Schutz- und 
+Leittechnik","vorgesehene 
+Maßnahme",2030,0.0,"Alt-Hohenschönhausen, Lichtenberg, Berlin, Deutschland",52.5504091,13.5025491,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Boltonstr., Berlin ",k.A.,HS + MS-,0.0,63.0,"Schaltanlage
+Schutz- und 
+Leittechnik
+Eigenbedarf",konkrete Planung ,2029,46.896223,"Boltonstraße, Siemensstadt, Spandau, Berlin, 13599, Deutschland",52.5365133,13.2479292,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Boltonstr., Berlin ",k.A.,110 kV-Kabel,0.0,0.0,3,konkrete Planung ,2029,6.848838,"Boltonstraße, Siemensstadt, Spandau, Berlin, 13599, Deutschland",52.5365133,13.2479292,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"Leistungstransfor
+matoren","vorgesehene 
+Maßnahme",2031,10.954586,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Steglitz, Berlin",k.A.,110 kV-Kabel,0.0,0.0,30,"vorgesehene 
+Maßnahme",k.A.,0.0,"Steglitz, Steglitz-Zehlendorf, Berlin, Teltow, Deutschland",52.4572569,13.3222865,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Friedrichshain, Berlin ",k.A.,"Neubau
+HS-Schaltanlage",250.0,0.0,0,im Bau,2027,18.183754,"Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Deutschland",52.5122154,13.4502904,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap",12.0,0.0,110 kV-Kabel,k.A.,2028,10.153193,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,HS-Schaltanlage,0.0,0.0,"Schutz- und 
+Leittechnik
+Eigenbedarf","vorgesehene 
+Maßnahme",2031,29.951324,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Ersatz(neubau) 
+ohne Erhöhung",0.0,0.0,"HS-Schaltanlage
+Schutz- und","vorgesehene 
+Maßnahme",2035,72.547451,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Moabit, Berlin",k.A.,"Neubau
+HS-Schaltanlage",0.0,0.0,Schutz- und,"vorgesehene 
+Maßnahme",2037,0.0,"Moabit, Mitte, Berlin, Deutschland",52.5301017,13.3425422,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+HS-Schaltanlage",0.0,0.0,Schutz- und,"vorgesehene 
+Maßnahme",2039,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Rhinstraße, Berlin ",k.A.,"Neubau
+HS-Schaltanlage",0.0,0.0,"Schutz- und 
+Leittechnik
+Eigenbedarf","vorgesehene 
+Maßnahme",2039,0.0,"Rhinstraße, Rosenfelder Ring, Friedrichsfelde, Lichtenberg, Berlin, 10315, Deutschland",52.5129,13.5182592,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,110 kV-Kabel,0.0,0.0,"1,2","vorgesehene 
+Maßnahme",k.A.,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Neukölln, Berlin ",HS,"ohne Erhöhung 
+der 
+Übertragungskap",20.0,0.0,110 kV-Kabel,"vorgesehene 
+Maßnahme",2033,27.087844,"Neukölln, Berlin, Deutschland",52.4459669,13.4617649,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Lichterfelde, Berlin ",HS,"ohne Erhöhung 
+der 
+Übertragungskap",30.0,0.0,110 kV-Kabel,"vorgesehene 
+Maßnahme",2031,0.0,"Lichterfelde, Steglitz-Zehlendorf, Berlin, Teltow, Deutschland",52.437293,13.3138645,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Friedrichshain, Berlin ",k.A.,110 kV-Kabel,0.0,0.0,20,"vorgesehene 
+Maßnahme",k.A.,0.0,"Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Deutschland",52.5122154,13.4502904,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Wittenau, Berlin ",HS,"ohne Erhöhung 
+der 
+Übertragungskap",108.0,0.0,110 kV-Kabel,"vorgesehene 
+Maßnahme",2033,0.0,"Wittenau, Ilbeshäuser Weg, Wittenau, Reinickendorf, Berlin, 13435, Deutschland",52.597052,13.3342591,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Neukölln, Berlin ",HS,"ohne Erhöhung 
+der 
+Übertragungskap",14.0,0.0,110 kV-Kabel,"vorgesehene 
+Maßnahme",2034,10.298433,"Neukölln, Berlin, Deutschland",52.4459669,13.4617649,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Rudow, Berlin ",HS,"ohne Erhöhung 
+der 
+Übertragungskap",14.0,0.0,110 kV-Kabel,"vorgesehene 
+Maßnahme",2035,10.677888,"Rudow, Neuköllner Straße, Rudow, Neukölln, Berlin, 12355, Deutschland",52.41617,13.4953978,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Wuhlheide, Berlin ",k.A.,110 kV-Kabel,0.0,0.0,17,"vorgesehene 
+Maßnahme",k.A.,0.0,"Wuhlheide, Am Bahnhof Wuhlheide, Köpenick, Treptow-Köpenick, Berlin, 12555, Deutschland",52.4685507,13.5543359,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Bundesallee, Berlin ",HS,"ohne Erhöhung 
+der 
+Übertragungskap",24.0,0.0,110 kV-Kabel,"vorgesehene 
+Maßnahme",2039,3.110415,"Bundesallee, Wilmersdorf, Charlottenburg-Wilmersdorf, Berlin, 10715, Deutschland",52.485126,13.3308724,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Wittenau, Berlin ",HS,"ohne Erhöhung 
+der 
+Übertragungskap",20.0,0.0,110 kV-Kabel,"vorgesehene 
+Maßnahme",2036,7.882498,"Wittenau, Ilbeshäuser Weg, Wittenau, Reinickendorf, Berlin, 13435, Deutschland",52.597052,13.3342591,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Lindenstr., Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"HS-Schaltanlage
+Schutz- und 
+Leittechnik
+Eigenbedarf","vorgesehene 
+Maßnahme",2035,17.65676,"Lindenstraße, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10969, Deutschland",52.5037023,13.3958127,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Gallwitzallee, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"HS-Schaltanlage
+Schutz- und 
+Leittechnik
+Eigenbedarf","vorgesehene 
+Maßnahme",2042,1.403854,"Gallwitzallee, Lankwitz, Steglitz-Zehlendorf, Berlin, Teltow, 12249, Deutschland",52.4352523,13.3463643,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Rubensstraße, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"HS-Schaltanlage
+Schutz- und 
+Leittechnik
+Eigenbedarf","vorgesehene 
+Maßnahme",2035,1.403854,"Rubensstraße, Schöneberg, Tempelhof-Schöneberg, Berlin, 12159, Deutschland",52.4771208,13.3425829,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Sömmering, Berlin ",HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"HS-Schaltanlage
+Schutz- und 
+Leittechnik
+Eigenbedarf","vorgesehene 
+Maßnahme",2033,5.002683,"Sömmeringstraße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10589, Deutschland",52.5218028,13.3062534,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Friedrichshain, Berlin ",k.A.,110 kV-Kabel,0.0,0.0,6,"vorgesehene 
+Maßnahme",k.A.,0.0,"Friedrichshain, Friedrichshain-Kreuzberg, Berlin, Deutschland",52.5122154,13.4502904,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Ringstr., Berlin ",HS,"ohne Erhöhung 
+der 
+Übertragungskap",3.0,0.0,110 kV-Kabel,"vorgesehene 
+Maßnahme",2032,6.845651,"Ringstraße, Lichterfelde West, Lichterfelde, Steglitz-Zehlendorf, Berlin, Teltow, 12203, Deutschland",52.4399998,13.3007243,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.4,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2030,4.024266,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap",8.2,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2036,7.637555,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"ohne Erhöhung 
+der 
+Übertragungskap",2.1,0.0,110-kV-Kabel,"vorgesehene 
+Maßnahme",2035,4.362929,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"HS-Schaltanlage
+0","vorgesehene 
+Maßnahme",2027,16.094271,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"HS-Schaltanlage
+0","vorgesehene 
+Maßnahme",2028,16.313185,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"HS-Schaltanlage
+0","vorgesehene 
+Maßnahme",2031,16.989827,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"HS-Schaltanlage
+0","vorgesehene 
+Maßnahme",2032,17.558007,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",0.0,0.0,"HS-Schaltanlage
+0","vorgesehene 
+Maßnahme",2033,17.558007,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"HS-Schaltanlage
+0","vorgesehene 
+Maßnahme",2034,4.853854,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,10-kV-Kabel,0.0,0.0,1,"vorgesehene 
+Maßnahme",2026,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,10-kV Kabel,0.0,0.0,1,k.A.,k.A.,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Forckenbeckstraße, Berlin ",k.A.,10-kV Kabel,0.0,0.0,1,k.A.,k.A.,0.0,"Forckenbeckstraße, Schmargendorf, Charlottenburg-Wilmersdorf, Berlin, 14199, Deutschland",52.4800499,13.3037043,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Gendarmenmarkt, Berlin ",k.A.,1-kV Kabel,0.0,0.0,"0,5",k.A.,2022,0.0,"Gendarmenmarkt, Friedrichswerder, Mitte, Berlin, 10117, Deutschland",52.5135698,13.392297,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Marienpark, Berlin ",k.A.,"Neubau
+10-kV Kabel",0.0,0.0,6,k.A.,2025,0.0,"Marienpark, Mariendorf, Tempelhof-Schöneberg, Berlin, Teltow, 12107, Deutschland",52.4386615,13.3694837,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+10-kV Kabel",0.0,0.0,6,"vorgesehene 
+Maßnahme",2026,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+10-kV Kabel",0.0,0.0,6,"vorgesehene 
+Maßnahme",2026,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+10-kV Kabel",0.0,0.0,1,"vorgesehene 
+Maßnahme",2027,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+10-kV Kabel",0.0,0.0,6,"vorgesehene 
+Maßnahme",2027,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+10-kV Kabel",0.0,0.0,6,"vorgesehene 
+Maßnahme",2028,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+10-kV Kabel",0.0,0.0,6,"vorgesehene 
+Maßnahme",2029,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+10-kV Kabel",0.0,0.0,6,"vorgesehene 
+Maßnahme",2027,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+10-kV Kabel",0.0,0.0,6,"vorgesehene 
+Maßnahme",2028,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"ohne Erhöhung 
+der",0.0,0.0,"MS-Station
+MS-Schaltanlage","vorgesehene 
+Maßnahme",2030,5.70336,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"mit Erhöhung der 
+Übertragungskap",1.2,0.0,10-kV-Kabel,k.A.,2024,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Lindenbergerstr., Berlin ",MS,"Ersatz(neubau) 
+mit Erhöhung der 
+Übertragungskap
+azität",20.0,10.0,"10-Kv Kabel; 1-
+kV Kabel; LWL",k.A.,2023,0.0,"Lindenberger Straße, Wartenberg, Lichtenberg, Berlin, 13059, Deutschland",52.5787333,13.5197363,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Beusselstr., Berlin ",k.A.,10-kV-Kabel,0.0,0.0,1,"vorgesehene 
+Maßnahme",2025,0.0,"Beusselstraße, Westhafenstraße, Westhafen, Moabit, Mitte, Berlin, 10553, Deutschland",52.5344077,13.3293873,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Alt-Hohenschönhausen, Berlin",k.A.,"Neubau
+10-kV-Kabel",0.0,0.0,32,"vorgesehene 
+Maßnahme",2032,8.025378,"Alt-Hohenschönhausen, Lichtenberg, Berlin, Deutschland",52.5504091,13.5025491,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Boltonstr., Berlin ",k.A.,MS-Kabel,0.0,0.0,10,"vorgesehene 
+Maßnahme",2031,0.0,"Boltonstraße, Siemensstadt, Spandau, Berlin, 13599, Deutschland",52.5365133,13.2479292,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Hessenwinkel, Berlin",k.A.,"Neubau
+10-kV-Kabel",0.0,0.0,21,k.A.,2024,0.0,"Hessenwinkel, Rahnsdorf, Treptow-Köpenick, Berlin, 12589, Deutschland",52.423057,13.7228907,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Baldersheimer Weg, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",32.0,0.0,10-kV-Kabel,"vorgesehene 
+Maßnahme",2030,1.783436,"Baldersheimer Weg, Buckow, Neukölln, Berlin, Teltow, 12349, Deutschland",52.4140323,13.410687,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Richardstr., Berlin ",MS,"Netzoptimierung 
+und -verstärkung",32.0,0.0,10-kV-Kabel,"vorgesehene 
+Maßnahme",2030,1.783436,"Richardstraße, Richardkiez, Neukölln, Berlin, 12055, Deutschland",52.4727934,13.4457108,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Jägerstraße, Berlin ",MS,"Netzoptimierung 
+und -verstärkung",32.0,0.0,10-kV-Kabel,"vorgesehene 
+Maßnahme",2031,1.807188,"Jägerstraße, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",52.513768,13.3875957,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+10-kV-Kabel",0.0,0.0,15,k.A.,2023,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Richardstr., Berlin ",MS,"Netzoptimierung 
+und -verstärkung",32.0,0.0,"10-kV-Kabel
+1-kV-Kabel","vorgesehene 
+Maßnahme",2028,6.155459,"Richardstraße, Richardkiez, Neukölln, Berlin, 12055, Deutschland",52.4727934,13.4457108,True
+Stromnetz Berlin GmbH ,Ost,Berlin,"Siemensstadt, Berlin ",k.A.,"Neubau
+10-kV-Kabel",0.0,0.0,16,"vorgesehene 
+Maßnahme",2025,0.0,"Siemensstadt, Spandau, Berlin, 13629, Deutschland",52.5398082,13.2568934,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+10-kV Kabel",0.0,0.0,4,"vorgesehene 
+Maßnahme",2026,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+10-kV Kabel",0.0,0.0,4,"vorgesehene 
+Maßnahme",2028,0.0,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Netzoptimierung 
+und -verstärkung",54.5,25.2,"10-kV Kabel, 1-
+kV Kabel, 
+Netzstationen","vorgesehene 
+Maßnahme",2030,44.929253,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Netzoptimierung 
+und -verstärkung",54.5,25.2,"10-kV Kabel, 1-
+kV Kabel, 
+Netzstationen","vorgesehene 
+Maßnahme",2031,45.541692,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+HS + MS-",0.0,0.0,"Schaltanlage
+Schutz- und 
+Leittechnik
+Eigenbedarf
+110/10-kV-","vorgesehene 
+Maßnahme",2036,25.417232,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Neubau
+Schaltanlage,",0.5,0.0,Kabel,"vorgesehene 
+Maßnahme",2032,11.366115,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS/MS,"Netzoptimierung 
+und -verstärkung",0.0,0.0,"HS + MS 
+Schaltanalage",im Bau,2026,29.215369,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,k.A.,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap",0.0,0.0,"Schutz- und 
+Leittechnik","vorgesehene 
+Maßnahme",2034,11.908946,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"Ersatz(neubau) 
+ohne Erhöhung 
+der 
+Übertragungskap
+azität",2.5,0.0,"10-kV-Kabel
+HS + MS-
+Schaltanlage, 
+Schutz- und 
+Leittechnik,","vorgesehene 
+Maßnahme",2038,37.476715,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,HS,"Ersatz(neubau) 
+ohne Erhöhung 
+der",0.0,0.0,"HS-Schaltanlage
+","vorgesehene 
+Maßnahme",2032,6.898119,"Berlin, Deutschland",52.510885,13.3989367,True
+Stromnetz Berlin GmbH ,Ost,Berlin,k.A.,MS,"mit Erhöhung der 
+Übertragungskap
+azität",5.0,0.0,10-kV Kabel,k.A.,2028,1.388652,"Berlin, Deutschland",52.510885,13.3989367,True

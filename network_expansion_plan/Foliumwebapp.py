@@ -290,7 +290,7 @@ def geocode_and_map(
 # Zeitmessung, Ausführung der Hauptfunktion und Eingabe Dateipfad
 if __name__ == "__main__":
     start = time.time()
-    geocode_and_map("Bsp.: /Users/user/PycharmProjects/PythonProject/geokodiert_gesamt.xlsx")
+    geocode_and_map("Bsp.: /Users/user/PycharmProjects/PythonProject/geokodiert_zugestimmt.xlsx")
     end = time.time()
     mins, secs = divmod(int(end - start), 60)
     print(f"⏱️ Laufzeit: {mins:02d}:{secs:02d} Minuten:Sekunden")

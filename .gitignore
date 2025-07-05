@@ -192,3 +192,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# ... (vorherige Einträge)
+
+# Eigene CSV-Dateien ignorieren
+vnb_csv/*.csv

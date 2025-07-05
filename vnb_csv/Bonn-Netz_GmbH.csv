@@ -1,7 +1,0 @@
-VNB-Name,Teilnetzgebiet,Bundesland,Ort / Trasse,Netzebene,Art der Maßnahme,Leitungslänge in km,Übertragungskapazität in MVA,"Netzkomponenten (z.B. UW,Trafo ;Anzahl/Typ)",Projektstatus,Zeithorizont,Kosten in Mio.€,location,latitude,longitude,passt
-Bonn-Netz GmbH,West,Nordrhein-Westfalen,k.A.,k.A.,Neubau Leitungen,98.6,0.0,k.A.,k.A.,2028,36.6,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
-Bonn-Netz GmbH,West,Nordrhein-Westfalen,k.A.,k.A.,Neubau UW,0.0,0.0,92 Stk.,k.A.,2028,6.4,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
-Bonn-Netz GmbH,West,Nordrhein-Westfalen,k.A.,k.A.,Neubau Leitungen,48.0,0.0,k.A.,k.A.,2033,16.8,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
-Bonn-Netz GmbH,West,Nordrhein-Westfalen,k.A.,k.A.,Neubau UW,0.0,0.0,125 Stk.,k.A.,2033,9.4,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
-Bonn-Netz GmbH,West,Nordrhein-Westfalen,k.A.,k.A.,Neubau Leitungen,120.0,0.0,k.A.,k.A.,2045,41.9,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True
-Bonn-Netz GmbH,West,Nordrhein-Westfalen,k.A.,k.A.,Neubau UW,0.0,0.0,304 Stk.,k.A.,2045,35.0,"Nordrhein-Westfalen, Deutschland",51.4789205,7.5543751,True

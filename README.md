@@ -10,6 +10,15 @@
 Legen Sie die GeoJSON- und Excel-Datei (z.&nbsp;B. `geokodiert_zugestimmt.xlsx`) lokal im Projektverzeichnis ab.  
 *Place the GeoJSON and Excel file (e.g. `geokodiert_zugestimmt.xlsx`) locally in the project directory.*
 
+## Enthaltene Daten
+### Included Data
+Dieses Repository enthält die Datei / This repository includes the file:
+- `data/geokodiert_zugestimmt.xlsx`
+
+Diese Datei enthält aggregierte Netz-Ausbaudaten für Deutschland. /  This file contains aggregated data on network expansion projects in Germany.
+
+
+
 ### Foliumwebapp.py  
 Startet die Geokodierung der Tabelle im vorgegebenen Format und erzeugt die Dateien `output_fail` und `output_geokodiert`.  
 Aus `output_geokodiert` werden interaktive Karten mit Layern und einer Download-Option erstellt.  

@@ -115,11 +115,13 @@ Erzeugung von Balkendiagrammen, Tree Map und Tabellen
 ### Troubleshooting  
 
 * **Geokodierung schlägt fehl:** Prüfe Internetverbindung, Tabellenformat, Pfad zum Projektverzeichnis und installierte Abhängigkeiten.  
-  * **Geocoding fails:** Check internet connection, table format, project-directory path and installed dependencies.*
+  * **Geocoding fails:** Check internet connection, table format, project-directory path and installed dependencies.
 
 * **Karten werden nicht angezeigt:** Stelle sicher, dass alle Abhängigkeiten installiert sind und die GeoJSON-Datei vorhanden ist.  
-  * **Maps are not displayed:** Ensure all dependencies are installed and the GeoJSON file exists.*
+  * **Maps are not displayed:** Ensure all dependencies are installed and the GeoJSON file exists.
 
+    * **Hinweise zu Clustern:** Es gibt momentan noch Probleme bei der Clusterbildung, da mehrere Clusterlogiken gleichzeitig aktiv sind. Dies beeinträchtigt aber nicht die CSV-Ausgabe   
+      * **Notes on clusters:** There are currently issues with cluster formation, as multiple clustering logics are active at the same time. But there is no affect on the CSV-output file
 ---
 
 ## Beitrag leisten  

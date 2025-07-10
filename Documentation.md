@@ -174,7 +174,7 @@ Additionally, the displayed datasets can be grouped by DSO and exported as a CSV
 
 **DE:**  
 Das Skript `FWA_Plots.py` generiert einfache Diagramme und statistische Auswertungen auf Basis derselben Eingabedatei.  
-Zu beachten ist, dass lediglich rund 65% der veröffentlichungspflichtigen VNB in der Datei enthalten sind.  
+Zu beachten ist, dass nur 24 der 86 veröffentlichungspflichtigen VNB in der Datei enthalten sind.  
 Die übrigen Daten könnten jedoch theoretisch mittels KI oder anderer Programme ergänzt werden, 
 um eine vollständigere Übersicht zu ermöglichen für nicht-öffentliche Zwecke.
 

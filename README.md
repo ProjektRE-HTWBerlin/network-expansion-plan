@@ -14,6 +14,9 @@ Legen Sie die GeoJSON- und Excel-Datei (z.&nbsp;B. `geokodiert_zugestimmt.xlsx`)
 ### Included Data
 Dieses Repository enthält die Datei / This repository includes the file:
 - `data/geokodiert_zugestimmt.xlsx`
+- https://projektre-htwberlin.github.io/network-expansion-plan/interaktive_karte_kosten.html
+- https://projektre-htwberlin.github.io/network-expansion-plan/interaktive_karte_uebertragung.html
+- https://projektre-htwberlin.github.io/network-expansion-plan/interaktive_karte_leitung.html
 
 Diese Datei enthält aggregierte Netz-Ausbaudaten für Deutschland. /  This file contains aggregated data on network expansion projects in Germany.
 
